@@ -167,7 +167,7 @@ We would like to thank the following contributors who have helped make this proj
 
 - **Mostafa Dawi** – _Building Data Pipelines, Back-end & Front-end_ – [GitHub Profile Link](https://github.com/MostafaDawi)
 - **Amanda Makdessi** – _Data Scraping & Cleaning_ – [GitHub Profile Link](https://github.com/amandamakdessi)
-- **Yusuf Mazloum** – _Insights Extraction & Data Scraping_ – [GitHub Profile Link](https://github.com/Yusf4)
+- **Youssef Mazloum** – _Insights Extraction & Data Scraping_ – [GitHub Profile Link](https://github.com/Yusf4)
 - **Mohammad Rahal** – _Data Scraping & ML models training_
 
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request!
