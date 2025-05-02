@@ -102,8 +102,13 @@ real-estate-dashboard/
 ├── backend/                   # Backend-related files
 │   ├── .venv/                 # Virtual environment folder (inside backend)
 │   ├── server.py              # Backend entry point (Quart app)
+│   ├── db_connect.py          # Connect to Database
+│   ├── load_data.py           # Load cleaned data logic
+│   ├── server.py              # Backend entry point (Quart app)
 │   ├── scraping/              # Web scraping logic
 │   ├── sorting/               # Data sorting and cleaning logic
+│   ├── models/                # Stored ML models
+│   ├── routes/                # Routes logic
 │   ├── .env                   # Environment variables (Supabase URL & Key)
 │   └── requirements.txt       # Python dependencies
 ├── src/                       # Frontend-related files (React + Vite)
