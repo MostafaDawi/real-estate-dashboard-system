@@ -19,7 +19,7 @@ dis_enc = joblib.load(dis_enc_path)
 prov_enc = joblib.load(prov_enc_path)
 type_enc = joblib.load(type_enc_path)
 
-@ml_routes.route("/predict_transaction", methods=["GET","POST"])
+@ml_routes.route("/api/predict_transaction", methods=["GET","POST"])
 async def predict_trans():
     """API endpoint for making predictions."""
     try:
@@ -42,7 +42,7 @@ async def predict_trans():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
     
-@ml_routes.route("/predict_property", methods=["POST"])
+@ml_routes.route("/api/predict_property", methods=["POST"])
 async def predict_prop():
     """API endpoint for making predictions."""
     try:
