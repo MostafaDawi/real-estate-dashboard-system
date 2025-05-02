@@ -39,7 +39,7 @@ async def establish_connection():
         
 #     print("Data inserted successfully!")
 
-# async def insert_district_from_csv():
+# async def insert_city_from_csv():
 #     data = None
 #     for i in range(len(df["City"])):
 #         object = { "city": df["City"][i],
@@ -56,7 +56,7 @@ async def establish_connection():
 #             return
 #     print("Inserted Data Successfully!")
 
-# async def insert_city_from_csv():
+# async def insert_district_from_csv():
 #     data = None
 #     for i in range(len(df["District"])):
 #         object = { "city": df["District"][i],
@@ -119,7 +119,10 @@ async def establish_connection():
 
 # async def main():
 #     print("Main function is running")
+#
+#     # Load the data into tables as needed
 #     results = await asyncio.gather(establish_connection(), insert_province_from_csv())
+#
 #     print("Main function is done")
 #     print(results)
 
