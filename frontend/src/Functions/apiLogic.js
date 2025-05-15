@@ -10,8 +10,8 @@ const fetchData = async (endpoint, used_method = "GET") => {
     });
 
     const data = await res.json();
-    if (!res.ok) {
-      throw new Error(res.error.message || "Something went wrong");
+    if (!data) {
+      throw new Error(data?.message || "Something went wrong");
     }
 
     return data;
@@ -33,7 +33,7 @@ export const postData = async ({ endpoint, data = {} }) => {
     const result = await res.json();
     if (!result) {
       console.log("Response", result);
-      throw new Error(result.error.message || "Something went wrong");
+      throw new Error(result?.error.message || "Something went wrong");
     }
 
     return result;

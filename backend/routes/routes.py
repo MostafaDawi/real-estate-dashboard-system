@@ -19,7 +19,7 @@ async def transactions():
 
 # GET Aggregated Values (Max, Min prices and Sum of listings)
 @main_routes.route("/agg_values", methods=["GET"])
-async def get_max_prices():
+async def get_agg_values():
     supabase = await create_supabase()
 
     try:
@@ -27,8 +27,6 @@ async def get_max_prices():
         res_min = await supabase.from_("district_prices").select("district, min_price_$").order("min_price_$", desc=False).limit(1).execute()
         res_sum = await supabase.from_("district_prices").select("listings_count.sum()").execute()
         high_tran = await supabase.from_("transactions").select("city, transaction_number.sum()").order("city", desc=False).execute()
-        
-        print(res_max.data[0]["max_price_$"], res_min.data[0]["min_price_$"], high_tran.data[0])
 
         return jsonify({"max": "Max Price", "max_num": res_max.data[0]["max_price_$"], "region_max": res_max.data[0]["district"],
                         "min": "Min Price", "min_num": res_min.data[0]["min_price_$"], "region_min": res_min.data[0]["district"],

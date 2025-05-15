@@ -17,7 +17,6 @@ import PriceM2 from "../../Components/PriceM2";
 import ListsByTypes from "../../Components/ListsByTypes";
 import { BiLayout } from "react-icons/bi";
 import ScatterComp from "../../Components/Scatter";
-import LineChartComponent from "../../Components/LineChart/LineChartComponent";
 import LineC from "../../Components/LineC";
 
 function Dashboard() {
@@ -39,6 +38,8 @@ function Dashboard() {
     error: error_agg,
     isLoading: isLoading_agg,
   } = useAggValues();
+
+  console.log("Aggreggated values are: ", agg_values);
 
   const {
     data: areas,
