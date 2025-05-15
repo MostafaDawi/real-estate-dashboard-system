@@ -1,10 +1,11 @@
+from pathlib import Path
 import pandas as pd
 from geopy.geocoders import Nominatim
 from geopy.exc import GeocoderTimedOut
 
-file1 = "./scraping/realestate/clean_data/cleanrealestatebuy.csv"
-file2 = "./scraping/jsk/clean_data/cleanjskbuy.csv"
-file3 = "./sorting/dcoord.csv"
+file1 = Path(__file__).resolve().parents[3]/"scraping"/"realestate"/"clean_data"/"cleanrealestatebuy.csv"
+file2 = Path(__file__).resolve().parents[3]/"scraping"/"jsk"/"clean_data"/"cleanjskbuy.csv"
+file3 = Path(__file__).resolve().parents[2]/"dcoord.csv"
 
 df1 = pd.read_csv(file1)
 df2 = pd.read_csv(file2)
@@ -49,17 +50,18 @@ city.columns = ["City", "Avg Price $", "Median Price $", "Max Price $", "Min Pri
 city[["Avg Price $", "Median Price $", "Max Price $", "Min Price $", "Listings Count"]] = city[["Avg Price $", "Median Price $", "Max Price $", "Min Price $", "Listings Count"]].astype(int)
 
 # Create Properties csv data with details
-properties_data_jsk = df[["City", "District", "Province", "Type", "Size m²", "Bedrooms","Bathrooms", "Price $"]]
+properties_data_jsk = df[["City", "District", "Province", "Type", "Size m2", "Bedrooms","Bathrooms", "Price $"]]
 properties_data_jsk = pd.merge(properties_data_jsk, df3, on="District", how="inner")
-properties_data_jsk.columns = ["City", "District", "Province", "Type", "Size m²", "Bedrooms","Bathrooms", "Price $", "Latitude", "Longitude"]
+properties_data_jsk.columns = ["City", "District", "Province", "Type", "Size m2", "Bedrooms","Bathrooms", "Price $", "Latitude", "Longitude"]
 properties_data_jsk = properties_data_jsk.dropna(subset=["Type"])
 properties_data_jsk["Bedrooms"] = properties_data_jsk["Bedrooms"].fillna(0).astype(int)
+properties_data_jsk["Size m2"] = properties_data_jsk["Size m2"].fillna(0).astype(int)
 properties_data_jsk["Bathrooms"] = properties_data_jsk["Bathrooms"].fillna(0).astype(int)
 
 # Export into csv files ready to be used
-province_summary.to_csv("./sorting/buy/sorted_data/province_buysummary.csv", index=False)
-district_summary.to_csv("./sorting/buy/sorted_data/district_buysummary.csv", index=False)
-city.to_csv("./sorting/buy/sorted_data/city_buysummary.csv", index=False)
-properties_data_jsk.to_csv("./sorting/buy/sorted_data/properties_jsk.csv", index=False)
+province_summary.to_csv(Path(__file__).resolve().parents[1]/"sorted_data"/"province_buysummary.csv", index=False)
+district_summary.to_csv(Path(__file__).resolve().parents[1]/"sorted_data"/"district_buysummary.csv", index=False)
+city.to_csv(Path(__file__).resolve().parents[1]/"sorted_data"/"city_buysummary.csv", index=False)
+properties_data_jsk.to_csv(Path(__file__).resolve().parents[1]/"sorted_data"/"properties_jsk.csv", index=False)
 
 print("Sorting complete.")

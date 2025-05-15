@@ -54,7 +54,7 @@ export const Ask_AI = () => {
     // Wait for state to update
     setTimeout(() => {
       setPredPropMsg(
-        (prev) => `Predicted property price: $${data?.prediction.toFixed(1)}`
+        (prev) => `Predicted property price: $${data?.prediction.toFixed(0)}`
       );
     }, 0); // This ensures it happens AFTER state updates
 
@@ -297,10 +297,10 @@ export const Ask_AI = () => {
                     style={{ height: "25px" }}
                   />
                 </div>
-                <p>
+                {/* <p>
                   {formDataTran.Year}, {formDataTran.Month}, {formDataTran.City}
                   , {formDataTran.Transaction_Number}
-                </p>
+                </p> */}
                 <button type="submit" value="Predict Price">
                   {isPendingTran ? "Submitting.." : "Predict Price"}
                 </button>
