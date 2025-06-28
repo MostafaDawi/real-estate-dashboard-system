@@ -2,12 +2,21 @@
   flex: 1 0;
   width: 100%;
   background-color: var(--background-soft-white);
-  padding: 8px 0;
+  padding: 28px 0;
   display: flex;
   flex-direction: column;
   position: relative;
   transition: flex-basis 0.3s ease;
 }
+
+.electron {
+  padding: 36px 0 10px 0;
+}
+
+.no-electron {
+  padding: 10px 0;
+}
+
 .dashboard-content {
   width: 100%;
   display: flex;

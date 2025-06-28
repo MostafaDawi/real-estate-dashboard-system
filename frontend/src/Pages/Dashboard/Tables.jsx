@@ -10,7 +10,7 @@ import {
   useTypeNums,
 } from "../../Functions/apiLogic";
 
-export const Tables = () => {
+export const Tables = ({ isElectron = false }) => {
   const {
     data: lists_type,
     error: error_type,
@@ -42,7 +42,9 @@ export const Tables = () => {
   } = useTransaction();
 
   return (
-    <div className="dashboard-layout">
+    <div
+      className={`dashboard-layout ${isElectron ? "electron" : "no-electron"}`}
+    >
       <div className="dashboard-content">
         <div className="title">
           <h1>Tables</h1>

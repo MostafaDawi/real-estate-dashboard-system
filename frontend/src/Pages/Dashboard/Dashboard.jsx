@@ -19,7 +19,7 @@ import { BiLayout } from "react-icons/bi";
 import ScatterComp from "../../Components/Scatter";
 import LineC from "../../Components/LineC";
 
-function Dashboard() {
+function Dashboard({ isElectron = false }) {
   const [gridValue, setGridValue] = useState(0);
   const {
     data: province,
@@ -72,7 +72,9 @@ function Dashboard() {
   };
 
   return (
-    <div className="dashboard-layout">
+    <div
+      className={`dashboard-layout ${isElectron ? "electron" : "no-electron"}`}
+    >
       <div className="dashboard-content">
         <div className="title">
           <h1>Dashboard</h1>

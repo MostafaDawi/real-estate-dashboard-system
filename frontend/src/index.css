@@ -29,6 +29,7 @@ html {
   padding: 0;
   color: var(--primary-deep-blue);
   font-family: Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  /* -webkit-app-region: drag; */
 }
 
 #root {

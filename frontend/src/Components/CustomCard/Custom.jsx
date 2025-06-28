@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./Custom.css";
+import cardImg from "/images/2.png";
 
 function Custom({
   title,
@@ -21,7 +22,7 @@ function Custom({
             {Component ? (
               <Component data={data} />
             ) : (
-              <img src="../src/images/2.png" alt="chart.png" />
+              <img src={cardImg} alt="chart.png" />
             )}
           </div>
         </div>

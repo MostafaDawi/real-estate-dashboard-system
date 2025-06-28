@@ -2,15 +2,34 @@
   "name": "real-estate",
   "private": true,
   "version": "0.0.0",
+  "icon": "electron/realestate.ico",
   "type": "module",
+  "main": "electron/main.js",
+  "build": {
+    "appId": "com.realestate.app",
+    "productName": "RealEstateApp",
+    "files": [
+      "dist/**/*",
+      "electron/**/*"
+    ],
+    "icon": "assets/realestate.ico",
+    "directories": {
+      "buildResources": "assets"
+    },
+    "asar": true
+  },
   "scripts": {
-    "dev": "vite",
+    "dev": "concurrently \"vite\" \"cross-env VITE_IS_ELECTRON=true electron .\"",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "electron": "cross-env VITE_IS_ELECTRON=true electron .",
+    "pack": "vite build && electron-builder --dir",
+    "dist": "vite build && electron-builder",
+    "preview": "vite preview",
+    "lint": "eslint ."
   },
   "dependencies": {
     "@tanstack/react-query": "^5.66.3",
+    "dotenv": "^17.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-icons": "^5.4.0",
@@ -23,6 +42,10 @@
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
     "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.2.0",
+    "cross-env": "^7.0.3",
+    "electron": "^37.1.0",
+    "electron-builder": "^26.0.12",
     "eslint": "^9.17.0",
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.0.0",
