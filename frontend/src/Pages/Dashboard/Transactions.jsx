@@ -8,7 +8,7 @@ import LineChartComponent from "../../Components/LineChart/LineChartComponent";
 import Table from "../../Components/Table/Table";
 import { useTransaction } from "../../Functions/apiLogic";
 
-export const Transactions = () => {
+export const Transactions = ({ isElectron = false }) => {
   const {
     data: tran,
     error: error_tran,
@@ -17,7 +17,9 @@ export const Transactions = () => {
   console.log(tran);
 
   return (
-    <div className="dashboard-layout">
+    <div
+      className={`dashboard-layout ${isElectron ? "electron" : "no-electron"}`}
+    >
       <div className="dashboard-content">
         <div className="title">
           <h1>Transactions</h1>

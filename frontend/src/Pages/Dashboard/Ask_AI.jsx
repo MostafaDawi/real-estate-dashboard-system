@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./Page_Layout.css";
 import { usePredict } from "../../Functions/apiLogic";
 
-export const Ask_AI = () => {
+export const Ask_AI = ({ isElectron = false }) => {
   const initialTransState = {
     Year: "",
     Month: "",
@@ -139,7 +139,9 @@ export const Ask_AI = () => {
     }
   };
   return (
-    <div className="dashboard-layout">
+    <div
+      className={`dashboard-layout ${isElectron ? "electron" : "no-electron"}`}
+    >
       <div className="dashboard-content">
         <div className="title">
           <h1>Ask AI</h1>

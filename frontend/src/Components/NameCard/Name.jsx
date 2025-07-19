@@ -1,11 +1,12 @@
 import React from "react";
 import "./Name.css";
+import titleImg from "/images/1.jpg";
 
 function Name({ isMinimized = false }) {
   return (
     <ul className={`name ${isMinimized ? "minimized" : ""}`}>
       <li>
-        <img src="../src/images/1.jpg" alt="avatar.png" />
+        <img src={titleImg} alt="avatar.png" />
       </li>
       {isMinimized ? (
         ""

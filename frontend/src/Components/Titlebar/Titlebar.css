@@ -1,0 +1,41 @@
+.titlebar {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 100%;
+  -webkit-app-region: drag;
+  height: 20px;
+  background-color: transparent;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  margin: 0;
+  user-select: none;
+  z-index: 1000;
+}
+
+.controls {
+  padding: 0px;
+}
+
+.controls button {
+  -webkit-app-region: no-drag;
+  background: transparent;
+  border: none;
+  color: white;
+  font-size: 24px;
+  margin-left: 10px;
+  cursor: pointer;
+  padding: 4px 8px;
+}
+
+.controls button:hover {
+  background: #333;
+}
+
+.controls button:last-child:hover {
+  background-color: #ea3427;
+}
+
+/* #ea2737 */
