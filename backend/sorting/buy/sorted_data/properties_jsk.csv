@@ -1,49 +1,366 @@
 City,District,Province,Type,Size m2,Bedrooms,Bathrooms,Price $,Latitude,Longitude
+Koura,Koura,North,Apartment,270,3,3,150000,34.3294,35.7931
+Hboub,Jbeil,Mount Lebanon,Apartment,175,3,3,192000,34.1236,35.6455
+Hboub,Jbeil,Mount Lebanon,Apartment,112,2,2,123000,34.1236,35.6455
+Halat,Jbeil,Mount Lebanon,House/Villa,437,2,6,3700000,34.1236,35.6455
+Qortada,El Metn,Mount Lebanon,Land,530,0,0,215000,33.9006,35.6178
+Mansourieh,El Metn,Mount Lebanon,Apartment,195,3,3,250000,33.9006,35.6178
+Mansourieh,El Metn,Mount Lebanon,Apartment,190,3,3,200000,33.9006,35.6178
+Fanar,El Metn,Mount Lebanon,Apartment,400,4,4,450000,33.9006,35.6178
+Sawfar,Aley,Mount Lebanon,Apartment,140,2,3,85000,33.8056,35.5978
+Biyada,El Metn,Mount Lebanon,Apartment,240,3,3,650000,33.9006,35.6178
+Jal el Dib,El Metn,Mount Lebanon,Apartment,95,2,2,95000,33.9006,35.6178
+Jounieh,Kesrouane,Mount Lebanon,Office,140,3,0,275000,33.9808,35.6856
+Achrafieh,Beirut,Beirut,Apartment,300,3,3,1150000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Shop,386,2,0,1700000,33.8886,35.4955
+Kaslik,Kesrouane,Mount Lebanon,Office,110,2,0,265000,33.9808,35.6856
+kfarhbeib,Kesrouane,Mount Lebanon,Apartment,500,4,4,700000,33.9808,35.6856
+Ehden,Zgharta,North,Apartment,250,3,4,200000,34.3314,35.8958
+Achrafieh,Beirut,Beirut,Apartment,75,1,1,280000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Shop,22,1,0,70000,33.8886,35.4955
+Adonis,Kesrouane,Mount Lebanon,Shop,75,1,0,140000,33.9808,35.6856
+Achrafieh,Beirut,Beirut,Apartment,234,3,4,1170000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,117,2,2,363000,33.8886,35.4955
+Beit Meri,El Metn,Mount Lebanon,Apartment,223,3,4,500000,33.9006,35.6178
+Beit Meri,El Metn,Mount Lebanon,Apartment,350,4,6,720000,33.9006,35.6178
+Aatchane,El Metn,Mount Lebanon,Apartment,170,3,3,290000,33.9006,35.6178
+Jbeil,Jbeil,Mount Lebanon,Apartment,120,2,2,75000,34.1236,35.6455
+Dekweneh,El Metn,Mount Lebanon,Shop,120,1,0,180000,33.9006,35.6178
+Mar Mikhael,Beirut,Beirut,Apartment,113,2,2,475000,33.8886,35.4955
+Mar Mikhael,Beirut,Beirut,Apartment,113,2,2,430000,33.8886,35.4955
+Mansourieh,El Metn,Mount Lebanon,Shop,400,2,0,250000,33.9006,35.6178
+Aoukar,El Metn,Mount Lebanon,Apartment,230,3,4,990000,33.9006,35.6178
+Ehden,Zgharta,North,Apartment,142,3,0,156000,34.3314,35.8958
+Kfarzebian,Kesrouane,Mount Lebanon,Chalet,120,2,1,350000,33.9808,35.6856
+Ras Beirut,Beirut,Beirut,Apartment,240,3,2,550000,33.8886,35.4955
+Ras Beirut,Beirut,Beirut,Shop,80,1,0,95000,33.8886,35.4955
+Ain El Rihani,Kesrouane,Mount Lebanon,Apartment,220,3,3,184000,33.9808,35.6856
+Ain Saadeh,El Metn,Mount Lebanon,Apartment,250,4,5,625000,33.9006,35.6178
+Edde,Jbeil,Mount Lebanon,Apartment,170,3,3,155000,34.1236,35.6455
+Dbayeh,El Metn,Mount Lebanon,Apartment,412,4,4,900000,33.9006,35.6178
+Zouk Mikael,Kesrouane,Mount Lebanon,Apartment,125,2,2,140000,33.9808,35.6856
+kfarhbeib,Kesrouane,Mount Lebanon,Apartment,210,3,4,290000,33.9808,35.6856
+kfarhbeib,Kesrouane,Mount Lebanon,Apartment,208,3,4,310000,33.9808,35.6856
+kfarhbeib,Kesrouane,Mount Lebanon,Apartment,208,3,4,320000,33.9808,35.6856
+Hadath,Baabda,Mount Lebanon,Apartment,135,2,2,185000,33.8333,35.5442
+Hadath,Baabda,Mount Lebanon,Apartment,174,3,3,130000,33.8333,35.5442
+Halat,Jbeil,Mount Lebanon,Apartment,175,3,3,220000,34.1236,35.6455
+Halat,Jbeil,Mount Lebanon,Apartment,200,3,3,150000,34.1236,35.6455
+Halat,Jbeil,Mount Lebanon,Apartment,200,3,3,180000,34.1236,35.6455
+Halat,Jbeil,Mount Lebanon,Apartment,145,3,3,150000,34.1236,35.6455
+Hemlaya,El Metn,Mount Lebanon,Land,20,0,0,220000,33.9006,35.6178
+Bikfaya,El Metn,Mount Lebanon,Apartment,125,2,2,135000,33.9006,35.6178
+Baabdat,El Metn,Mount Lebanon,House/Villa,400,3,5,620000,33.9006,35.6178
+Jeita,Kesrouane,Mount Lebanon,Apartment,155,3,4,330000,33.9808,35.6856
+Beit Meri,El Metn,Mount Lebanon,Apartment,170,3,3,275000,33.9006,35.6178
+Achrafieh,Beirut,Beirut,Apartment,250,3,2,535000,33.8886,35.4955
+Jeita,Kesrouane,Mount Lebanon,Apartment,200,3,4,345000,33.9808,35.6856
+Jeita,Kesrouane,Mount Lebanon,Apartment,158,3,2,300000,33.9808,35.6856
+Jeita,Kesrouane,Mount Lebanon,Apartment,154,3,3,265000,33.9808,35.6856
+Hadath,Baabda,Mount Lebanon,Apartment,117,2,2,115000,33.8333,35.5442
+Achrafieh,Beirut,Beirut,Apartment,102,2,2,321000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,102,2,2,342000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,75,1,1,251000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,105,2,2,383000,33.8886,35.4955
+Baabda,Baabda,Mount Lebanon,Apartment,210,3,3,250000,33.8333,35.5442
+Mansourieh,El Metn,Mount Lebanon,Apartment,80,2,2,120000,33.9006,35.6178
+Achrafieh,Beirut,Beirut,Apartment,230,3,3,460000,33.8886,35.4955
+Halat,Jbeil,Mount Lebanon,Apartment,220,3,3,277000,34.1236,35.6455
+Halat,Jbeil,Mount Lebanon,Apartment,220,3,3,292000,34.1236,35.6455
+Halat,Jbeil,Mount Lebanon,Apartment,270,3,3,351000,34.1236,35.6455
+Halat,Jbeil,Mount Lebanon,Apartment,135,2,2,162000,34.1236,35.6455
+Halat,Jbeil,Mount Lebanon,Apartment,135,2,2,150000,34.1236,35.6455
+Mtayleb,El Metn,Mount Lebanon,Apartment,325,4,2,675000,33.9006,35.6178
+Bchamoun,Aley,Mount Lebanon,Apartment,110,2,2,160000,33.8056,35.5978
+Aamchit,Jbeil,Mount Lebanon,Apartment,145,3,2,95000,34.1236,35.6455
+Zouk Mosbeh,Kesrouane,Mount Lebanon,Chalet,80,2,1,470000,33.9808,35.6856
+Badaro,Beirut,Beirut,Shop,79,1,0,150000,33.8886,35.4955
+Down Town,Beirut,Beirut,Apartment,223,3,4,1561000,33.8886,35.4955
+Jbeil,Jbeil,Mount Lebanon,Apartment,40,1,1,65000,34.1236,35.6455
+Achrafieh,Beirut,Beirut,Apartment,130,2,2,350000,33.8886,35.4955
+Elissar,El Metn,Mount Lebanon,Apartment,300,4,4,390000,33.9006,35.6178
+Bsalim,El Metn,Mount Lebanon,Apartment,240,3,3,600000,33.9006,35.6178
+Down Town,Beirut,Beirut,Office,150,1,0,900000,33.8886,35.4955
+Jbeil,Jbeil,Mount Lebanon,Apartment,150,3,3,195000,34.1236,35.6455
+Braij,Jbeil,Mount Lebanon,Land,232,0,0,210000,34.1236,35.6455
+Zaarour,El Metn,Mount Lebanon,Land,740,0,0,80000,33.9006,35.6178
+Faytroun,Kesrouane,Mount Lebanon,Chalet,110,3,2,170000,33.9808,35.6856
+Bsalim,El Metn,Mount Lebanon,Apartment,380,3,5,1800000,33.9006,35.6178
+Badaro,Beirut,Beirut,Apartment,225,4,0,680000,33.8886,35.4955
+Sahel Alma,Kesrouane,Mount Lebanon,Apartment,185,3,4,351000,33.9808,35.6856
+Sahel Alma,Kesrouane,Mount Lebanon,Apartment,370,3,4,525000,33.9808,35.6856
+Jeita,Kesrouane,Mount Lebanon,Apartment,280,4,4,330000,33.9808,35.6856
+Jeita,Kesrouane,Mount Lebanon,Apartment,230,3,4,290000,33.9808,35.6856
+Jeita,Kesrouane,Mount Lebanon,Apartment,400,3,4,390000,33.9808,35.6856
+Jeita,Kesrouane,Mount Lebanon,Apartment,400,5,5,400000,33.9808,35.6856
+Ballouneh,Kesrouane,Mount Lebanon,Apartment,290,3,3,290000,33.9808,35.6856
+Achrafieh,Beirut,Beirut,Apartment,75,1,1,230000,33.8886,35.4955
+Hadath,Baabda,Mount Lebanon,Apartment,110,2,2,120000,33.8333,35.5442
+Ras El Metn,El Metn,Mount Lebanon,Land,300,0,0,175000,33.9006,35.6178
+Mansourieh,El Metn,Mount Lebanon,Apartment,150,3,2,148000,33.9006,35.6178
+Mansourieh,El Metn,Mount Lebanon,Apartment,125,2,2,169000,33.9006,35.6178
+Halat,Jbeil,Mount Lebanon,Apartment,104,2,2,130000,34.1236,35.6455
+Halat,Jbeil,Mount Lebanon,Apartment,143,3,3,178000,34.1236,35.6455
+Halat,Jbeil,Mount Lebanon,Apartment,68,1,1,85000,34.1236,35.6455
+Ballouneh,Kesrouane,Mount Lebanon,Apartment,212,3,4,360000,33.9808,35.6856
+Naccache,El Metn,Mount Lebanon,Land,883,0,0,9000000,33.9006,35.6178
+Achrafieh,Beirut,Beirut,Apartment,120,2,2,245000,33.8886,35.4955
+Zouk Mikael,Kesrouane,Mount Lebanon,Apartment,120,2,2,110000,33.9808,35.6856
+Chwaya,El Metn,Mount Lebanon,Apartment,150,3,2,290000,33.9006,35.6178
+Baabdat,El Metn,Mount Lebanon,Apartment,250,3,4,300000,33.9006,35.6178
+Bsalim,El Metn,Mount Lebanon,Apartment,250,3,5,295000,33.9006,35.6178
+Maaysra,Kesrouane,Mount Lebanon,Apartment,200,3,3,160000,33.9808,35.6856
+Achrafieh,Beirut,Beirut,Apartment,165,3,3,500000,33.8886,35.4955
+Blat,Jbeil,Mount Lebanon,House/Villa,850,4,5,2500000,34.1236,35.6455
+Nahr Ibrahim,Jbeil,Mount Lebanon,Land,330,0,0,665000,34.1236,35.6455
+Fakra,Kesrouane,Mount Lebanon,Chalet,107,3,3,500000,33.9808,35.6856
+Beit Chabeb,El Metn,Mount Lebanon,Apartment,300,4,6,330000,33.9006,35.6178
+Kfour,Kesrouane,Mount Lebanon,Land,620,0,0,300000,33.9808,35.6856
+Hosrayel,Jbeil,Mount Lebanon,Apartment,100,2,2,115000,34.1236,35.6455
+Ajaltoun,Kesrouane,Mount Lebanon,Apartment,165,3,3,288000,33.9808,35.6856
+Ajaltoun,Kesrouane,Mount Lebanon,Apartment,148,3,3,240000,33.9808,35.6856
+Achrafieh,Beirut,Beirut,Apartment,130,2,3,415000,33.8886,35.4955
+Badaro,Beirut,Beirut,Apartment,250,3,3,620000,33.8886,35.4955
+Badaro,Beirut,Beirut,Apartment,210,3,3,600000,33.8886,35.4955
+Jounieh,Kesrouane,Mount Lebanon,Chalet,85,1,2,245000,33.9808,35.6856
+Bchamoun,Aley,Mount Lebanon,Apartment,170,3,3,300000,33.8056,35.5978
+Sioufi,Beirut,Beirut,Apartment,230,3,4,700000,33.8886,35.4955
+Ain Al Remmane,Baabda,Mount Lebanon,Apartment,185,3,4,465000,33.8333,35.5442
+Hadath,Baabda,Mount Lebanon,Apartment,110,2,2,137000,33.8333,35.5442
+Hazmieh,Baabda,Mount Lebanon,Shop,100,1,0,350000,33.8333,35.5442
+Antelias,El Metn,Mount Lebanon,Apartment,948,6,8,3000000,33.9006,35.6178
+Bsalim,El Metn,Mount Lebanon,Apartment,180,3,4,325000,33.9006,35.6178
+Bikfaya,El Metn,Mount Lebanon,House/Villa,400,4,6,1500000,33.9006,35.6178
+Hazmieh,Baabda,Mount Lebanon,Apartment,220,3,4,400000,33.8333,35.5442
+Achrafieh,Beirut,Beirut,Office,80,1,0,280000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,240,3,3,550000,33.8886,35.4955
+Dbayeh,El Metn,Mount Lebanon,Apartment,153,3,3,220000,33.9006,35.6178
+Ras Beirut,Beirut,Beirut,Apartment,240,3,3,600000,33.8886,35.4955
+Dekweneh,El Metn,Mount Lebanon,Apartment,165,3,2,220000,33.9006,35.6178
+Hadath,Baabda,Mount Lebanon,Apartment,175,3,3,245000,33.8333,35.5442
+Furn El Chebbak,Baabda,Mount Lebanon,Apartment,143,2,2,137000,33.8333,35.5442
+Mtayleb,El Metn,Mount Lebanon,Apartment,350,4,4,1500000,33.9006,35.6178
+Shayle,Kesrouane,Mount Lebanon,Apartment,200,3,4,250000,33.9808,35.6856
+Kfar Helda,Batroun,North,Land,120,0,0,550000,34.2556,35.6586
+Bouchrieh,El Metn,Mount Lebanon,Shop,266,1,0,450000,33.9006,35.6178
+Bouchrieh,El Metn,Mount Lebanon,Shop,200,1,0,370000,33.9006,35.6178
+Bouchrieh,El Metn,Mount Lebanon,Shop,70,0,0,110000,33.9006,35.6178
+Faytroun,Kesrouane,Mount Lebanon,Chalet,61,2,2,180000,33.9808,35.6856
+Achrafieh,Beirut,Beirut,Apartment,555,3,4,1800000,33.8886,35.4955
+Aamchit,Jbeil,Mount Lebanon,Land,760,0,0,265000,34.1236,35.6455
+Dbayeh,El Metn,Mount Lebanon,Office,170,2,0,575000,33.9006,35.6178
+Achrafieh,Beirut,Beirut,Apartment,147,2,3,620000,33.8886,35.4955
+Zandouqa,Baabda,Mount Lebanon,Residential Building,200,0,0,1400000,33.8333,35.5442
+Hboub,Jbeil,Mount Lebanon,Warehouse,750,1,0,465000,34.1236,35.6455
+Edde,Jbeil,Mount Lebanon,Apartment,160,3,3,165000,34.1236,35.6455
+Badaro,Beirut,Beirut,Apartment,120,2,2,275000,33.8886,35.4955
+Roumie,El Metn,Mount Lebanon,Land,352,0,0,1000000,33.9006,35.6178
+Achkout,Kesrouane,Mount Lebanon,Land,0,0,0,200000,33.9808,35.6856
+Ras Beirut,Beirut,Beirut,Apartment,380,4,5,1300000,33.8886,35.4955
+Ain Al Remmane,Baabda,Mount Lebanon,Apartment,180,3,4,425000,33.8333,35.5442
+Broumana,El Metn,Mount Lebanon,Apartment,260,3,4,500000,33.9006,35.6178
+Baabdat,El Metn,Mount Lebanon,Apartment,167,3,3,270000,33.9006,35.6178
+Majdel Tarchich,El Metn,Mount Lebanon,Land,400,0,0,690000,33.9006,35.6178
+Ghosta,Kesrouane,Mount Lebanon,Land,725,0,0,210000,33.9808,35.6856
+Ghazir,Kesrouane,Mount Lebanon,Shop,80,1,0,75000,33.9808,35.6856
+Faraya,Kesrouane,Mount Lebanon,Chalet,80,2,2,240000,33.9808,35.6856
+Aatchane,El Metn,Mount Lebanon,Apartment,110,2,2,346500,33.9006,35.6178
+Aatchane,El Metn,Mount Lebanon,Apartment,110,2,2,240000,33.9006,35.6178
+Aatchane,El Metn,Mount Lebanon,Apartment,110,2,2,165000,33.9006,35.6178
+Dik El Mehdi,El Metn,Mount Lebanon,Apartment,235,3,4,350000,33.9006,35.6178
+Dik El Mehdi,El Metn,Mount Lebanon,Apartment,156,3,4,284000,33.9006,35.6178
+Aatchane,El Metn,Mount Lebanon,Apartment,140,3,3,250000,33.9006,35.6178
+Bsalim,El Metn,Mount Lebanon,Apartment,180,3,4,300000,33.9006,35.6178
+Hazmieh,Baabda,Mount Lebanon,Apartment,180,3,3,285000,33.8333,35.5442
+Batroun,Batroun,North,Apartment,110,2,2,250000,34.2556,35.6586
+Bsalim,El Metn,Mount Lebanon,Apartment,105,2,2,180000,33.9006,35.6178
+Elissar,El Metn,Mount Lebanon,Apartment,175,3,3,250000,33.9006,35.6178
+Ain El Rihani,Kesrouane,Mount Lebanon,Apartment,140,3,2,129000,33.9808,35.6856
+Zouk Mikael,Kesrouane,Mount Lebanon,Apartment,190,3,3,127000,33.9808,35.6856
+Zouk Mikael,Kesrouane,Mount Lebanon,Apartment,90,2,1,66000,33.9808,35.6856
+Jbeil,Jbeil,Mount Lebanon,Apartment,180,3,4,250000,34.1236,35.6455
+Mechmech,Jbeil,Mount Lebanon,Land,849,0,0,50000,34.1236,35.6455
+Mechmech,Jbeil,Mount Lebanon,Land,394,0,0,98000,34.1236,35.6455
+Hboub,Jbeil,Mount Lebanon,Apartment,400,4,5,450000,34.1236,35.6455
+Hboub,Jbeil,Mount Lebanon,Apartment,275,3,4,275000,34.1236,35.6455
+Hboub,Jbeil,Mount Lebanon,Apartment,275,3,4,320000,34.1236,35.6455
+Mansourieh,El Metn,Mount Lebanon,Apartment,280,3,4,245000,33.9006,35.6178
+Hadath,Baabda,Mount Lebanon,Apartment,160,3,2,250000,33.8333,35.5442
+Kaslik,Kesrouane,Mount Lebanon,Apartment,160,3,3,170000,33.9808,35.6856
+Hazmieh,Baabda,Mount Lebanon,Apartment,200,3,4,385000,33.8333,35.5442
+Batroun,Batroun,North,House/Villa,120,3,0,300000,34.2556,35.6586
+Majdel Tarchich,El Metn,Mount Lebanon,Land,567,0,0,325000,33.9006,35.6178
+Majdel Tarchich,El Metn,Mount Lebanon,Land,264,0,0,165000,33.9006,35.6178
+Majdel Tarchich,El Metn,Mount Lebanon,Land,203,0,0,160000,33.9006,35.6178
+Hadath,Baabda,Mount Lebanon,Apartment,120,3,3,115000,33.8333,35.5442
+Mansourieh,El Metn,Mount Lebanon,Apartment,165,3,3,145000,33.9006,35.6178
+Bchelli,Jbeil,Mount Lebanon,Apartment,170,3,3,145000,34.1236,35.6455
+Bsalim,El Metn,Mount Lebanon,Apartment,150,3,3,260000,33.9006,35.6178
+Fidar,Jbeil,Mount Lebanon,Chalet,100,2,2,200000,34.1236,35.6455
+Down Town,Beirut,Beirut,Apartment,445,3,3,3785000,33.8886,35.4955
+Down Town,Beirut,Beirut,Apartment,251,2,2,1835000,33.8886,35.4955
+Down Town,Beirut,Beirut,Apartment,300,2,3,2250000,33.8886,35.4955
+Down Town,Beirut,Beirut,Apartment,251,2,2,1885000,33.8886,35.4955
+Klayaat,Kesrouane,Mount Lebanon,Land,190,3,3,185000,33.9808,35.6856
+Zalka,El Metn,Mount Lebanon,Apartment,220,3,4,350000,33.9006,35.6178
+Mansourieh,El Metn,Mount Lebanon,Apartment,220,3,3,158000,33.9006,35.6178
+Kaslik,Kesrouane,Mount Lebanon,Chalet,60,1,1,270000,33.9808,35.6856
+Ajaltoun,Kesrouane,Mount Lebanon,Apartment,225,3,4,275000,33.9808,35.6856
+Achrafieh,Beirut,Beirut,Apartment,200,3,3,350000,33.8886,35.4955
+Madfoun,Batroun,North,Land,765,0,0,353000,34.2556,35.6586
+Blat,Jbeil,Mount Lebanon,Land,595,0,0,125000,34.1236,35.6455
+Shayle,Kesrouane,Mount Lebanon,Apartment,390,8,0,480000,33.9808,35.6856
+Mansourieh,El Metn,Mount Lebanon,Apartment,175,3,3,185000,33.9006,35.6178
+Ghedras,Kesrouane,Mount Lebanon,Residential Building,200,0,0,875000,33.9808,35.6856
+Bikfaya,El Metn,Mount Lebanon,Apartment,455,3,3,600000,33.9006,35.6178
+Halat,Jbeil,Mount Lebanon,Apartment,170,3,4,205000,34.1236,35.6455
+Achrafieh,Beirut,Beirut,Apartment,235,3,3,880000,33.8886,35.4955
+Rawda,El Metn,Mount Lebanon,Warehouse,350,1,0,225000,33.9006,35.6178
+Dbayeh,El Metn,Mount Lebanon,Office,84,1,0,285000,33.9006,35.6178
+Dbayeh,El Metn,Mount Lebanon,Office,86,1,0,290000,33.9006,35.6178
+Betchay,Baabda,Mount Lebanon,Apartment,160,3,3,170000,33.8333,35.5442
+kfarhbeib,Kesrouane,Mount Lebanon,Apartment,220,3,4,300000,33.9808,35.6856
+Hadath,Baabda,Mount Lebanon,Apartment,212,3,3,210000,33.8333,35.5442
+Hadath,Baabda,Mount Lebanon,Apartment,155,3,2,130000,33.8333,35.5442
+Ballouneh,Kesrouane,Mount Lebanon,Apartment,100,2,3,105000,33.9808,35.6856
+Zahle,Zahle,Bekaa,Apartment,79,1,1,800000,33.8461,35.9042
+Achkout,Kesrouane,Mount Lebanon,Land,800,0,0,450000,33.9808,35.6856
+Down Town,Beirut,Beirut,Apartment,270,3,4,1100000,33.8886,35.4955
+Mayrouba,Kesrouane,Mount Lebanon,Apartment,160,3,3,140000,33.9808,35.6856
+Qannabet Broumana,El Metn,Mount Lebanon,Apartment,135,2,2,130000,33.9006,35.6178
+Sahel Alma,Kesrouane,Mount Lebanon,Apartment,250,4,4,450000,33.9808,35.6856
+Fanar,El Metn,Mount Lebanon,Apartment,195,3,3,325000,33.9006,35.6178
+Batroun,Batroun,North,Chalet,70,1,0,90000,34.2556,35.6586
+Batroun,Batroun,North,Chalet,115,2,2,150000,34.2556,35.6586
+Batroun,Batroun,North,Chalet,85,1,1,110000,34.2556,35.6586
+Batroun,Batroun,North,Chalet,75,1,1,98000,34.2556,35.6586
+Rabieh,El Metn,Mount Lebanon,Residential Building,170,0,0,4200000,33.9006,35.6178
+Ras Beirut,Beirut,Beirut,Apartment,230,3,2,400000,33.8886,35.4955
+Mazraat Yachouh,El Metn,Mount Lebanon,Apartment,115,2,2,140000,33.9006,35.6178
+Sahel Alma,Kesrouane,Mount Lebanon,Apartment,250,3,3,462000,33.9808,35.6856
+Sahel Alma,Kesrouane,Mount Lebanon,Apartment,440,4,6,545000,33.9808,35.6856
+Aamchit,Jbeil,Mount Lebanon,Apartment,128,2,2,165000,34.1236,35.6455
+Aamchit,Jbeil,Mount Lebanon,House/Villa,200,7,8,1200000,34.1236,35.6455
+Dekweneh,El Metn,Mount Lebanon,Apartment,270,3,4,300000,33.9006,35.6178
+Beit Meri,El Metn,Mount Lebanon,Apartment,215,3,4,300000,33.9006,35.6178
+Mar Mikhael,Beirut,Beirut,Apartment,120,2,2,250000,33.8886,35.4955
+Dekweneh,El Metn,Mount Lebanon,Land,730,0,0,2200000,33.9006,35.6178
+Batroun,Batroun,North,Apartment,113,1,2,165000,34.2556,35.6586
+Bentaael,Jbeil,Mount Lebanon,House/Villa,200,2,2,330000,34.1236,35.6455
+Jdeideh,El Metn,Mount Lebanon,Office,314,1,0,346000,33.9006,35.6178
+Jdeideh,El Metn,Mount Lebanon,Shop,49,1,0,310000,33.9006,35.6178
+Adma,Kesrouane,Mount Lebanon,Land,465,0,0,3350000,33.9808,35.6856
+Jdeideh,El Metn,Mount Lebanon,Apartment,76,1,1,175000,33.9006,35.6178
+Jdeideh,El Metn,Mount Lebanon,Apartment,118,2,2,190000,33.9006,35.6178
+Jdeideh,El Metn,Mount Lebanon,Apartment,118,2,2,210000,33.9006,35.6178
+Batroun,Batroun,North,Land,0,0,0,1600000,34.2556,35.6586
+Ghadir,Kesrouane,Mount Lebanon,Shop,66,1,0,200000,33.9808,35.6856
+Achrafieh,Beirut,Beirut,Apartment,250,3,4,825000,33.8886,35.4955
+Bikfaya,El Metn,Mount Lebanon,House/Villa,500,0,0,750000,33.9006,35.6178
+Achrafieh,Beirut,Beirut,Shop,190,1,0,650000,33.8886,35.4955
+kfarhbeib,Kesrouane,Mount Lebanon,Land,220,0,0,800000,33.9808,35.6856
+Bsalim,El Metn,Mount Lebanon,Apartment,200,3,3,250000,33.9006,35.6178
+Aabrine,Batroun,North,Land,550,0,0,140000,34.2556,35.6586
+kfarhbeib,Kesrouane,Mount Lebanon,Apartment,200,3,4,400000,33.9808,35.6856
+Down Town,Beirut,Beirut,Apartment,375,3,4,2500000,33.8886,35.4955
+Mar Mikhael,Beirut,Beirut,Land,456,0,0,1300000,33.8886,35.4955
+Bsalim,El Metn,Mount Lebanon,Apartment,130,2,2,265000,33.9006,35.6178
+Achrafieh,Beirut,Beirut,Apartment,330,3,4,1300000,33.8886,35.4955
+Mansourieh,El Metn,Mount Lebanon,Apartment,416,4,5,570000,33.9006,35.6178
+Zaarour,El Metn,Mount Lebanon,Land,600,0,0,210000,33.9006,35.6178
+Ghalboun,Jbeil,Mount Lebanon,Land,0,0,0,600000,34.1236,35.6455
+Dekweneh,El Metn,Mount Lebanon,Apartment,120,2,2,150000,33.9006,35.6178
+Zouk Mosbeh,Kesrouane,Mount Lebanon,Apartment,80,2,0,75000,33.9808,35.6856
+Qornet El Hamra,El Metn,Mount Lebanon,Apartment,154,3,3,237000,33.9006,35.6178
+Adonis,Kesrouane,Mount Lebanon,Apartment,170,3,4,160000,33.9808,35.6856
+Achrafieh,Beirut,Beirut,Office,550,4,0,2000000,33.8886,35.4955
+Yarzeh,Baabda,Mount Lebanon,Apartment,255,3,5,620000,33.8333,35.5442
+Down Town,Beirut,Beirut,Apartment,231,3,3,1500000,33.8886,35.4955
+Broumana,El Metn,Mount Lebanon,Apartment,575,4,6,850000,33.9006,35.6178
+Baabda,Baabda,Mount Lebanon,Apartment,320,3,5,850000,33.8333,35.5442
+Mar Takla,Baabda,Mount Lebanon,Apartment,320,4,5,585000,33.8333,35.5442
+Ain Al Remmane,Baabda,Mount Lebanon,Apartment,107,2,2,100000,33.8333,35.5442
+Jounieh,Kesrouane,Mount Lebanon,Chalet,60,1,1,90000,33.9808,35.6856
+Laqlouq,Jbeil,Mount Lebanon,Chalet,180,3,3,265000,34.1236,35.6455
+Laqlouq,Jbeil,Mount Lebanon,Chalet,113,2,2,143000,34.1236,35.6455
+Achrafieh,Beirut,Beirut,Apartment,250,3,5,850000,33.8886,35.4955
+Ras Beirut,Beirut,Beirut,Apartment,275,3,4,690000,33.8886,35.4955
+Mar Moussa,El Metn,Mount Lebanon,House/Villa,340,6,9,2300000,33.9006,35.6178
+Achrafieh,Beirut,Beirut,Apartment,110,2,1,190000,33.8886,35.4955
+Faytroun,Kesrouane,Mount Lebanon,Land,195,0,0,1100000,33.9808,35.6856
+Jbeil,Jbeil,Mount Lebanon,Apartment,170,3,3,180000,34.1236,35.6455
+Shayle,Kesrouane,Mount Lebanon,Apartment,168,3,3,235000,33.9808,35.6856
+Hsoun,Jbeil,Mount Lebanon,Commercial Building,125,3,0,1000000,34.1236,35.6455
+Haret Sakher,Kesrouane,Mount Lebanon,Chalet,95,3,2,350000,33.9808,35.6856
+Mayrouba,Kesrouane,Mount Lebanon,Land,365,0,0,155000,33.9808,35.6856
+Baabdat,El Metn,Mount Lebanon,Land,417,0,0,2000000,33.9006,35.6178
+Hsoun,Jbeil,Mount Lebanon,Warehouse,345,3,0,372000,34.1236,35.6455
+Berbara,Batroun,North,Land,850,0,0,470000,34.2556,35.6586
+Fakra,Kesrouane,Mount Lebanon,Chalet,200,3,3,310000,33.9808,35.6856
+Achrafieh,Beirut,Beirut,Apartment,220,3,2,360000,33.8886,35.4955
+Mazraat Yachouh,El Metn,Mount Lebanon,Apartment,135,2,2,125000,33.9006,35.6178
+Gemayzeh,Beirut,Beirut,Apartment,160,2,2,280000,33.8886,35.4955
+Zaarour,El Metn,Mount Lebanon,Chalet,110,3,2,365000,33.9006,35.6178
+Hboub,Jbeil,Mount Lebanon,Apartment,160,3,3,155000,34.1236,35.6455
+Dekweneh,El Metn,Mount Lebanon,Apartment,300,3,3,325000,33.9006,35.6178
+Gherfine,Jbeil,Mount Lebanon,Land,432,0,0,645000,34.1236,35.6455
+Fakra,Kesrouane,Mount Lebanon,Chalet,190,3,3,880000,33.9808,35.6856
+Baabdat,El Metn,Mount Lebanon,Land,300,0,0,235000,33.9006,35.6178
+Baabdat,El Metn,Mount Lebanon,Land,900,0,0,340000,33.9006,35.6178
+Gemayzeh,Beirut,Beirut,Apartment,310,4,5,1100000,33.8886,35.4955
+Rawche,Beirut,Beirut,Apartment,535,4,5,3500000,33.8886,35.4955
+Laqlouq,Jbeil,Mount Lebanon,Land,5,0,0,165000,34.1236,35.6455
+Adma,Kesrouane,Mount Lebanon,Apartment,200,2,3,310000,33.9808,35.6856
+Aamchit,Jbeil,Mount Lebanon,Apartment,150,3,2,110000,34.1236,35.6455
+Blat,Jbeil,Mount Lebanon,Apartment,248,3,4,160000,34.1236,35.6455
+Blat,Jbeil,Mount Lebanon,Apartment,248,3,4,175000,34.1236,35.6455
+Achkout,Kesrouane,Mount Lebanon,Apartment,170,2,1,150000,33.9808,35.6856
+Ghadir,Kesrouane,Mount Lebanon,Apartment,170,3,3,185000,33.9808,35.6856
+Baabda,Baabda,Mount Lebanon,Apartment,180,3,4,360000,33.8333,35.5442
+Baabda,Baabda,Mount Lebanon,Apartment,225,3,4,450000,33.8333,35.5442
+Sahel Alma,Kesrouane,Mount Lebanon,Apartment,262,3,3,420000,33.9808,35.6856
+Mansourieh,El Metn,Mount Lebanon,Apartment,80,2,2,79000,33.9006,35.6178
+Mar Mikhael,Beirut,Beirut,Apartment,140,2,1,210000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Office,550,4,0,2000000,33.8886,35.4955
+Shayle,Kesrouane,Mount Lebanon,Apartment,200,3,4,266000,33.9808,35.6856
+Shayle,Kesrouane,Mount Lebanon,Apartment,200,3,3,359000,33.9808,35.6856
+Achrafieh,Beirut,Beirut,Apartment,230,3,3,505000,33.8886,35.4955
+Jdeideh,El Metn,Mount Lebanon,Warehouse,0,1,0,650000,33.9006,35.6178
 Faraya,Kesrouane,Mount Lebanon,Chalet,55,1,1,75000,33.9808,35.6856
 Kaslik,Kesrouane,Mount Lebanon,Office,163,2,0,350000,33.9808,35.6856
 Kaslik,Kesrouane,Mount Lebanon,Shop,55,1,0,195000,33.9808,35.6856
 Qannabet Broumana,El Metn,Mount Lebanon,Apartment,150,3,3,235000,33.9006,35.6178
-Jal el Dib,El Metn,Mount Lebanon,Apartment,150,3,2,185000,33.9006,35.6178
 Bsalim,El Metn,Mount Lebanon,Apartment,145,3,3,230000,33.9006,35.6178
 Jbeil,Jbeil,Mount Lebanon,Apartment,240,3,2,200000,34.1236,35.6455
 Bsalim,El Metn,Mount Lebanon,Apartment,140,3,3,165000,33.9006,35.6178
 Dahr El Sawan,El Metn,Mount Lebanon,Apartment,160,3,3,250000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Apartment,125,2,2,235000,33.8886,35.4955
-Fanar,El Metn,Mount Lebanon,Apartment,140,3,3,150000,33.9006,35.6178
-Jbeil,Jbeil,Mount Lebanon,Apartment,110,2,2,75000,34.1236,35.6455
+Achrafieh,Beirut,Beirut,Apartment,125,2,2,245000,33.8886,35.4955
 Gherfine,Jbeil,Mount Lebanon,Apartment,110,2,2,120000,34.1236,35.6455
-Achrafieh,Beirut,Beirut,Apartment,270,3,3,350000,33.8886,35.4955
-Achrafieh,Beirut,Beirut,Apartment,175,3,2,320000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,175,3,2,310000,33.8886,35.4955
 Sahel Alma,Kesrouane,Mount Lebanon,Apartment,259,3,3,415000,33.9808,35.6856
 Sahel Alma,Kesrouane,Mount Lebanon,Apartment,262,3,3,400000,33.9808,35.6856
 Sahel Alma,Kesrouane,Mount Lebanon,Apartment,262,4,4,630000,33.9808,35.6856
 Sahel Alma,Kesrouane,Mount Lebanon,Apartment,253,3,3,400000,33.9808,35.6856
 Sahel Alma,Kesrouane,Mount Lebanon,Apartment,396,4,4,565000,33.9808,35.6856
-Hboub,Jbeil,Mount Lebanon,Apartment,205,3,4,220000,34.1236,35.6455
 Ouyoun Al Simen,Kesrouane,Mount Lebanon,Chalet,100,2,1,300000,33.9808,35.6856
 chnaniir,Kesrouane,Mount Lebanon,House/Villa,450,3,4,1000000,33.9808,35.6856
 Baabdat,El Metn,Mount Lebanon,Apartment,165,3,3,350000,33.9006,35.6178
 Jbeil,Jbeil,Mount Lebanon,Office,110,2,0,265000,34.1236,35.6455
 Sioufi,Beirut,Beirut,Apartment,140,2,2,360000,33.8886,35.4955
-Sioufi,Beirut,Beirut,Apartment,300,2,2,430000,33.8886,35.4955
-Ras Beirut,Beirut,Beirut,Apartment,110,2,3,225000,33.8886,35.4955
+Sioufi,Beirut,Beirut,Apartment,300,2,2,415000,33.8886,35.4955
+Ras Beirut,Beirut,Beirut,Apartment,110,2,3,190000,33.8886,35.4955
 Bsalim,El Metn,Mount Lebanon,Apartment,165,3,3,285000,33.9006,35.6178
 Adma,Kesrouane,Mount Lebanon,Apartment,150,2,3,195000,33.9808,35.6856
-Ras Beirut,Beirut,Beirut,Apartment,350,4,2,800000,33.8886,35.4955
 Kfar Aaqab,El Metn,Mount Lebanon,Land,156,0,0,925000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Apartment,106,2,2,320000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,106,2,2,310000,33.8886,35.4955
 Blat,Jbeil,Mount Lebanon,Apartment,240,3,4,330000,34.1236,35.6455
 Blat,Jbeil,Mount Lebanon,Apartment,340,4,6,450000,34.1236,35.6455
 Blat,Jbeil,Mount Lebanon,Apartment,180,3,4,240000,34.1236,35.6455
 Mansourieh,El Metn,Mount Lebanon,Apartment,220,3,4,390000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Apartment,150,2,2,225000,33.8886,35.4955
-Jdeideh,El Metn,Mount Lebanon,Apartment,155,3,2,110000,33.9006,35.6178
 Adma,Kesrouane,Mount Lebanon,Apartment,580,4,7,1200000,33.9808,35.6856
-Jbeil,Jbeil,Mount Lebanon,Apartment,160,3,3,185000,34.1236,35.6455
 Fidar,Jbeil,Mount Lebanon,Land,200,0,0,250000,34.1236,35.6455
 Aintoura,El Metn,Mount Lebanon,Land,306,0,0,319000,33.9006,35.6178
-Fidar,Jbeil,Mount Lebanon,Commercial Building,0,0,0,1200000,34.1236,35.6455
-Baabda,Baabda,Mount Lebanon,Apartment,195,3,4,465000,33.8333,35.5442
+Fidar,Jbeil,Mount Lebanon,Commercial Building,0,0,0,12000000,34.1236,35.6455
 Jbeil,Jbeil,Mount Lebanon,Apartment,106,2,2,150000,34.1236,35.6455
 Achkout,Kesrouane,Mount Lebanon,Land,200,0,0,600000,33.9808,35.6856
 Achrafieh,Beirut,Beirut,Apartment,350,4,4,950000,33.8886,35.4955
@@ -52,30 +369,26 @@ Ras Beirut,Beirut,Beirut,Apartment,550,4,4,2200000,33.8886,35.4955
 Ras Beirut,Beirut,Beirut,Apartment,550,4,4,1300000,33.8886,35.4955
 Aamchit,Jbeil,Mount Lebanon,Apartment,150,3,3,165000,34.1236,35.6455
 Mechmech,Jbeil,Mount Lebanon,House/Villa,300,4,3,250000,34.1236,35.6455
-Klayaat,Kesrouane,Mount Lebanon,Land,908,0,0,230000,33.9808,35.6856
 Klayaat,Kesrouane,Mount Lebanon,Land,420,0,0,320000,33.9808,35.6856
 Badaro,Beirut,Beirut,Apartment,400,3,4,1000000,33.8886,35.4955
 Achrafieh,Beirut,Beirut,Apartment,130,2,2,275000,33.8886,35.4955
-Badaro,Beirut,Beirut,Office,200,4,0,450000,33.8886,35.4955
+Badaro,Beirut,Beirut,Office,200,4,0,650000,33.8886,35.4955
 New Mar Takla,Baabda,Mount Lebanon,Apartment,265,3,4,495000,33.8333,35.5442
-Mansourieh,El Metn,Mount Lebanon,Apartment,200,3,5,240000,33.9006,35.6178
+Mansourieh,El Metn,Mount Lebanon,Apartment,200,3,5,225000,33.9006,35.6178
 Achrafieh,Beirut,Beirut,Office,300,4,0,900000,33.8886,35.4955
 Dekweneh,El Metn,Mount Lebanon,Apartment,160,3,3,205000,33.9006,35.6178
 Mansourieh,El Metn,Mount Lebanon,Apartment,100,2,2,107000,33.9006,35.6178
 Down Town,Beirut,Beirut,Shop,120,1,0,700000,33.8886,35.4955
 Broumana,El Metn,Mount Lebanon,Land,850,0,0,850000,33.9006,35.6178
-Mansourieh,El Metn,Mount Lebanon,Apartment,170,3,4,243000,33.9006,35.6178
+Mansourieh,El Metn,Mount Lebanon,Apartment,170,3,4,235000,33.9006,35.6178
 New Rawda,El Metn,Mount Lebanon,Apartment,100,2,2,96000,33.9006,35.6178
 Jbeil,Jbeil,Mount Lebanon,Land,600,0,0,450000,34.1236,35.6455
-Batroun,Batroun,North,Apartment,110,2,2,250000,34.2556,35.6586
-Hazmieh,Baabda,Mount Lebanon,Apartment,280,3,5,520000,33.8333,35.5442
 Jbeil,Jbeil,Mount Lebanon,Apartment,310,4,5,495000,34.1236,35.6455
 Zaarour,El Metn,Mount Lebanon,Chalet,140,2,2,325000,33.9006,35.6178
 Ain Al Remmane,Baabda,Mount Lebanon,Apartment,150,3,2,130000,33.8333,35.5442
 Zikrit,El Metn,Mount Lebanon,Apartment,160,3,2,180000,33.9006,35.6178
 Ras Beirut,Beirut,Beirut,Apartment,200,3,3,700000,33.8886,35.4955
 Mar Mikhael,Beirut,Beirut,Apartment,135,3,2,375000,33.8886,35.4955
-Jbeil,Jbeil,Mount Lebanon,Apartment,110,2,2,130000,34.1236,35.6455
 Blat,Jbeil,Mount Lebanon,Apartment,200,3,4,175000,34.1236,35.6455
 Ras Beirut,Beirut,Beirut,Apartment,660,5,5,2200000,33.8886,35.4955
 Haret Sakher,Kesrouane,Mount Lebanon,Apartment,205,3,2,188000,33.9808,35.6856
@@ -88,7 +401,7 @@ Rabieh,El Metn,Mount Lebanon,Apartment,450,4,4,850000,33.9006,35.6178
 Ras Beirut,Beirut,Beirut,Apartment,475,4,5,2500000,33.8886,35.4955
 Baabda,Baabda,Mount Lebanon,Warehouse,900,2,0,650000,33.8333,35.5442
 Badaro,Beirut,Beirut,Apartment,235,3,3,850000,33.8886,35.4955
-Adma,Kesrouane,Mount Lebanon,Apartment,160,3,3,241000,33.9808,35.6856
+Adma,Kesrouane,Mount Lebanon,Apartment,160,3,3,220000,33.9808,35.6856
 Ain El Rihani,Kesrouane,Mount Lebanon,Land,8,0,0,600000,33.9808,35.6856
 Ouyoun Al Simen,Kesrouane,Mount Lebanon,Chalet,140,2,3,350000,33.9808,35.6856
 Mar Moussa,El Metn,Mount Lebanon,Apartment,290,3,4,306000,33.9006,35.6178
@@ -105,7 +418,7 @@ Haret Sakher,Kesrouane,Mount Lebanon,Apartment,150,3,2,150000,33.9808,35.6856
 Haret Sakher,Kesrouane,Mount Lebanon,Apartment,350,4,4,360000,33.9808,35.6856
 Mansourieh,El Metn,Mount Lebanon,Apartment,175,3,3,265000,33.9006,35.6178
 Baabda,Baabda,Mount Lebanon,Apartment,350,3,4,425000,33.8333,35.5442
-Achrafieh,Beirut,Beirut,Apartment,250,3,3,1000000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,250,3,3,650000,33.8886,35.4955
 Daroun Harissa,Kesrouane,Mount Lebanon,Land,200,0,0,840000,33.9808,35.6856
 Sahel Alma,Kesrouane,Mount Lebanon,Apartment,205,3,2,300000,33.9808,35.6856
 Horsh Tabet,El Metn,Mount Lebanon,Residential Building,910,0,0,5000000,33.9006,35.6178
@@ -119,7 +432,7 @@ Batroun,Batroun,North,House/Villa,255,4,4,350000,34.2556,35.6586
 Achrafieh,Beirut,Beirut,Apartment,174,3,3,575000,33.8886,35.4955
 Aoukar,El Metn,Mount Lebanon,Apartment,110,2,2,170000,33.9006,35.6178
 Achrafieh,Beirut,Beirut,Land,336,0,0,2520000,33.8886,35.4955
-Achrafieh,Beirut,Beirut,Apartment,350,4,3,1000000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,350,4,3,900000,33.8886,35.4955
 Bouchrieh,El Metn,Mount Lebanon,Apartment,160,3,1,155000,33.9006,35.6178
 Mansourieh,El Metn,Mount Lebanon,Apartment,110,2,2,120000,33.9006,35.6178
 Bsalim,El Metn,Mount Lebanon,Land,914,0,0,820000,33.9006,35.6178
@@ -132,20 +445,17 @@ Jdeideh,El Metn,Mount Lebanon,Apartment,130,2,2,200000,33.9006,35.6178
 Batroun,Batroun,North,Land,947,0,0,235000,34.2556,35.6586
 Ras Beirut,Beirut,Beirut,Apartment,231,3,3,850000,33.8886,35.4955
 Achrafieh,Beirut,Beirut,Apartment,500,4,5,2600000,33.8886,35.4955
-Achrafieh,Beirut,Beirut,Apartment,300,3,3,465000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,300,3,3,450000,33.8886,35.4955
 Qornet El Hamra,El Metn,Mount Lebanon,House/Villa,200,6,8,3000000,33.9006,35.6178
 Kfarzebian,Kesrouane,Mount Lebanon,Land,694,0,0,600000,33.9808,35.6856
 Achrafieh,Beirut,Beirut,Apartment,145,2,2,980000,33.8886,35.4955
 Jbeil,Jbeil,Mount Lebanon,Apartment,230,3,2,90000,34.1236,35.6455
 Jbeil,Jbeil,Mount Lebanon,Apartment,110,2,2,75000,34.1236,35.6455
 Faytroun,Kesrouane,Mount Lebanon,Chalet,75,2,2,110000,33.9808,35.6856
-Blat,Jbeil,Mount Lebanon,Apartment,110,2,2,90000,34.1236,35.6455
-Achrafieh,Beirut,Beirut,Apartment,200,3,3,265000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,200,3,3,250000,33.8886,35.4955
 Beit el Chaar,El Metn,Mount Lebanon,Apartment,125,2,2,115000,33.9006,35.6178
-Beit el Chaar,El Metn,Mount Lebanon,Apartment,150,3,3,140000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Apartment,147,1,2,530000,33.8886,35.4955
 Horsh Tabet,El Metn,Mount Lebanon,Shop,99,1,0,260000,33.9006,35.6178
-Jbeil,Jbeil,Mount Lebanon,Apartment,110,1,2,900000,34.1236,35.6455
+Jbeil,Jbeil,Mount Lebanon,Apartment,125,1,2,900000,34.1236,35.6455
 Fatqa,Kesrouane,Mount Lebanon,Apartment,150,2,2,175000,33.9808,35.6856
 Laqlouq,Jbeil,Mount Lebanon,Land,951,0,0,354000,34.1236,35.6455
 Laqlouq,Jbeil,Mount Lebanon,Land,12,0,0,101000,34.1236,35.6455
@@ -162,30 +472,25 @@ Dekweneh,El Metn,Mount Lebanon,Apartment,204,3,3,230000,33.9006,35.6178
 Dekweneh,El Metn,Mount Lebanon,Apartment,186,3,3,220000,33.9006,35.6178
 Dekweneh,El Metn,Mount Lebanon,Apartment,186,3,3,190000,33.9006,35.6178
 Aamchit,Jbeil,Mount Lebanon,Apartment,250,3,3,275000,34.1236,35.6455
-Jdeideh,El Metn,Mount Lebanon,Office,120,2,0,160000,33.9006,35.6178
 Fidar,Jbeil,Mount Lebanon,Apartment,300,3,5,430000,34.1236,35.6455
 Laqlouq,Jbeil,Mount Lebanon,Land,90,0,0,80000,34.1236,35.6455
-Ain Najem,El Metn,Mount Lebanon,Apartment,200,3,4,275000,33.9006,35.6178
+Ain Najem,El Metn,Mount Lebanon,Apartment,200,3,4,260000,33.9006,35.6178
 Khenchara,El Metn,Mount Lebanon,House/Villa,0,3,5,1000000,33.9006,35.6178
-Fanar,El Metn,Mount Lebanon,Apartment,175,3,3,250000,33.9006,35.6178
-Haret Sakher,Kesrouane,Mount Lebanon,Apartment,160,3,2,90000,33.9808,35.6856
+Fanar,El Metn,Mount Lebanon,Apartment,175,3,3,260000,33.9006,35.6178
 Haret Sakher,Kesrouane,Mount Lebanon,Apartment,145,3,3,245000,33.9808,35.6856
 Haret Sakher,Kesrouane,Mount Lebanon,Apartment,165,3,3,265000,33.9808,35.6856
 Ain Al Remmane,Baabda,Mount Lebanon,Apartment,320,3,3,270000,33.8333,35.5442
 Daraya,Kesrouane,Mount Lebanon,House/Villa,400,5,4,650000,33.9808,35.6856
 Mar Chaaya,El Metn,Mount Lebanon,Apartment,250,3,3,460000,33.9006,35.6178
-Klayaat,Kesrouane,Mount Lebanon,Land,900,0,0,250000,33.9808,35.6856
 Kfarzebian,Kesrouane,Mount Lebanon,Land,716,0,0,600000,33.9808,35.6856
-Ehmej,Jbeil,Mount Lebanon,Land,885,0,0,158000,34.1236,35.6455
 Zalka,El Metn,Mount Lebanon,Apartment,120,2,2,220000,33.9006,35.6178
 Blat,Jbeil,Mount Lebanon,Land,720,0,0,515000,34.1236,35.6455
-Mansourieh,El Metn,Mount Lebanon,Apartment,175,3,4,200000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Apartment,80,1,2,595000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,95,1,2,595000,33.8886,35.4955
 Kaslik,Kesrouane,Mount Lebanon,Chalet,63,2,2,235000,33.9808,35.6856
-Gherfine,Jbeil,Mount Lebanon,Land,546,0,0,620000,34.1236,35.6455
+Gherfine,Jbeil,Mount Lebanon,Land,546,0,0,775000,34.1236,35.6455
 Jbeil,Jbeil,Mount Lebanon,Apartment,185,3,3,360000,34.1236,35.6455
 Wata El Joz,Kesrouane,Mount Lebanon,Land,596,0,0,335000,33.9808,35.6856
-Barbara,Jbeil,Mount Lebanon,Apartment,100,2,2,90000,34.1236,35.6455
+Barbara,Jbeil,Mount Lebanon,Apartment,100,2,2,105000,34.1236,35.6455
 Jal el Dib,El Metn,Mount Lebanon,Land,790,0,0,1738000,33.9006,35.6178
 Jdeideh,El Metn,Mount Lebanon,Apartment,150,3,2,200000,33.9006,35.6178
 Gherfine,Jbeil,Mount Lebanon,Land,500,0,0,525000,34.1236,35.6455
@@ -200,37 +505,30 @@ kfarhbeib,Kesrouane,Mount Lebanon,Apartment,360,2,3,380000,33.9808,35.6856
 Yahchouch,Kesrouane,Mount Lebanon,House/Villa,350,3,3,550000,33.9808,35.6856
 Aoukar,El Metn,Mount Lebanon,House/Villa,450,3,4,420000,33.9006,35.6178
 Kfour,Kesrouane,Mount Lebanon,Apartment,350,3,3,455000,33.9808,35.6856
-Achrafieh,Beirut,Beirut,Apartment,135,2,2,200000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,135,2,2,185000,33.8886,35.4955
 Mansourieh,El Metn,Mount Lebanon,Apartment,160,3,4,245000,33.9006,35.6178
-Zalka,El Metn,Mount Lebanon,Office,65,1,0,300000,33.9006,35.6178
 Broumana,El Metn,Mount Lebanon,Apartment,110,1,1,175000,33.9006,35.6178
 Broumana,El Metn,Mount Lebanon,Apartment,150,3,3,230000,33.9006,35.6178
 Broumana,El Metn,Mount Lebanon,Apartment,120,2,2,200000,33.9006,35.6178
 Yarzeh,Baabda,Mount Lebanon,Land,296,0,0,2750000,33.8333,35.5442
-Horsh Tabet,El Metn,Mount Lebanon,Apartment,180,3,3,335000,33.9006,35.6178
-Jounieh,Kesrouane,Mount Lebanon,Apartment,125,3,2,92000,33.9808,35.6856
+Jounieh,Kesrouane,Mount Lebanon,Apartment,125,3,2,85000,33.9808,35.6856
 Aamchit,Jbeil,Mount Lebanon,Office,60,1,0,85000,34.1236,35.6455
-Kfour,Kesrouane,Mount Lebanon,Land,630,0,0,105000,33.9808,35.6856
 Klayaat,Kesrouane,Mount Lebanon,Apartment,360,4,4,425000,33.9808,35.6856
-Mtayleb,El Metn,Mount Lebanon,Apartment,215,3,2,290000,33.9006,35.6178
+Mtayleb,El Metn,Mount Lebanon,Apartment,215,3,2,255000,33.9006,35.6178
 Zouk Mikael,Kesrouane,Mount Lebanon,Apartment,360,3,3,500000,33.9808,35.6856
 Badaro,Beirut,Beirut,Apartment,240,3,3,450000,33.8886,35.4955
 Achrafieh,Beirut,Beirut,Apartment,330,3,4,850000,33.8886,35.4955
-Sioufi,Beirut,Beirut,Apartment,221,3,3,360000,33.8886,35.4955
-Bikfaya,El Metn,Mount Lebanon,Apartment,75,1,2,95000,33.9006,35.6178
+Sioufi,Beirut,Beirut,Apartment,221,3,3,350000,33.8886,35.4955
 Achrafieh,Beirut,Beirut,Apartment,330,3,4,850000,33.8886,35.4955
-Fanar,El Metn,Mount Lebanon,Apartment,210,3,3,350000,33.9006,35.6178
 Mar Mikhael,Beirut,Beirut,Apartment,116,2,2,315000,33.8886,35.4955
 Batroun,Batroun,North,House/Villa,240,1,1,310000,34.2556,35.6586
 Achrafieh,Beirut,Beirut,Land,441,0,0,1545000,33.8886,35.4955
 Adma,Kesrouane,Mount Lebanon,Land,414,0,0,5550000,33.9808,35.6856
 Rabweh,El Metn,Mount Lebanon,Apartment,185,3,4,155000,33.9006,35.6178
 Batroun,Batroun,North,House/Villa,140,2,3,180000,34.2556,35.6586
-Achrafieh,Beirut,Beirut,Apartment,80,1,2,450000,33.8886,35.4955
 Achrafieh,Beirut,Beirut,Apartment,100,1,2,750000,33.8886,35.4955
 Aamchit,Jbeil,Mount Lebanon,Land,985,0,0,800000,34.1236,35.6455
 Ghosta,Kesrouane,Mount Lebanon,Apartment,180,3,3,220000,33.9808,35.6856
-Sarba,Kesrouane,Mount Lebanon,Apartment,100,2,1,70000,33.9808,35.6856
 Bouar,Kesrouane,Mount Lebanon,Land,0,0,0,2000000,33.9808,35.6856
 Louaize,Baabda,Mount Lebanon,Apartment,400,3,4,850000,33.8333,35.5442
 Bouchrieh,El Metn,Mount Lebanon,Apartment,100,2,2,120000,33.9006,35.6178
@@ -238,7 +536,6 @@ Ras Beirut,Beirut,Beirut,Office,60,0,0,228000,33.8886,35.4955
 Qartaboun,Jbeil,Mount Lebanon,Land,869,0,0,1250000,34.1236,35.6455
 Badaro,Beirut,Beirut,Apartment,250,4,3,500000,33.8886,35.4955
 Ras Beirut,Beirut,Beirut,Apartment,363,4,4,1050000,33.8886,35.4955
-Achrafieh,Beirut,Beirut,Apartment,250,4,3,350000,33.8886,35.4955
 Kfour,Kesrouane,Mount Lebanon,Land,825,0,0,330000,33.9808,35.6856
 Achrafieh,Beirut,Beirut,Apartment,160,2,3,445000,33.8886,35.4955
 Batroun,Batroun,North,Apartment,165,2,3,120000,34.2556,35.6586
@@ -247,7 +544,6 @@ Achrafieh,Beirut,Beirut,Shop,310,2,0,310000,33.8886,35.4955
 Achrafieh,Beirut,Beirut,Apartment,256,3,4,950000,33.8886,35.4955
 Achrafieh,Beirut,Beirut,Apartment,120,3,2,400000,33.8886,35.4955
 Mar Mikhael,Beirut,Beirut,Apartment,280,2,3,600000,33.8886,35.4955
-Hazmieh,Baabda,Mount Lebanon,Apartment,200,3,4,250000,33.8333,35.5442
 Beit Chabeb,El Metn,Mount Lebanon,Apartment,230,3,3,235000,33.9006,35.6178
 Ajaltoun,Kesrouane,Mount Lebanon,Land,0,0,0,350000,33.9808,35.6856
 Sin El Fil,El Metn,Mount Lebanon,Warehouse,175,0,0,700000,33.9006,35.6178
@@ -255,10 +551,9 @@ Sin El Fil,El Metn,Mount Lebanon,Warehouse,641,0,0,900000,33.9006,35.6178
 Sin El Fil,El Metn,Mount Lebanon,Warehouse,83,1,0,100000,33.9006,35.6178
 Achrafieh,Beirut,Beirut,Apartment,325,3,3,1050000,33.8886,35.4955
 Achrafieh,Beirut,Beirut,Apartment,312,3,4,1100000,33.8886,35.4955
-Shayle,Kesrouane,Mount Lebanon,Land,0,0,0,1500000,33.9808,35.6856
 Tabarja,Kesrouane,Mount Lebanon,Land,643,0,0,5500000,33.9808,35.6856
-Baabdat,El Metn,Mount Lebanon,Shop,140,3,3,200000,33.9006,35.6178
-Tabarja,Kesrouane,Mount Lebanon,Land,385,0,0,13000000,33.9808,35.6856
+Baabdat,El Metn,Mount Lebanon,Apartment,140,3,3,200000,33.9006,35.6178
+Tabarja,Kesrouane,Mount Lebanon,Land,385,0,0,9500000,33.9808,35.6856
 Zikrit,El Metn,Mount Lebanon,Apartment,100,2,2,117000,33.9006,35.6178
 Zikrit,El Metn,Mount Lebanon,Apartment,130,3,2,162000,33.9006,35.6178
 Bolonia,El Metn,Mount Lebanon,Land,400,0,0,750000,33.9006,35.6178
@@ -278,14 +573,13 @@ Kfarzebian,Kesrouane,Mount Lebanon,Land,95,0,0,550000,33.9808,35.6856
 Aamchit,Jbeil,Mount Lebanon,Apartment,240,3,3,280000,34.1236,35.6455
 Antelias,El Metn,Mount Lebanon,Apartment,165,3,2,165000,33.9006,35.6178
 Jal el Dib,El Metn,Mount Lebanon,Apartment,350,5,5,650000,33.9006,35.6178
-Adma,Kesrouane,Mount Lebanon,Apartment,260,3,3,510000,33.9808,35.6856
-Adma,Kesrouane,Mount Lebanon,Apartment,325,3,3,615000,33.9808,35.6856
-Ras Beirut,Beirut,Beirut,Apartment,420,3,4,1550000,33.8886,35.4955
-Sioufi,Beirut,Beirut,Apartment,300,3,4,935000,33.8886,35.4955
+Adma,Kesrouane,Mount Lebanon,Apartment,260,3,3,580000,33.9808,35.6856
+Adma,Kesrouane,Mount Lebanon,Apartment,325,3,3,600000,33.9808,35.6856
+Ras Beirut,Beirut,Beirut,Apartment,420,3,4,1700000,33.8886,35.4955
+Sioufi,Beirut,Beirut,Apartment,240,3,4,935000,33.8886,35.4955
 Zouk Mikael,Kesrouane,Mount Lebanon,Apartment,155,3,3,210000,33.9808,35.6856
 Ras Beirut,Beirut,Beirut,Apartment,400,4,3,1500000,33.8886,35.4955
-Beit Meri,El Metn,Mount Lebanon,Apartment,130,2,4,250000,33.9006,35.6178
-Mazraat Yachouh,El Metn,Mount Lebanon,Shop,151,1,0,450000,33.9006,35.6178
+Beit Meri,El Metn,Mount Lebanon,Apartment,130,2,4,215000,33.9006,35.6178
 Ain El Rihani,Kesrouane,Mount Lebanon,Land,77,0,0,270000,33.9808,35.6856
 Ain El Rihani,Kesrouane,Mount Lebanon,Land,178,0,0,300000,33.9808,35.6856
 Kfar Aabida,Batroun,North,Apartment,160,3,3,165000,34.2556,35.6586
@@ -297,7 +591,7 @@ Gherfine,Jbeil,Mount Lebanon,Apartment,130,3,3,117000,34.1236,35.6455
 Gherfine,Jbeil,Mount Lebanon,Apartment,175,3,3,225000,34.1236,35.6455
 Achrafieh,Beirut,Beirut,Apartment,300,3,2,500000,33.8886,35.4955
 Jbeil,Jbeil,Mount Lebanon,House/Villa,750,4,6,850000,34.1236,35.6455
-Sioufi,Beirut,Beirut,Apartment,270,3,4,900000,33.8886,35.4955
+Sioufi,Beirut,Beirut,Apartment,300,3,4,800000,33.8886,35.4955
 Chabtine,Batroun,North,Land,200,0,0,220000,34.2556,35.6586
 Beit Chabeb,El Metn,Mount Lebanon,House/Villa,598,3,1,350000,33.9006,35.6178
 Haret Sakher,Kesrouane,Mount Lebanon,Apartment,200,2,2,175000,33.9808,35.6856
@@ -311,9 +605,7 @@ Lehfed,Jbeil,Mount Lebanon,Land,650,0,0,310000,34.1236,35.6455
 Aamchit,Jbeil,Mount Lebanon,Apartment,205,3,3,185000,34.1236,35.6455
 Aamchit,Jbeil,Mount Lebanon,Apartment,190,3,3,185000,34.1236,35.6455
 Aamchit,Jbeil,Mount Lebanon,Apartment,171,3,3,160000,34.1236,35.6455
-Mechmech,Jbeil,Mount Lebanon,Land,650,0,0,40000,34.1236,35.6455
 Faraya,Kesrouane,Mount Lebanon,Chalet,90,2,1,85000,33.9808,35.6856
-Ras Beirut,Beirut,Beirut,Apartment,125,2,2,320000,33.8886,35.4955
 Achrafieh,Beirut,Beirut,Land,304,0,0,1700000,33.8886,35.4955
 Adonis,Kesrouane,Mount Lebanon,Apartment,230,4,4,250000,33.9808,35.6856
 Sahel Alma,Kesrouane,Mount Lebanon,Apartment,355,3,5,450000,33.9808,35.6856
@@ -322,7 +614,6 @@ Ras Beirut,Beirut,Beirut,Apartment,307,3,4,1000000,33.8886,35.4955
 Kornet Chehwan,El Metn,Mount Lebanon,Apartment,240,3,3,410000,33.9006,35.6178
 Kornet Chehwan,El Metn,Mount Lebanon,Apartment,230,3,4,360000,33.9006,35.6178
 Kornet Chehwan,El Metn,Mount Lebanon,Apartment,330,4,4,480000,33.9006,35.6178
-Rabieh,El Metn,Mount Lebanon,Land,16,0,0,780000,33.9006,35.6178
 Nabey,El Metn,Mount Lebanon,Apartment,120,2,2,155000,33.9006,35.6178
 Mechmech,Jbeil,Mount Lebanon,Land,0,0,0,600000,34.1236,35.6455
 Mechmech,Jbeil,Mount Lebanon,Land,500,0,0,150000,34.1236,35.6455
@@ -331,13 +622,11 @@ Bsalim,El Metn,Mount Lebanon,Apartment,170,3,3,280000,33.9006,35.6178
 Dbayeh,El Metn,Mount Lebanon,Office,85,1,0,320000,33.9006,35.6178
 Jouret Al Ballout,El Metn,Mount Lebanon,Land,457,0,0,2190000,33.9006,35.6178
 Roumie,El Metn,Mount Lebanon,Apartment,170,2,3,320000,33.9006,35.6178
-Ras Beirut,Beirut,Beirut,Shop,250,1,0,1550000,33.8886,35.4955
 Beit Meri,El Metn,Mount Lebanon,Apartment,225,3,4,265000,33.9006,35.6178
 Aamchit,Jbeil,Mount Lebanon,Land,320,2,2,215000,34.1236,35.6455
 Fanar,El Metn,Mount Lebanon,Warehouse,400,0,0,175000,33.9006,35.6178
 Mansourieh,El Metn,Mount Lebanon,Apartment,350,4,6,350000,33.9006,35.6178
-Aannaya,Jbeil,Mount Lebanon,Chalet,95,2,2,82000,34.1236,35.6455
-Jounieh,Kesrouane,Mount Lebanon,Chalet,13,1,0,35000,33.9808,35.6856
+Aannaya,Jbeil,Mount Lebanon,Chalet,95,2,2,85000,34.1236,35.6455
 Safra,Kesrouane,Mount Lebanon,Land,340,0,0,465000,33.9808,35.6856
 Bhamdoun,Aley,Mount Lebanon,Land,0,0,0,300000,33.8056,35.5978
 Batroun,Batroun,North,Apartment,145,2,3,190000,34.2556,35.6586
@@ -355,9 +644,9 @@ Mazraat Yachouh,El Metn,Mount Lebanon,Land,715,0,0,860000,33.9006,35.6178
 Achkout,Kesrouane,Mount Lebanon,Apartment,350,3,4,280000,33.9808,35.6856
 Achkout,Kesrouane,Mount Lebanon,Apartment,230,3,4,175000,33.9808,35.6856
 Achkout,Kesrouane,Mount Lebanon,Apartment,316,3,4,250000,33.9808,35.6856
-Bouchrieh,El Metn,Mount Lebanon,Apartment,80,2,2,100000,33.9006,35.6178
-Bouchrieh,El Metn,Mount Lebanon,Apartment,90,2,2,110000,33.9006,35.6178
-Bouchrieh,El Metn,Mount Lebanon,Apartment,100,2,2,120000,33.9006,35.6178
+Bouchrieh,El Metn,Mount Lebanon,Apartment,80,2,2,120000,33.9006,35.6178
+Bouchrieh,El Metn,Mount Lebanon,Apartment,90,2,2,130000,33.9006,35.6178
+Bouchrieh,El Metn,Mount Lebanon,Apartment,100,2,2,140000,33.9006,35.6178
 Dlebta,Kesrouane,Mount Lebanon,Land,0,0,0,1000000,33.9808,35.6856
 Naccache,El Metn,Mount Lebanon,Apartment,175,3,3,350000,33.9006,35.6178
 Zaarour,El Metn,Mount Lebanon,Land,723,0,0,680000,33.9006,35.6178
@@ -384,8 +673,8 @@ Hboub,Jbeil,Mount Lebanon,Apartment,240,4,5,350000,34.1236,35.6455
 Adma,Kesrouane,Mount Lebanon,Apartment,180,3,4,260000,33.9808,35.6856
 Jal el Dib,El Metn,Mount Lebanon,Apartment,255,3,3,210000,33.9006,35.6178
 Chikhane,Jbeil,Mount Lebanon,Land,900,0,0,170000,34.1236,35.6455
-Nahr Ibrahim,Jbeil,Mount Lebanon,Apartment,221,3,4,280000,34.1236,35.6455
-Nahr Ibrahim,Jbeil,Mount Lebanon,Apartment,410,5,4,550000,34.1236,35.6455
+Nahr Ibrahim,Jbeil,Mount Lebanon,Apartment,231,3,4,300000,34.1236,35.6455
+Nahr Ibrahim,Jbeil,Mount Lebanon,Apartment,410,5,4,500000,34.1236,35.6455
 Sarba,Kesrouane,Mount Lebanon,Apartment,135,2,2,140000,33.9808,35.6856
 Sarba,Kesrouane,Mount Lebanon,Apartment,135,2,3,140000,33.9808,35.6856
 Ghadir,Kesrouane,Mount Lebanon,Apartment,200,3,3,260000,33.9808,35.6856
@@ -405,7 +694,6 @@ Dbayeh,El Metn,Mount Lebanon,Apartment,140,1,2,252000,33.9006,35.6178
 Dbayeh,El Metn,Mount Lebanon,Apartment,110,2,2,209000,33.9006,35.6178
 Dbayeh,El Metn,Mount Lebanon,Apartment,140,3,3,252000,33.9006,35.6178
 Naccache,El Metn,Mount Lebanon,Apartment,200,3,3,250000,33.9006,35.6178
-Saifi Village,Beirut,Beirut,Apartment,186,1,2,800000,33.8886,35.4955
 Jbeil,Jbeil,Mount Lebanon,Apartment,170,2,2,170000,34.1236,35.6455
 Adma,Kesrouane,Mount Lebanon,Apartment,400,3,4,350000,33.9808,35.6856
 Blat,Jbeil,Mount Lebanon,Apartment,100,2,3,120000,34.1236,35.6455
@@ -414,7 +702,6 @@ Antelias,El Metn,Mount Lebanon,Office,500,5,0,625000,33.9006,35.6178
 Batroun,Batroun,North,Land,0,0,0,2000000,34.2556,35.6586
 Daroun Harissa,Kesrouane,Mount Lebanon,Land,369,0,0,850000,33.9808,35.6856
 Mechmech,Jbeil,Mount Lebanon,Land,848,0,0,80000,34.1236,35.6455
-Achrafieh,Beirut,Beirut,Apartment,270,3,3,340000,33.8886,35.4955
 Achrafieh,Beirut,Beirut,Apartment,350,4,4,1650000,33.8886,35.4955
 Ajaltoun,Kesrouane,Mount Lebanon,Apartment,180,3,3,165000,33.9808,35.6856
 Dbayeh,El Metn,Mount Lebanon,Office,182,0,0,600000,33.9006,35.6178
@@ -430,7 +717,7 @@ Mrouj,El Metn,Mount Lebanon,Land,252,0,0,851000,33.9006,35.6178
 Dahr El Sawan,El Metn,Mount Lebanon,Apartment,265,3,3,425000,33.9006,35.6178
 Adma,Kesrouane,Mount Lebanon,Apartment,400,3,4,1000000,33.9808,35.6856
 Aatchane,El Metn,Mount Lebanon,Apartment,155,3,2,95000,33.9006,35.6178
-Bikfaya,El Metn,Mount Lebanon,Land,376,0,0,370000,33.9006,35.6178
+Bikfaya,El Metn,Mount Lebanon,Land,376,0,0,210000,33.9006,35.6178
 Bikfaya,El Metn,Mount Lebanon,Land,330,0,0,270000,33.9006,35.6178
 Hadath,Baabda,Mount Lebanon,Apartment,237,3,3,325000,33.8333,35.5442
 Sahel Alma,Kesrouane,Mount Lebanon,Apartment,120,3,4,192000,33.9808,35.6856
@@ -465,9 +752,8 @@ Ghedras,Kesrouane,Mount Lebanon,Land,224,0,0,355000,33.9808,35.6856
 Batroun,Batroun,North,Apartment,147,3,3,105000,34.2556,35.6586
 Batroun,Batroun,North,Apartment,170,3,3,220000,34.2556,35.6586
 Batroun,Batroun,North,Land,800,0,0,150000,34.2556,35.6586
-Qortada,El Metn,Mount Lebanon,Land,140,0,0,115000,33.9006,35.6178
+Qortada,El Metn,Mount Lebanon,Land,140,0,0,145000,33.9006,35.6178
 Adma,Kesrouane,Mount Lebanon,Apartment,165,3,4,190000,33.9808,35.6856
-Sioufi,Beirut,Beirut,Apartment,130,3,2,315000,33.8886,35.4955
 Ghadir,Kesrouane,Mount Lebanon,Apartment,220,3,4,350000,33.9808,35.6856
 Edde,Jbeil,Mount Lebanon,Apartment,160,3,3,170000,34.1236,35.6455
 Jbeil,Jbeil,Mount Lebanon,Land,870,0,0,52200,34.1236,35.6455
@@ -477,13 +763,11 @@ kfarhbeib,Kesrouane,Mount Lebanon,Apartment,235,3,4,485000,33.9808,35.6856
 kfarhbeib,Kesrouane,Mount Lebanon,Apartment,250,4,5,425000,33.9808,35.6856
 kfarhbeib,Kesrouane,Mount Lebanon,Apartment,235,3,4,465000,33.9808,35.6856
 Baabdat,El Metn,Mount Lebanon,Land,915,0,0,250000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Apartment,225,3,2,430000,33.8886,35.4955
+Achrafieh,Beirut,Beirut,Apartment,250,3,2,450000,33.8886,35.4955
 Zouk Mosbeh,Kesrouane,Mount Lebanon,Shop,140,2,0,350000,33.9808,35.6856
-Sioufi,Beirut,Beirut,Apartment,91,2,2,260000,33.8886,35.4955
 Safra,Kesrouane,Mount Lebanon,Apartment,140,2,2,73000,33.9808,35.6856
 Fakra,Kesrouane,Mount Lebanon,Chalet,110,2,2,190000,33.9808,35.6856
 Achrafieh,Beirut,Beirut,Apartment,200,2,2,480000,33.8886,35.4955
-Louaize,Baabda,Mount Lebanon,Apartment,220,3,4,470000,33.8333,35.5442
 Jbeil,Jbeil,Mount Lebanon,Apartment,158,3,2,125000,34.1236,35.6455
 Achrafieh,Beirut,Beirut,Apartment,315,3,4,1100000,33.8886,35.4955
 Beit El Kikko,El Metn,Mount Lebanon,Apartment,255,3,4,340000,33.9006,35.6178
@@ -493,7 +777,6 @@ Batroun,Batroun,North,House/Villa,230,0,0,350000,34.2556,35.6586
 Ain Al Remmane,Baabda,Mount Lebanon,Apartment,180,2,2,295000,33.8333,35.5442
 Broumana,El Metn,Mount Lebanon,Land,612,0,0,650000,33.9006,35.6178
 Broumana,El Metn,Mount Lebanon,Land,536,0,0,650000,33.9006,35.6178
-Tabarja,Kesrouane,Mount Lebanon,Chalet,4,0,0,40000,33.9808,35.6856
 Lehfed,Jbeil,Mount Lebanon,Land,200,0,0,110000,34.1236,35.6455
 Sarba,Kesrouane,Mount Lebanon,Land,986,0,0,2500000,33.9808,35.6856
 Dbayeh,El Metn,Mount Lebanon,Apartment,200,3,3,230000,33.9006,35.6178
@@ -507,10 +790,10 @@ Achrafieh,Beirut,Beirut,Apartment,80,1,2,320000,33.8886,35.4955
 Batroun,Batroun,North,House/Villa,700,7,7,1250000,34.2556,35.6586
 Batroun,Batroun,North,Apartment,185,3,2,140000,34.2556,35.6586
 Sin El Fil,El Metn,Mount Lebanon,Office,127,3,0,450000,33.9006,35.6178
-Sioufi,Beirut,Beirut,Apartment,200,3,2,300000,33.8886,35.4955
+Sioufi,Beirut,Beirut,Apartment,200,3,2,245000,33.8886,35.4955
 Jbeil,Jbeil,Mount Lebanon,Apartment,176,3,3,175000,34.1236,35.6455
 Jbeil,Jbeil,Mount Lebanon,Apartment,200,3,2,270000,34.1236,35.6455
-Furn El Chebbak,Baabda,Mount Lebanon,Apartment,184,3,3,260000,33.8333,35.5442
+Furn El Chebbak,Baabda,Mount Lebanon,Apartment,184,3,3,300000,33.8333,35.5442
 Beit El Kikko,El Metn,Mount Lebanon,Apartment,165,3,3,260000,33.9006,35.6178
 kfarhbeib,Kesrouane,Mount Lebanon,Apartment,360,4,5,500000,33.9808,35.6856
 Jbeil,Jbeil,Mount Lebanon,Apartment,180,3,4,220000,34.1236,35.6455
@@ -524,7 +807,7 @@ Dbayeh,El Metn,Mount Lebanon,Apartment,120,2,2,180000,33.9006,35.6178
 Mazraat Yachouh,El Metn,Mount Lebanon,Apartment,170,3,2,140000,33.9006,35.6178
 Aannaya,Jbeil,Mount Lebanon,House/Villa,450,4,4,900000,34.1236,35.6455
 Braij,Jbeil,Mount Lebanon,Land,300,0,0,900000,34.1236,35.6455
-Furn El Chebbak,Baabda,Mount Lebanon,Warehouse,200,2,0,200000,33.8333,35.5442
+Furn El Chebbak,Baabda,Mount Lebanon,Warehouse,200,2,0,140000,33.8333,35.5442
 Dbayeh,El Metn,Mount Lebanon,Apartment,140,2,2,187000,33.9006,35.6178
 Ehmej,Jbeil,Mount Lebanon,Land,200,0,0,250000,34.1236,35.6455
 Blat,Jbeil,Mount Lebanon,Shop,40,2,0,75000,34.1236,35.6455
@@ -537,7 +820,7 @@ Halat,Jbeil,Mount Lebanon,Apartment,140,3,3,140000,34.1236,35.6455
 Batroun,Batroun,North,Land,700,0,0,1400000,34.2556,35.6586
 Batroun,Batroun,North,Land,63,0,0,320000,34.2556,35.6586
 Adonis,Kesrouane,Mount Lebanon,Apartment,200,3,2,170000,33.9808,35.6856
-Bsalim,El Metn,Mount Lebanon,Apartment,115,2,2,160000,33.9006,35.6178
+Bsalim,El Metn,Mount Lebanon,Apartment,115,2,2,154000,33.9006,35.6178
 Fidar,Jbeil,Mount Lebanon,Apartment,200,3,3,345000,34.1236,35.6455
 Kfarzebian,Kesrouane,Mount Lebanon,Chalet,90,2,2,195000,33.9808,35.6856
 Roumie,El Metn,Mount Lebanon,Warehouse,100,1,0,500000,33.9006,35.6178
@@ -547,9 +830,7 @@ Achkout,Kesrouane,Mount Lebanon,Land,440,0,0,250000,33.9808,35.6856
 Baabdat,El Metn,Mount Lebanon,Apartment,200,3,3,450000,33.9006,35.6178
 Aannaya,Jbeil,Mount Lebanon,Apartment,200,3,3,100000,34.1236,35.6455
 Bouar,Kesrouane,Mount Lebanon,Apartment,130,2,2,150000,33.9808,35.6856
-Edde,Jbeil,Mount Lebanon,Apartment,125,2,2,125000,34.1236,35.6455
 Monteverde,El Metn,Mount Lebanon,Apartment,200,3,3,350000,33.9006,35.6178
-Sahel Alma,Kesrouane,Mount Lebanon,Apartment,250,4,3,425000,33.9808,35.6856
 Haret Sakher,Kesrouane,Mount Lebanon,House/Villa,200,3,3,300000,33.9808,35.6856
 Rabweh,El Metn,Mount Lebanon,Apartment,190,3,3,370000,33.9006,35.6178
 Rabweh,El Metn,Mount Lebanon,Apartment,200,3,3,310000,33.9006,35.6178
@@ -559,10 +840,9 @@ Zouk Mikael,Kesrouane,Mount Lebanon,Warehouse,170,1,0,165000,33.9808,35.6856
 Naccache,El Metn,Mount Lebanon,Apartment,145,3,3,230000,33.9006,35.6178
 Ras Beirut,Beirut,Beirut,Apartment,400,3,3,1250000,33.8886,35.4955
 Baabda,Baabda,Mount Lebanon,Apartment,255,3,4,295000,33.8333,35.5442
-Ras Beirut,Beirut,Beirut,Apartment,165,3,3,240000,33.8886,35.4955
 Bsalim,El Metn,Mount Lebanon,Apartment,400,4,4,500000,33.9006,35.6178
 Adma,Kesrouane,Mount Lebanon,Land,445,0,0,1100000,33.9808,35.6856
-Majdel Tarchich,El Metn,Mount Lebanon,Land,800,0,0,45000,33.9006,35.6178
+Tarchich,Baabda,Mount Lebanon,Land,800,0,0,45000,33.8333,35.5442
 Salima,Baabda,Mount Lebanon,Land,950,0,0,320000,33.8333,35.5442
 Zalka,El Metn,Mount Lebanon,Office,65,1,0,200000,33.9006,35.6178
 Badaro,Beirut,Beirut,Apartment,200,3,2,600000,33.8886,35.4955
@@ -573,22 +853,22 @@ Aoukar,El Metn,Mount Lebanon,Land,774,0,0,619000,33.9006,35.6178
 Aoukar,El Metn,Mount Lebanon,Land,50,0,0,840000,33.9006,35.6178
 Zaarour,El Metn,Mount Lebanon,House/Villa,155,3,3,380000,33.9006,35.6178
 Adma,Kesrouane,Mount Lebanon,Shop,400,2,0,700000,33.9808,35.6856
-Ras Beirut,Beirut,Beirut,Office,200,2,0,900000,33.8886,35.4955
+Ras Beirut,Beirut,Beirut,Office,200,2,0,625000,33.8886,35.4955
 Blat,Jbeil,Mount Lebanon,Land,970,0,0,185000,34.1236,35.6455
 Blat,Jbeil,Mount Lebanon,Land,55,0,0,195000,34.1236,35.6455
-Hazmieh,Baabda,Mount Lebanon,Office,100,1,0,135000,33.8333,35.5442
+Hadath,Baabda,Mount Lebanon,Apartment,200,3,3,255000,33.8333,35.5442
 Klayaat,Kesrouane,Mount Lebanon,Land,128,0,0,350000,33.9808,35.6856
 Hboub,Jbeil,Mount Lebanon,Apartment,125,2,2,115000,34.1236,35.6455
 Ain Saadeh,El Metn,Mount Lebanon,Apartment,200,3,4,360000,33.9006,35.6178
 Ain Saadeh,El Metn,Mount Lebanon,Apartment,170,3,4,310000,33.9006,35.6178
 Ain Saadeh,El Metn,Mount Lebanon,Apartment,161,3,3,280000,33.9006,35.6178
-Kaslik,Kesrouane,Mount Lebanon,Chalet,100,2,1,470000,33.9808,35.6856
+Kaslik,Kesrouane,Mount Lebanon,Chalet,100,2,1,477000,33.9808,35.6856
 Rabweh,El Metn,Mount Lebanon,Apartment,525,4,5,1000000,33.9006,35.6178
 Aatchane,El Metn,Mount Lebanon,Apartment,140,3,3,210000,33.9006,35.6178
 Kornet Chehwan,El Metn,Mount Lebanon,Land,335,3,0,2335000,33.9006,35.6178
 Bouchrieh,El Metn,Mount Lebanon,Warehouse,212,1,0,200000,33.9006,35.6178
 Adma,Kesrouane,Mount Lebanon,Land,165,0,0,650000,33.9808,35.6856
-Halat,Jbeil,Mount Lebanon,Apartment,120,2,2,115000,34.1236,35.6455
+Halat,Jbeil,Mount Lebanon,Apartment,120,2,2,138000,34.1236,35.6455
 Mar Takla,Baabda,Mount Lebanon,Shop,80,2,0,525000,33.8333,35.5442
 Mar Takla,Baabda,Mount Lebanon,Shop,40,1,0,280000,33.8333,35.5442
 Bouchrieh,El Metn,Mount Lebanon,Warehouse,650,1,0,600000,33.9006,35.6178
@@ -598,7 +878,6 @@ Jbeil,Jbeil,Mount Lebanon,Land,950,0,0,395000,34.1236,35.6455
 Jbeil,Jbeil,Mount Lebanon,Apartment,260,3,3,250000,34.1236,35.6455
 Haret Sakher,Kesrouane,Mount Lebanon,Apartment,150,3,3,125000,33.9808,35.6856
 Edde,Jbeil,Mount Lebanon,Apartment,160,3,4,215000,34.1236,35.6455
-Jbeil,Jbeil,Mount Lebanon,Shop,110,1,0,300000,34.1236,35.6455
 Hazmieh,Baabda,Mount Lebanon,Apartment,240,3,4,400000,33.8333,35.5442
 Aamchit,Jbeil,Mount Lebanon,Apartment,200,3,3,200000,34.1236,35.6455
 Baabdat,El Metn,Mount Lebanon,Apartment,160,3,3,230000,33.9006,35.6178
@@ -616,308 +895,16 @@ Aamchit,Jbeil,Mount Lebanon,Apartment,135,2,2,150000,34.1236,35.6455
 Jbeil,Jbeil,Mount Lebanon,Apartment,170,3,3,200000,34.1236,35.6455
 Hazmieh,Baabda,Mount Lebanon,Apartment,470,3,5,1250000,33.8333,35.5442
 Douar,El Metn,Mount Lebanon,Apartment,125,2,2,125000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Residential Building,126,0,0,550000,33.8886,35.4955
 Antelias,El Metn,Mount Lebanon,Apartment,155,3,3,240000,33.9006,35.6178
 Antelias,El Metn,Mount Lebanon,Apartment,135,2,2,200000,33.9006,35.6178
-Bsalim,El Metn,Mount Lebanon,Land,380,0,0,325000,33.9006,35.6178
 Wata El Joz,Kesrouane,Mount Lebanon,Land,861,0,0,250000,33.9808,35.6856
 Faraya,Kesrouane,Mount Lebanon,Land,200,0,0,1000000,33.9808,35.6856
 Bsalim,El Metn,Mount Lebanon,Apartment,165,3,3,200000,33.9006,35.6178
 Dekweneh,El Metn,Mount Lebanon,Office,95,1,0,300000,33.9006,35.6178
 Adma,Kesrouane,Mount Lebanon,Land,220,0,0,800000,33.9808,35.6856
-Furn El Chebbak,Baabda,Mount Lebanon,Apartment,135,2,2,245000,33.8333,35.5442
+Furn El Chebbak,Baabda,Mount Lebanon,Apartment,135,2,2,160000,33.8333,35.5442
 chnaniir,Kesrouane,Mount Lebanon,Apartment,100,4,6,4000000,33.9808,35.6856
 Jal el Dib,El Metn,Mount Lebanon,Apartment,140,3,3,185000,33.9006,35.6178
 Bhorsaf,El Metn,Mount Lebanon,Apartment,220,3,4,300000,33.9006,35.6178
 Bhorsaf,El Metn,Mount Lebanon,Apartment,220,3,4,290000,33.9006,35.6178
 Bhorsaf,El Metn,Mount Lebanon,Apartment,200,3,4,310000,33.9006,35.6178
-Achkout,Kesrouane,Mount Lebanon,Apartment,440,5,7,460000,33.9808,35.6856
-Antelias,El Metn,Mount Lebanon,Apartment,235,3,3,250000,33.9006,35.6178
-Jbeil,Jbeil,Mount Lebanon,Apartment,137,2,2,107000,34.1236,35.6455
-Jbeil,Jbeil,Mount Lebanon,Apartment,100,2,2,115000,34.1236,35.6455
-Qornet El Hamra,El Metn,Mount Lebanon,Apartment,252,3,4,425000,33.9006,35.6178
-Sahel Alma,Kesrouane,Mount Lebanon,Land,500,0,0,2000000,33.9808,35.6856
-Adma,Kesrouane,Mount Lebanon,Apartment,150,2,3,250000,33.9808,35.6856
-Bouchrieh,El Metn,Mount Lebanon,Shop,62,2,0,65000,33.9006,35.6178
-Halat,Jbeil,Mount Lebanon,Land,500,0,0,850000,34.1236,35.6455
-Kfarzebian,Kesrouane,Mount Lebanon,Chalet,100,2,1,165000,33.9808,35.6856
-Ras Beirut,Beirut,Beirut,Shop,90,1,0,160000,33.8886,35.4955
-Adma,Kesrouane,Mount Lebanon,Apartment,170,3,4,315000,33.9808,35.6856
-Jdeideh,El Metn,Mount Lebanon,Apartment,155,3,2,210000,33.9006,35.6178
-Shayle,Kesrouane,Mount Lebanon,Apartment,150,3,3,225000,33.9808,35.6856
-Shayle,Kesrouane,Mount Lebanon,Warehouse,400,0,0,185000,33.9808,35.6856
-Roumie,El Metn,Mount Lebanon,Land,380,0,0,1240000,33.9006,35.6178
-Sahel Alma,Kesrouane,Mount Lebanon,Apartment,170,2,2,130000,33.9808,35.6856
-Naccache,El Metn,Mount Lebanon,House/Villa,500,4,5,1000000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Apartment,210,3,3,730000,33.8886,35.4955
-Yarzeh,Baabda,Mount Lebanon,Apartment,380,3,4,820000,33.8333,35.5442
-Achrafieh,Beirut,Beirut,Apartment,170,3,3,510000,33.8886,35.4955
-Mazraat Yachouh,El Metn,Mount Lebanon,Apartment,120,2,2,130000,33.9006,35.6178
-Bsalim,El Metn,Mount Lebanon,Apartment,170,3,3,170000,33.9006,35.6178
-Bsalim,El Metn,Mount Lebanon,Apartment,170,3,3,170000,33.9006,35.6178
-Nabey,El Metn,Mount Lebanon,Apartment,160,3,3,210000,33.9006,35.6178
-Nabey,El Metn,Mount Lebanon,Apartment,165,3,3,220000,33.9006,35.6178
-Nabey,El Metn,Mount Lebanon,Apartment,160,3,3,210000,33.9006,35.6178
-Nabey,El Metn,Mount Lebanon,Apartment,320,4,5,325000,33.9006,35.6178
-Hazmieh,Baabda,Mount Lebanon,Land,360,0,0,1050000,33.8333,35.5442
-Dbayeh,El Metn,Mount Lebanon,Apartment,230,3,3,350000,33.9006,35.6178
-Dbayeh,El Metn,Mount Lebanon,Warehouse,617,1,0,500000,33.9006,35.6178
-Jbeil,Jbeil,Mount Lebanon,Land,600,0,0,850000,34.1236,35.6455
-Kornet Chehwan,El Metn,Mount Lebanon,Apartment,220,4,4,350000,33.9006,35.6178
-Kornet Chehwan,El Metn,Mount Lebanon,Apartment,220,4,4,350000,33.9006,35.6178
-Kornet Chehwan,El Metn,Mount Lebanon,Apartment,200,3,4,300000,33.9006,35.6178
-Yarzeh,Baabda,Mount Lebanon,Apartment,400,4,5,1150000,33.8333,35.5442
-Ballouneh,Kesrouane,Mount Lebanon,Apartment,160,3,3,235000,33.9808,35.6856
-Ballouneh,Kesrouane,Mount Lebanon,Apartment,145,3,3,190000,33.9808,35.6856
-Ballouneh,Kesrouane,Mount Lebanon,Apartment,145,3,3,295000,33.9808,35.6856
-Ballouneh,Kesrouane,Mount Lebanon,Apartment,145,3,3,190000,33.9808,35.6856
-Jbeil,Jbeil,Mount Lebanon,Apartment,120,2,2,135000,34.1236,35.6455
-Qannabet Broumana,El Metn,Mount Lebanon,Apartment,220,4,3,280000,33.9006,35.6178
-kfarhbeib,Kesrouane,Mount Lebanon,Apartment,300,3,5,650000,33.9808,35.6856
-Fatqa,Kesrouane,Mount Lebanon,Apartment,275,2,3,325000,33.9808,35.6856
-Ain El Rihani,Kesrouane,Mount Lebanon,Land,308,0,0,500000,33.9808,35.6856
-Dbayeh,El Metn,Mount Lebanon,Commercial Building,200,6,0,9000000,33.9006,35.6178
-Ghazir,Kesrouane,Mount Lebanon,House/Villa,0,6,9,2900000,33.9808,35.6856
-Jounieh,Kesrouane,Mount Lebanon,Chalet,75,2,2,165000,33.9808,35.6856
-Ain Saadeh,El Metn,Mount Lebanon,Apartment,250,4,4,350000,33.9006,35.6178
-Ballouneh,Kesrouane,Mount Lebanon,Shop,86,1,0,150000,33.9808,35.6856
-Kornet Chehwan,El Metn,Mount Lebanon,Apartment,220,3,3,390000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Apartment,75,1,1,251000,33.8886,35.4955
-Aabrine,Batroun,North,Land,816,0,0,80000,34.2556,35.6586
-Achrafieh,Beirut,Beirut,Apartment,55,1,2,300000,33.8886,35.4955
-Bsalim,El Metn,Mount Lebanon,Apartment,250,4,4,350000,33.9006,35.6178
-Jdeideh,El Metn,Mount Lebanon,Apartment,220,3,3,315000,33.9006,35.6178
-Bsalim,El Metn,Mount Lebanon,Apartment,180,3,3,200000,33.9006,35.6178
-Bsalim,El Metn,Mount Lebanon,Apartment,165,3,4,240000,33.9006,35.6178
-Maaysra,Kesrouane,Mount Lebanon,Apartment,165,3,4,149000,33.9808,35.6856
-Maaysra,Kesrouane,Mount Lebanon,Apartment,165,3,4,158000,33.9808,35.6856
-Maaysra,Kesrouane,Mount Lebanon,Apartment,165,3,4,166000,33.9808,35.6856
-Beit el Chaar,El Metn,Mount Lebanon,Apartment,210,3,4,550000,33.9006,35.6178
-Beit el Chaar,El Metn,Mount Lebanon,Apartment,200,3,4,325000,33.9006,35.6178
-Beit el Chaar,El Metn,Mount Lebanon,Apartment,200,3,4,300000,33.9006,35.6178
-Kfar Aabida,Batroun,North,Apartment,320,2,3,480000,34.2556,35.6586
-Jal el Dib,El Metn,Mount Lebanon,Apartment,170,2,2,200000,33.9006,35.6178
-Biyada,El Metn,Mount Lebanon,Apartment,400,3,3,800000,33.9006,35.6178
-Kornet Chehwan,El Metn,Mount Lebanon,Apartment,360,3,4,550000,33.9006,35.6178
-Sioufi,Beirut,Beirut,Apartment,220,3,3,490000,33.8886,35.4955
-Bouchrieh,El Metn,Mount Lebanon,Shop,650,3,0,900000,33.9006,35.6178
-Bouchrieh,El Metn,Mount Lebanon,Apartment,125,3,2,135000,33.9006,35.6178
-Bouchrieh,El Metn,Mount Lebanon,Apartment,110,2,2,125000,33.9006,35.6178
-Qannabet Broumana,El Metn,Mount Lebanon,Land,500,0,0,420000,33.9006,35.6178
-Mar Chaaya,El Metn,Mount Lebanon,Land,867,0,0,550000,33.9006,35.6178
-Zouk Mikael,Kesrouane,Mount Lebanon,Warehouse,430,1,0,800000,33.9808,35.6856
-Achrafieh,Beirut,Beirut,Apartment,102,2,2,320000,33.8886,35.4955
-Achrafieh,Beirut,Beirut,Apartment,105,2,2,325000,33.8886,35.4955
-Zouk Mosbeh,Kesrouane,Mount Lebanon,Shop,100,1,0,200000,33.9808,35.6856
-Baabdat,El Metn,Mount Lebanon,Residential Building,865,3,3,565000,33.9006,35.6178
-Zouk Mosbeh,Kesrouane,Mount Lebanon,Apartment,180,3,2,120000,33.9808,35.6856
-kfarhbeib,Kesrouane,Mount Lebanon,Land,281,0,0,900000,33.9808,35.6856
-Mar Mikhael,Beirut,Beirut,Office,525,0,0,1400000,33.8886,35.4955
-Sarba,Kesrouane,Mount Lebanon,Apartment,370,3,3,400000,33.9808,35.6856
-Ghadir,Kesrouane,Mount Lebanon,Apartment,230,4,4,200000,33.9808,35.6856
-Edde,Jbeil,Mount Lebanon,Apartment,140,3,2,129000,34.1236,35.6455
-Biyada,El Metn,Mount Lebanon,Land,131,0,0,1100000,33.9006,35.6178
-Batroun,Batroun,North,Apartment,90,2,2,135000,34.2556,35.6586
-Ain Alak,El Metn,Mount Lebanon,Land,640,0,0,1200000,33.9006,35.6178
-kfarhbeib,Kesrouane,Mount Lebanon,Apartment,171,3,3,300000,33.9808,35.6856
-kfarhbeib,Kesrouane,Mount Lebanon,Apartment,180,3,3,300000,33.9808,35.6856
-Adma,Kesrouane,Mount Lebanon,Residential Building,100,0,0,3800000,33.9808,35.6856
-Laqlouq,Jbeil,Mount Lebanon,Land,0,0,0,700000,34.1236,35.6455
-Jbeil,Jbeil,Mount Lebanon,Factory,500,2,0,750000,34.1236,35.6455
-Jbeil,Jbeil,Mount Lebanon,Residential Building,200,0,0,1000000,34.1236,35.6455
-Bsalim,El Metn,Mount Lebanon,Land,470,0,0,1729000,33.9006,35.6178
-Elissar,El Metn,Mount Lebanon,Shop,440,0,0,3000000,33.9006,35.6178
-Baabda,Baabda,Mount Lebanon,Apartment,350,3,5,780000,33.8333,35.5442
-Blat,Jbeil,Mount Lebanon,Land,500,0,0,950000,34.1236,35.6455
-Baabda,Baabda,Mount Lebanon,Land,416,0,0,2100000,33.8333,35.5442
-Ghadir,Kesrouane,Mount Lebanon,Apartment,360,4,4,300000,33.9808,35.6856
-Bsalim,El Metn,Mount Lebanon,Apartment,550,4,6,475000,33.9006,35.6178
-Baabdat,El Metn,Mount Lebanon,Apartment,176,3,3,325000,33.9006,35.6178
-Mar Mikhael,Beirut,Beirut,Apartment,123,2,2,550000,33.8886,35.4955
-Adonis,Kesrouane,Mount Lebanon,Shop,90,1,0,160000,33.9808,35.6856
-Nahr Ibrahim,Jbeil,Mount Lebanon,Shop,500,1,0,400000,34.1236,35.6455
-Ghazir,Kesrouane,Mount Lebanon,Land,628,0,0,350000,33.9808,35.6856
-Jal el Dib,El Metn,Mount Lebanon,Apartment,115,2,2,140000,33.9006,35.6178
-kfarhbeib,Kesrouane,Mount Lebanon,Apartment,200,3,3,400000,33.9808,35.6856
-Achrafieh,Beirut,Beirut,Apartment,180,3,3,555000,33.8886,35.4955
-Batroun,Batroun,North,Land,900,0,0,510000,34.2556,35.6586
-Dbayeh,El Metn,Mount Lebanon,Land,20,0,0,714000,33.9006,35.6178
-Chikhane,Jbeil,Mount Lebanon,Land,236,0,0,300000,34.1236,35.6455
-Tilal Ain Saade,El Metn,Mount Lebanon,Apartment,420,5,5,410000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Apartment,190,3,3,320000,33.8886,35.4955
-Fakra,Kesrouane,Mount Lebanon,Land,583,0,0,450000,33.9808,35.6856
-Ouyoun Al Simen,Kesrouane,Mount Lebanon,Chalet,100,3,2,300000,33.9808,35.6856
-Ouyoun Al Simen,Kesrouane,Mount Lebanon,Chalet,150,2,2,450000,33.9808,35.6856
-Adma,Kesrouane,Mount Lebanon,Apartment,187,3,4,245000,33.9808,35.6856
-Zouk Mikael,Kesrouane,Mount Lebanon,Shop,300,1,0,400000,33.9808,35.6856
-Lehfed,Jbeil,Mount Lebanon,Land,770,0,0,135000,34.1236,35.6455
-kfarhbeib,Kesrouane,Mount Lebanon,Apartment,300,3,4,425000,33.9808,35.6856
-Jbeil,Jbeil,Mount Lebanon,Apartment,100,2,2,130000,34.1236,35.6455
-Adma,Kesrouane,Mount Lebanon,Apartment,220,3,4,370000,33.9808,35.6856
-Adma,Kesrouane,Mount Lebanon,Apartment,211,3,4,390000,33.9808,35.6856
-Adma,Kesrouane,Mount Lebanon,Apartment,205,3,4,390000,33.9808,35.6856
-Adma,Kesrouane,Mount Lebanon,Apartment,208,3,4,375000,33.9808,35.6856
-Jounieh,Kesrouane,Mount Lebanon,Commercial Building,0,0,0,3500000,33.9808,35.6856
-Chikhane,Jbeil,Mount Lebanon,Land,600,0,0,560000,34.1236,35.6455
-Laqlouq,Jbeil,Mount Lebanon,Land,756,0,0,405000,34.1236,35.6455
-Batroun,Batroun,North,Land,746,0,0,330000,34.2556,35.6586
-Nahr El Mot,El Metn,Mount Lebanon,Warehouse,327,0,0,420000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Apartment,100,2,3,350000,33.8886,35.4955
-Batroun,Batroun,North,Apartment,140,3,3,168000,34.2556,35.6586
-Batroun,Batroun,North,Apartment,109,2,2,130000,34.2556,35.6586
-Ras Beirut,Beirut,Beirut,Land,840,0,0,5000000,33.8886,35.4955
-Halat,Jbeil,Mount Lebanon,Land,944,0,0,280000,34.1236,35.6455
-Mechmech,Jbeil,Mount Lebanon,House/Villa,267,3,4,260000,34.1236,35.6455
-Ghedras,Kesrouane,Mount Lebanon,Land,550,0,0,170000,33.9808,35.6856
-Dik El Mehdi,El Metn,Mount Lebanon,Apartment,330,5,6,300000,33.9006,35.6178
-Ain Saadeh,El Metn,Mount Lebanon,Apartment,230,3,5,415000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Apartment,300,3,4,1200000,33.8886,35.4955
-Zaarour,El Metn,Mount Lebanon,Chalet,120,3,2,180000,33.9006,35.6178
-Jdayel,Jbeil,Mount Lebanon,Apartment,165,3,3,155000,34.1236,35.6455
-Ghazir,Kesrouane,Mount Lebanon,Office,140,3,0,250000,33.9808,35.6856
-Dbayeh,El Metn,Mount Lebanon,Land,495,0,0,350000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Shop,100,1,0,450000,33.8886,35.4955
-Adma,Kesrouane,Mount Lebanon,Land,156,0,0,400000,33.9808,35.6856
-Tilal Ain Saade,El Metn,Mount Lebanon,Apartment,170,3,3,162000,33.9006,35.6178
-Edde,Jbeil,Mount Lebanon,Land,80,0,0,600000,34.1236,35.6455
-Azra,Kesrouane,Mount Lebanon,Commercial Building,200,0,0,250000,33.9808,35.6856
-Achrafieh,Beirut,Beirut,Apartment,320,4,3,1025000,33.8886,35.4955
-Achrafieh,Beirut,Beirut,Apartment,230,3,3,690000,33.8886,35.4955
-Jbeil,Jbeil,Mount Lebanon,Land,620,0,0,300000,34.1236,35.6455
-Mansourieh,El Metn,Mount Lebanon,Apartment,155,3,3,155000,33.9006,35.6178
-Chikhane,Jbeil,Mount Lebanon,Land,995,0,0,150000,34.1236,35.6455
-Qannabet Broumana,El Metn,Mount Lebanon,Apartment,300,3,5,675000,33.9006,35.6178
-Badaro,Beirut,Beirut,Apartment,211,3,2,400000,33.8886,35.4955
-Ajaltoun,Kesrouane,Mount Lebanon,House/Villa,220,3,3,3500000,33.9808,35.6856
-Laqlouq,Jbeil,Mount Lebanon,Land,800,0,0,280000,34.1236,35.6455
-Shayle,Kesrouane,Mount Lebanon,Land,851,0,0,340000,33.9808,35.6856
-Down Town,Beirut,Beirut,Apartment,195,2,4,975000,33.8886,35.4955
-Ghazir,Kesrouane,Mount Lebanon,House/Villa,410,4,3,450000,33.9808,35.6856
-Hboub,Jbeil,Mount Lebanon,Shop,730,1,0,350000,34.1236,35.6455
-Mechmech,Jbeil,Mount Lebanon,Land,34,0,0,75000,34.1236,35.6455
-Achrafieh,Beirut,Beirut,Apartment,240,3,3,450000,33.8886,35.4955
-Jbeil,Jbeil,Mount Lebanon,Shop,105,1,0,220000,34.1236,35.6455
-Zikrit,El Metn,Mount Lebanon,Apartment,180,2,3,150000,33.9006,35.6178
-Aabeidat,Jbeil,Mount Lebanon,Land,735,0,0,250000,34.1236,35.6455
-Jbeil,Jbeil,Mount Lebanon,Land,853,0,0,850000,34.1236,35.6455
-Kfaryassine,Kesrouane,Mount Lebanon,Apartment,200,3,3,360000,33.9808,35.6856
-Mar Takla,Baabda,Mount Lebanon,Apartment,320,3,4,725000,33.8333,35.5442
-Azra,Kesrouane,Mount Lebanon,Commercial Building,500,0,0,500000,33.9808,35.6856
-Laqlouq,Jbeil,Mount Lebanon,Chalet,71,1,1,142000,34.1236,35.6455
-Laqlouq,Jbeil,Mount Lebanon,Chalet,68,1,1,135000,34.1236,35.6455
-Laqlouq,Jbeil,Mount Lebanon,Chalet,67,1,1,115000,34.1236,35.6455
-Laqlouq,Jbeil,Mount Lebanon,Chalet,68,1,1,135000,34.1236,35.6455
-Blat,Jbeil,Mount Lebanon,Apartment,160,3,2,90000,34.1236,35.6455
-Bnichaai,Zgharta,North,House/Villa,445,5,6,850000,34.3314,35.8958
-Yarzeh,Baabda,Mount Lebanon,Apartment,295,3,5,990000,33.8333,35.5442
-Yarzeh,Baabda,Mount Lebanon,Apartment,255,3,5,835000,33.8333,35.5442
-Yarzeh,Baabda,Mount Lebanon,Apartment,255,3,5,700000,33.8333,35.5442
-Biyada,El Metn,Mount Lebanon,Apartment,300,3,4,640000,33.9006,35.6178
-Broumana,El Metn,Mount Lebanon,Apartment,180,1,2,500000,33.9006,35.6178
-Dahr El Sawan,El Metn,Mount Lebanon,Apartment,240,3,4,230000,33.9006,35.6178
-Mar Chaaya,El Metn,Mount Lebanon,Land,650,0,0,780000,33.9006,35.6178
-Ghbale,Kesrouane,Mount Lebanon,Land,500,0,0,100000,33.9808,35.6856
-Qartaba,Jbeil,Mount Lebanon,Land,550,0,0,600000,34.1236,35.6455
-Dbayeh,El Metn,Mount Lebanon,Apartment,300,3,4,800000,33.9006,35.6178
-Baabdat,El Metn,Mount Lebanon,House/Villa,50,0,0,850000,33.9006,35.6178
-Zaarour,El Metn,Mount Lebanon,Land,980,0,0,220000,33.9006,35.6178
-Zouk Mikael,Kesrouane,Mount Lebanon,Warehouse,500,2,0,250000,33.9808,35.6856
-Fakra,Kesrouane,Mount Lebanon,Chalet,200,3,3,600000,33.9808,35.6856
-Ehmej,Jbeil,Mount Lebanon,Land,400,0,0,280000,34.1236,35.6455
-Baabda,Baabda,Mount Lebanon,Apartment,270,3,5,650000,33.8333,35.5442
-Zouk Mosbeh,Kesrouane,Mount Lebanon,Apartment,105,2,2,135000,33.9808,35.6856
-Halat,Jbeil,Mount Lebanon,Apartment,240,3,3,175000,34.1236,35.6455
-Jeita,Kesrouane,Mount Lebanon,Apartment,165,3,3,310000,33.9808,35.6856
-Badaro,Beirut,Beirut,Apartment,185,3,3,500000,33.8886,35.4955
-Al Jamhour,Baabda,Mount Lebanon,Apartment,320,3,3,535000,33.8333,35.5442
-Mansourieh,El Metn,Mount Lebanon,Office,65,1,0,70000,33.9006,35.6178
-Mansourieh,El Metn,Mount Lebanon,House/Villa,0,5,7,1100000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Apartment,379,4,6,1500000,33.8886,35.4955
-Kfar Kida,Jbeil,Mount Lebanon,House/Villa,500,2,4,450000,34.1236,35.6455
-Anfe,Koura,North,Commercial Building,600,2,0,600000,34.3294,35.7931
-Broumana,El Metn,Mount Lebanon,Land,100,0,0,400000,33.9006,35.6178
-Mazraat Yachouh,El Metn,Mount Lebanon,Apartment,265,4,4,420000,33.9006,35.6178
-Bteghrine,El Metn,Mount Lebanon,Land,700,0,0,300000,33.9006,35.6178
-Jouret Al Ballout,El Metn,Mount Lebanon,Land,0,0,0,500000,33.9006,35.6178
-Antelias,El Metn,Mount Lebanon,Apartment,155,3,2,250000,33.9006,35.6178
-Batroun,Batroun,North,House/Villa,0,4,4,850000,34.2556,35.6586
-Hboub,Jbeil,Mount Lebanon,Apartment,300,3,3,275000,34.1236,35.6455
-Rabieh,El Metn,Mount Lebanon,Land,940,0,0,1400000,33.9006,35.6178
-Naccache,El Metn,Mount Lebanon,Apartment,240,3,3,250000,33.9006,35.6178
-Jdeideh,El Metn,Mount Lebanon,Office,135,1,0,320000,33.9006,35.6178
-Achrafieh,Beirut,Beirut,Office,400,0,0,1300000,33.8886,35.4955
-Naccache,El Metn,Mount Lebanon,Land,932,0,0,2500000,33.9006,35.6178
-Beit Chabeb,El Metn,Mount Lebanon,Apartment,0,6,4,2200000,33.9006,35.6178
-Halat,Jbeil,Mount Lebanon,Land,260,0,0,378000,34.1236,35.6455
-Achrafieh,Beirut,Beirut,Apartment,150,3,3,340000,33.8886,35.4955
-Achrafieh,Beirut,Beirut,Apartment,350,4,4,700000,33.8886,35.4955
-Edde,Jbeil,Mount Lebanon,Apartment,151,3,3,160000,34.1236,35.6455
-Safra,Kesrouane,Mount Lebanon,Apartment,165,3,3,140000,33.9808,35.6856
-Klayaat,Kesrouane,Mount Lebanon,Land,590,0,0,150000,33.9808,35.6856
-Halat,Jbeil,Mount Lebanon,Land,63,0,0,320000,34.1236,35.6455
-Bikfaya,El Metn,Mount Lebanon,House/Villa,250,2,3,1800000,33.9006,35.6178
-Hazmieh,Baabda,Mount Lebanon,Apartment,150,3,2,250000,33.8333,35.5442
-Adonis,Kesrouane,Mount Lebanon,Apartment,200,3,3,140000,33.9808,35.6856
-Aamchit,Jbeil,Mount Lebanon,Land,962,0,0,193000,34.1236,35.6455
-Zouk Mosbeh,Kesrouane,Mount Lebanon,Apartment,177,3,3,130000,33.9808,35.6856
-Dbayeh,El Metn,Mount Lebanon,Apartment,210,3,5,430000,33.9006,35.6178
-Mansourieh,El Metn,Mount Lebanon,Land,300,0,0,300000,33.9006,35.6178
-Deir Al Qamar,Chouf,Mount Lebanon,Land,500,0,0,350000,33.6947,35.5792
-Qortada,El Metn,Mount Lebanon,House/Villa,100,2,2,260000,33.9006,35.6178
-Baabda,Baabda,Mount Lebanon,Apartment,200,3,4,299000,33.8333,35.5442
-Baabdat,El Metn,Mount Lebanon,Apartment,120,2,2,250000,33.9006,35.6178
-Monteverde,El Metn,Mount Lebanon,Apartment,240,4,4,500000,33.9006,35.6178
-Zandouqa,El Metn,Mount Lebanon,Land,649,0,0,265000,33.9006,35.6178
-Broumana,El Metn,Mount Lebanon,Apartment,125,2,4,270000,33.9006,35.6178
-Sin El Fil,El Metn,Mount Lebanon,Gas Station,50,0,0,4500000,33.9006,35.6178
-Chekka,Batroun,North,Commercial Building,200,0,0,1300000,34.2556,35.6586
-chnaniir,Kesrouane,Mount Lebanon,House/Villa,500,7,0,4000000,33.9808,35.6856
-Edde,Jbeil,Mount Lebanon,Apartment,274,4,5,272000,34.1236,35.6455
-Antelias,El Metn,Mount Lebanon,Shop,100,1,0,250000,33.9006,35.6178
-Biyada,El Metn,Mount Lebanon,Land,0,0,0,800000,33.9006,35.6178
-Beit Chabeb,El Metn,Mount Lebanon,Apartment,230,3,2,150000,33.9006,35.6178
-Faraya,Kesrouane,Mount Lebanon,Land,900,0,0,130000,33.9808,35.6856
-Anfe,Koura,North,Apartment,163,3,2,125000,34.3294,35.7931
-Jbeil,Jbeil,Mount Lebanon,Apartment,150,3,2,145000,34.1236,35.6455
-Sioufi,Beirut,Beirut,Apartment,230,2,3,1200000,33.8886,35.4955
-Mansourieh,El Metn,Mount Lebanon,Apartment,200,3,3,229000,33.9006,35.6178
-Broumana,El Metn,Mount Lebanon,Apartment,140,3,3,230000,33.9006,35.6178
-Faraya,Kesrouane,Mount Lebanon,Chalet,132,2,2,300000,33.9808,35.6856
-Achrafieh,Beirut,Beirut,Apartment,560,3,4,3000000,33.8886,35.4955
-Halat,Jbeil,Mount Lebanon,Apartment,300,4,4,230000,34.1236,35.6455
-Batroun,Batroun,North,House/Villa,130,2,2,400000,34.2556,35.6586
-Jounieh,Kesrouane,Mount Lebanon,Apartment,228,3,2,275000,33.9808,35.6856
-Badaro,Beirut,Beirut,Apartment,235,3,3,450000,33.8886,35.4955
-Hosrayel,Jbeil,Mount Lebanon,Apartment,125,3,2,125000,34.1236,35.6455
-Hosrayel,Jbeil,Mount Lebanon,Apartment,115,2,2,115000,34.1236,35.6455
-Haret Sakher,Kesrouane,Mount Lebanon,Shop,300,2,0,380000,33.9808,35.6856
-Beit Meri,El Metn,Mount Lebanon,Land,772,0,0,950000,33.9006,35.6178
-Mazraat Yachouh,El Metn,Mount Lebanon,Warehouse,400,2,0,250000,33.9006,35.6178
-Nabey,El Metn,Mount Lebanon,Land,802,0,0,1300000,33.9006,35.6178
-Hazmieh,Baabda,Mount Lebanon,Apartment,325,4,5,825000,33.8333,35.5442
-Hboub,Jbeil,Mount Lebanon,Apartment,150,3,3,155000,34.1236,35.6455
-Jbeil,Jbeil,Mount Lebanon,Apartment,110,2,2,120000,34.1236,35.6455
-Halat,Jbeil,Mount Lebanon,Land,401,0,0,720000,34.1236,35.6455
-Hboub,Jbeil,Mount Lebanon,Apartment,155,3,3,185000,34.1236,35.6455
-Jbeil,Jbeil,Mount Lebanon,Land,25,0,0,305000,34.1236,35.6455
-Rabweh,El Metn,Mount Lebanon,Land,300,0,0,1035000,33.9006,35.6178
-Baabda,Baabda,Mount Lebanon,Apartment,250,2,3,500000,33.8333,35.5442
-Broumana,El Metn,Mount Lebanon,Apartment,150,3,2,170000,33.9006,35.6178
-Chikhane,Jbeil,Mount Lebanon,Land,260,0,0,220000,34.1236,35.6455
-Fidar,Jbeil,Mount Lebanon,Land,185,0,0,15000000,34.1236,35.6455
-Achrafieh,Beirut,Beirut,Apartment,220,3,3,650000,33.8886,35.4955
-Jdayel,Jbeil,Mount Lebanon,Apartment,125,2,2,135000,34.1236,35.6455
-Jbeil,Jbeil,Mount Lebanon,Land,100,0,0,300000,34.1236,35.6455
-Antelias,El Metn,Mount Lebanon,Warehouse,400,1,0,325000,33.9006,35.6178
-Aamchit,Jbeil,Mount Lebanon,Land,408,0,0,1500000,34.1236,35.6455
-Monteverde,El Metn,Mount Lebanon,Apartment,180,3,3,300000,33.9006,35.6178
-Hboub,Jbeil,Mount Lebanon,Apartment,160,3,3,120000,34.1236,35.6455
-Jbeil,Jbeil,Mount Lebanon,Land,200,0,0,240000,34.1236,35.6455
-Blat,Jbeil,Mount Lebanon,Apartment,150,3,3,155000,34.1236,35.6455
-Achrafieh,Beirut,Beirut,Land,324,0,0,1450000,33.8886,35.4955
-Broumana,El Metn,Mount Lebanon,Apartment,275,3,4,500000,33.9006,35.6178
-Broumana,El Metn,Mount Lebanon,Apartment,355,3,4,900000,33.9006,35.6178
-Mar Takla,Baabda,Mount Lebanon,Apartment,180,3,3,280000,33.8333,35.5442
-Jbeil,Jbeil,Mount Lebanon,Apartment,100,2,2,87000,34.1236,35.6455
-Blat,Jbeil,Mount Lebanon,Apartment,125,2,2,135000,34.1236,35.6455
-Aabeidat,Jbeil,Mount Lebanon,House/Villa,300,3,3,300000,34.1236,35.6455

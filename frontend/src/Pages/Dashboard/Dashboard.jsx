@@ -221,6 +221,19 @@ function Dashboard({ isElectron = false }) {
                 isLoading={isLoading_all}
               />
             )}
+            {isLoading_all && <LuLoaderCircle className="loader" size={30} />}
+            {!isLoading_properties && (
+              <Custom
+                title="Average Apartment Price per District"
+                desc={
+                  "This chart shows the distribution of the prices per meter squared across different cities in Lebanon."
+                }
+                Component={PriceM2}
+                data={properties}
+                estate_specific_type={"#24aee9d7"}
+                isLoading={isLoading_properties}
+              />
+            )}
           </div>
         </div>
         <div className="section">

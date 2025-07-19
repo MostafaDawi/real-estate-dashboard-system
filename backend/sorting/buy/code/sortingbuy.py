@@ -63,5 +63,8 @@ province_summary.to_csv(Path(__file__).resolve().parents[1]/"sorted_data"/"provi
 district_summary.to_csv(Path(__file__).resolve().parents[1]/"sorted_data"/"district_buysummary.csv", index=False)
 city.to_csv(Path(__file__).resolve().parents[1]/"sorted_data"/"city_buysummary.csv", index=False)
 properties_data_jsk.to_csv(Path(__file__).resolve().parents[1]/"sorted_data"/"properties_jsk.csv", index=False)
-
+print("Number of records for Provinces: ", province_summary.count())
+print("Number of records for District: ", district_summary.count())
+print("Number of records for City: ", city.count())
+print("Number of records for Properties: ", properties_data_jsk.count())
 print("Sorting complete.")

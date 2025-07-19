@@ -34,7 +34,7 @@ def process_real_estate_data(realestate_path, location_data_path, output_csv_pat
     
     
     final_df = realestate_df[['Address', 'Price', 'Area sqm', 'Bedroom', 'Bathroom', 'Furnished']]
-    final_df.columns = ['Address', 'Price $', 'Size m²', 'Bedrooms', 'Bathrooms', 'Furnished']
+    final_df.columns = ['Address', 'Price $', 'Size m2', 'Bedrooms', 'Bathrooms', 'Furnished']
     
     
     final_df.to_csv(output_csv_path, index=False, encoding='utf-8')
