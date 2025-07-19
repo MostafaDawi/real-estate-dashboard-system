@@ -7,8 +7,8 @@ df = pd.read_csv(source_path)
 
 df = df[~df['Address'].str.contains('France', case=False)]
 
-
 df['Size'] = df['Size'].str.replace(' m²', '').str.replace(',', '')
+
 
 
 df['Price'] = df['Price'].replace({'\$': '', ',': ''}, regex=True)

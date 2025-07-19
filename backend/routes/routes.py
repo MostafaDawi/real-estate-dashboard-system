@@ -74,7 +74,7 @@ async def get_all_hot_areas():
 async def get_price_m2():
     supabase = await create_supabase()
     try:
-        res = await supabase.from_("properties").select("city, province, type, price_$, size_m2, bedrooms, bathrooms").range(0,50).order("type").execute()
+        res = await supabase.from_("properties").select("city, province, type, price_$, size_m2, bedrooms, bathrooms").range(0,20).order("type").execute()
         print(res.data)
         return jsonify(res.data), 200
     except Exception as e:

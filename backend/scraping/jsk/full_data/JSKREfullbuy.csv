@@ -1,4 +1,702 @@
 Address,Price,Type,Size,Bedrooms,Bathrooms
+"Koura, Koura
+                    , North","$150,000",Apartment,270 m²,3,3
+"Hboub, Jbeil
+                    , Mount Lebanon","$192,000",Apartment,175 m²,3,3
+"Hboub, Jbeil
+                    , Mount Lebanon","$123,000",Apartment,112 m²,2,2
+"Halat, Jbeil
+                    , Mount Lebanon","$3,700,000",House/Villa,437 m²,2,6
+"Qortada, El Metn
+                    , Mount Lebanon","$215,000",Land,530 m²,N/A,N/A
+"Mansourieh, El Metn
+                    , Mount Lebanon","$250,000",Apartment,195 m²,3,3
+"Mansourieh, El Metn
+                    , Mount Lebanon","$200,000",Apartment,190 m²,3,3
+"Fanar, El Metn
+                    , Mount Lebanon","$450,000",Apartment,400 m²,4,4
+"Sawfar, Aley
+                    , Mount Lebanon","$85,000",Apartment,140 m²,2,3
+"Biyada, El Metn
+                    , Mount Lebanon","$650,000",Apartment,240 m²,3,3
+"Jal el Dib, El Metn
+                    , Mount Lebanon","$95,000",Apartment,95 m²,2,2
+"Jounieh, Kesrouane
+                    , Mount Lebanon","$275,000",Office,140 m²,3,N/A
+"Achrafieh, Beirut
+                    , Beirut","$1,150,000",Apartment,300 m²,3,3
+"Achrafieh, Beirut
+                    , Beirut","$1,700,000",Shop,386 m²,2,N/A
+"Kaslik, Kesrouane
+                    , Mount Lebanon","$265,000",Office,110 m²,2,N/A
+"kfarhbeib, Kesrouane
+                    , Mount Lebanon","$700,000",Apartment,500 m²,4,4
+"Ehden, Zgharta
+                    , North","$200,000",Apartment,250 m²,3,4
+"Achrafieh, Beirut
+                    , Beirut","$280,000",Apartment,75 m²,1,1
+"Achrafieh, Beirut
+                    , Beirut","$70,000",Shop,22 m²,1,N/A
+"Adonis, Kesrouane
+                    , Mount Lebanon","$140,000",Shop,75 m²,1,N/A
+"Achrafieh, Beirut
+                    , Beirut","$1,170,000",Apartment,234 m²,3,4
+"Achrafieh, Beirut
+                    , Beirut","$363,000",Apartment,117 m²,2,2
+"Beit Meri, El Metn
+                    , Mount Lebanon","$500,000",Apartment,223 m²,3,4
+"Beit Meri, El Metn
+                    , Mount Lebanon","$720,000",Apartment,350 m²,4,6
+"Aatchane, El Metn
+                    , Mount Lebanon","$290,000",Apartment,170 m²,3,3
+"Jbeil, Jbeil
+                    , Mount Lebanon","$75,000",Apartment,120 m²,2,2
+"Dekweneh, El Metn
+                    , Mount Lebanon","$180,000",Shop,120 m²,1,N/A
+"Mar Mikhael, Beirut
+                    , Beirut","$475,000",Apartment,113 m²,2,2
+"Mar Mikhael, Beirut
+                    , Beirut","$430,000",Apartment,113 m²,2,2
+"Mansourieh, El Metn
+                    , Mount Lebanon","$250,000",Shop,400 m²,2,N/A
+"Aoukar, El Metn
+                    , Mount Lebanon","$990,000",Apartment,230 m²,3,4
+"Ehden, Zgharta
+                    , North","$156,000",Apartment,142 m²,3,N/A
+"Kfarzebian, Kesrouane
+                    , Mount Lebanon","$350,000",Chalet,120 m²,2,1
+"Ras Beirut, Beirut
+                    , Beirut","$550,000",Apartment,240 m²,3,2
+"Ras Beirut, Beirut
+                    , Beirut","$95,000",Shop,80 m²,1,N/A
+"Ain El Rihani, Kesrouane
+                    , Mount Lebanon","$184,000",Apartment,220 m²,3,3
+"Ain Saadeh, El Metn
+                    , Mount Lebanon","$625,000",Apartment,250 m²,4,5
+"Edde, Jbeil
+                    , Mount Lebanon","$155,000",Apartment,170 m²,3,3
+"Dbayeh, El Metn
+                    , Mount Lebanon","$900,000",Apartment,412 m²,4,4
+"Zouk Mikael, Kesrouane
+                    , Mount Lebanon","$140,000",Apartment,125 m²,2,2
+"kfarhbeib, Kesrouane
+                    , Mount Lebanon","$290,000",Apartment,210 m²,3,4
+"kfarhbeib, Kesrouane
+                    , Mount Lebanon","$310,000",Apartment,208 m²,3,4
+"kfarhbeib, Kesrouane
+                    , Mount Lebanon","$320,000",Apartment,208 m²,3,4
+"Hadath, Baabda
+                    , Mount Lebanon","$185,000",Apartment,135 m²,2,2
+"Hadath, Baabda
+                    , Mount Lebanon","$130,000",Apartment,174 m²,3,3
+"Halat, Jbeil
+                    , Mount Lebanon","$220,000",Apartment,175 m²,3,3
+"Halat, Jbeil
+                    , Mount Lebanon","$150,000",Apartment,200 m²,3,3
+"Halat, Jbeil
+                    , Mount Lebanon","$180,000",Apartment,200 m²,3,3
+"Halat, Jbeil
+                    , Mount Lebanon","$150,000",Apartment,145 m²,3,3
+"Hemlaya, El Metn
+                    , Mount Lebanon","$220,000",Land,020 m²,N/A,N/A
+"Bikfaya, El Metn
+                    , Mount Lebanon","$135,000",Apartment,125 m²,2,2
+"Baabdat, El Metn
+                    , Mount Lebanon","$620,000",House/Villa,400 m²,3,5
+"Jeita, Kesrouane
+                    , Mount Lebanon","$330,000",Apartment,155 m²,3,4
+"Beit Meri, El Metn
+                    , Mount Lebanon","$275,000",Apartment,170 m²,3,3
+"Achrafieh, Beirut
+                    , Beirut","$535,000",Apartment,250 m²,3,2
+"Jeita, Kesrouane
+                    , Mount Lebanon","$345,000",Apartment,200 m²,3,4
+"Jeita, Kesrouane
+                    , Mount Lebanon","$300,000",Apartment,158 m²,3,2
+"Jeita, Kesrouane
+                    , Mount Lebanon","$265,000",Apartment,154 m²,3,3
+"Hadath, Baabda
+                    , Mount Lebanon","$115,000",Apartment,117 m²,2,2
+"Achrafieh, Beirut
+                    , Beirut","$321,000",Apartment,102 m²,2,2
+"Achrafieh, Beirut
+                    , Beirut","$342,000",Apartment,102 m²,2,2
+"Achrafieh, Beirut
+                    , Beirut","$251,000",Apartment,75 m²,1,1
+"Achrafieh, Beirut
+                    , Beirut","$383,000",Apartment,105 m²,2,2
+"Baabda, Baabda
+                    , Mount Lebanon","$250,000",Apartment,210 m²,3,3
+"Mansourieh, El Metn
+                    , Mount Lebanon","$120,000",Apartment,80 m²,2,2
+"Achrafieh, Beirut
+                    , Beirut","$460,000",Apartment,230 m²,3,3
+"Halat, Jbeil
+                    , Mount Lebanon","$277,000",Apartment,220 m²,3,3
+"Halat, Jbeil
+                    , Mount Lebanon","$292,000",Apartment,220 m²,3,3
+"Halat, Jbeil
+                    , Mount Lebanon","$351,000",Apartment,270 m²,3,3
+"Halat, Jbeil
+                    , Mount Lebanon","$162,000",Apartment,135 m²,2,2
+"Halat, Jbeil
+                    , Mount Lebanon","$150,000",Apartment,135 m²,2,2
+"Mtayleb, El Metn
+                    , Mount Lebanon","$675,000",Apartment,325 m²,4,2
+"Bchamoun, Aley
+                    , Mount Lebanon","$160,000",Apartment,110 m²,2,2
+"Aamchit, Jbeil
+                    , Mount Lebanon","$95,000",Apartment,145 m²,3,2
+"Zouk Mosbeh, Kesrouane
+                    , Mount Lebanon","$470,000",Chalet,80 m²,2,1
+"Badaro, Beirut
+                    , Beirut","$150,000",Shop,79 m²,1,N/A
+"Down Town, Beirut
+                    , Beirut","$1,561,000",Apartment,223 m²,3,4
+"Jbeil, Jbeil
+                    , Mount Lebanon","$65,000",Apartment,40 m²,1,1
+"Achrafieh, Beirut
+                    , Beirut","$350,000",Apartment,130 m²,2,2
+"Elissar, El Metn
+                    , Mount Lebanon","$390,000",Apartment,300 m²,4,4
+"Bsalim, El Metn
+                    , Mount Lebanon","$600,000",Apartment,240 m²,3,3
+"Down Town, Beirut
+                    , Beirut","$900,000",Office,150 m²,1,N/A
+"Jbeil, Jbeil
+                    , Mount Lebanon","$195,000",Apartment,150 m²,3,3
+"Braij, Jbeil
+                    , Mount Lebanon","$210,000",Land,232 m²,N/A,N/A
+"Zaarour, El Metn
+                    , Mount Lebanon","$80,000",Land,740 m²,N/A,N/A
+"Faytroun, Kesrouane
+                    , Mount Lebanon","$170,000",Chalet,110 m²,3,2
+"Bsalim, El Metn
+                    , Mount Lebanon","$1,800,000",Apartment,380 m²,3,5
+"Badaro, Beirut
+                    , Beirut","$680,000",Apartment,225 m²,4,N/A
+"Sahel Alma, Kesrouane
+                    , Mount Lebanon","$351,000",Apartment,185 m²,3,4
+"Sahel Alma, Kesrouane
+                    , Mount Lebanon","$525,000",Apartment,370 m²,3,4
+"Jeita, Kesrouane
+                    , Mount Lebanon","$330,000",Apartment,280 m²,4,4
+"Jeita, Kesrouane
+                    , Mount Lebanon","$290,000",Apartment,230 m²,3,4
+"Jeita, Kesrouane
+                    , Mount Lebanon","$390,000",Apartment,400 m²,3,4
+"Jeita, Kesrouane
+                    , Mount Lebanon","$400,000",Apartment,400 m²,5,5
+"Ballouneh, Kesrouane
+                    , Mount Lebanon","$290,000",Apartment,290 m²,3,3
+"Achrafieh, Beirut
+                    , Beirut","$230,000",Apartment,75 m²,1,1
+"Hadath, Baabda
+                    , Mount Lebanon","$120,000",Apartment,110 m²,2,2
+"Ras El Metn, El Metn
+                    , Mount Lebanon","$175,000",Land,300 m²,N/A,N/A
+"Mansourieh, El Metn
+                    , Mount Lebanon","$148,000",Apartment,150 m²,3,2
+"Mansourieh, El Metn
+                    , Mount Lebanon","$169,000",Apartment,125 m²,2,2
+"Halat, Jbeil
+                    , Mount Lebanon","$130,000",Apartment,104 m²,2,2
+"Halat, Jbeil
+                    , Mount Lebanon","$178,000",Apartment,143 m²,3,3
+"Halat, Jbeil
+                    , Mount Lebanon","$85,000",Apartment,68 m²,1,1
+"Ballouneh, Kesrouane
+                    , Mount Lebanon","$360,000",Apartment,212 m²,3,4
+"Naccache, El Metn
+                    , Mount Lebanon","$9,000,000",Land,883 m²,N/A,N/A
+"Achrafieh, Beirut
+                    , Beirut","$245,000",Apartment,120 m²,2,2
+"Zouk Mikael, Kesrouane
+                    , Mount Lebanon","$110,000",Apartment,120 m²,2,2
+"Chwaya, El Metn
+                    , Mount Lebanon","$290,000",Apartment,150 m²,3,2
+"Baabdat, El Metn
+                    , Mount Lebanon","$300,000",Apartment,250 m²,3,4
+"Bsalim, El Metn
+                    , Mount Lebanon","$295,000",Apartment,250 m²,3,5
+"Maaysra, Kesrouane
+                    , Mount Lebanon","$160,000",Apartment,200 m²,3,3
+"Achrafieh, Beirut
+                    , Beirut","$500,000",Apartment,165 m²,3,3
+"Blat, Jbeil
+                    , Mount Lebanon","$2,500,000",House/Villa,850 m²,4,5
+"Nahr Ibrahim, Jbeil
+                    , Mount Lebanon","$665,000",Land,330 m²,N/A,N/A
+"Fakra, Kesrouane
+                    , Mount Lebanon","$500,000",Chalet,107 m²,3,3
+"Beit Chabeb, El Metn
+                    , Mount Lebanon","$330,000",Apartment,300 m²,4,6
+"Kfour, Kesrouane
+                    , Mount Lebanon","$300,000",Land,620 m²,N/A,N/A
+"Hosrayel, Jbeil
+                    , Mount Lebanon","$115,000",Apartment,100 m²,2,2
+"Ajaltoun, Kesrouane
+                    , Mount Lebanon","$288,000",Apartment,165 m²,3,3
+"Ajaltoun, Kesrouane
+                    , Mount Lebanon","$240,000",Apartment,148 m²,3,3
+"Achrafieh, Beirut
+                    , Beirut","$415,000",Apartment,130 m²,2,3
+"Badaro, Beirut
+                    , Beirut","$620,000",Apartment,250 m²,3,3
+"Badaro, Beirut
+                    , Beirut","$600,000",Apartment,210 m²,3,3
+"Jounieh, Kesrouane
+                    , Mount Lebanon","$245,000",Chalet,85 m²,1,2
+"Bchamoun, Aley
+                    , Mount Lebanon","$300,000",Apartment,170 m²,3,3
+"Sioufi, Beirut
+                    , Beirut","$700,000",Apartment,230 m²,3,4
+"Ain Al Remmane, Baabda
+                    , Mount Lebanon","$465,000",Apartment,185 m²,3,4
+"Hadath, Baabda
+                    , Mount Lebanon","$137,000",Apartment,110 m²,2,2
+"Hazmieh, Baabda
+                    , Mount Lebanon","$350,000",Shop,100 m²,1,N/A
+"Antelias, El Metn
+                    , Mount Lebanon","$3,000,000",Apartment,948 m²,6,8
+"Bsalim, El Metn
+                    , Mount Lebanon","$325,000",Apartment,180 m²,3,4
+"Bikfaya, El Metn
+                    , Mount Lebanon","$1,500,000",House/Villa,400 m²,4,6
+"Hazmieh, Baabda
+                    , Mount Lebanon","$400,000",Apartment,220 m²,3,4
+"Achrafieh, Beirut
+                    , Beirut","$280,000",Office,80 m²,1,N/A
+"Achrafieh, Beirut
+                    , Beirut","$550,000",Apartment,240 m²,3,3
+"Dbayeh, El Metn
+                    , Mount Lebanon","$220,000",Apartment,153 m²,3,3
+"Ras Beirut, Beirut
+                    , Beirut","$600,000",Apartment,240 m²,3,3
+"Dekweneh, El Metn
+                    , Mount Lebanon","$220,000",Apartment,165 m²,3,2
+"Hadath, Baabda
+                    , Mount Lebanon","$245,000",Apartment,175 m²,3,3
+"Furn El Chebbak, Baabda
+                    , Mount Lebanon","$137,000",Apartment,143 m²,2,2
+"Mtayleb, El Metn
+                    , Mount Lebanon","$1,500,000",Apartment,350 m²,4,4
+"Shayle, Kesrouane
+                    , Mount Lebanon","$250,000",Apartment,200 m²,3,4
+"Kfar Helda, Batroun
+                    , North","$550,000",Land,120 m²,N/A,N/A
+"Bouchrieh, El Metn
+                    , Mount Lebanon","$450,000",Shop,266 m²,1,N/A
+"Bouchrieh, El Metn
+                    , Mount Lebanon","$370,000",Shop,200 m²,1,N/A
+"Bouchrieh, El Metn
+                    , Mount Lebanon","$110,000",Shop,70 m²,N/A,N/A
+"Faytroun, Kesrouane
+                    , Mount Lebanon","$180,000",Chalet,61 m²,2,2
+"Achrafieh, Beirut
+                    , Beirut","$1,800,000",Apartment,555 m²,3,4
+"Aamchit, Jbeil
+                    , Mount Lebanon","$265,000",Land,760 m²,N/A,N/A
+"Dbayeh, El Metn
+                    , Mount Lebanon","$575,000",Office,170 m²,2,N/A
+"Achrafieh, Beirut
+                    , Beirut","$620,000",Apartment,147 m²,2,3
+"Zandouqa, Baabda
+                    , Mount Lebanon","$1,400,000",Residential Building,200 m²,N/A,N/A
+"Hboub, Jbeil
+                    , Mount Lebanon","$465,000",Warehouse,750 m²,1,N/A
+"Edde, Jbeil
+                    , Mount Lebanon","$165,000",Apartment,160 m²,3,3
+"Badaro, Beirut
+                    , Beirut","$275,000",Apartment,120 m²,2,2
+"Roumie, El Metn
+                    , Mount Lebanon","$1,000,000",Land,352 m²,N/A,N/A
+"Achkout, Kesrouane
+                    , Mount Lebanon","$200,000",Land,000 m²,N/A,N/A
+"Ras Beirut, Beirut
+                    , Beirut","$1,300,000",Apartment,380 m²,4,5
+"Ain Al Remmane, Baabda
+                    , Mount Lebanon","$425,000",Apartment,180 m²,3,4
+"Broumana, El Metn
+                    , Mount Lebanon","$500,000",Apartment,260 m²,3,4
+"Baabdat, El Metn
+                    , Mount Lebanon","$270,000",Apartment,167 m²,3,3
+"Majdel Tarchich, El Metn
+                    , Mount Lebanon","$690,000",Land,400 m²,N/A,N/A
+"Ghosta, Kesrouane
+                    , Mount Lebanon","$210,000",Land,725 m²,N/A,N/A
+"Ghazir, Kesrouane
+                    , Mount Lebanon","$75,000",Shop,80 m²,1,N/A
+"Faraya, Kesrouane
+                    , Mount Lebanon","$240,000",Chalet,80 m²,2,2
+"Aatchane, El Metn
+                    , Mount Lebanon","$346,500",Apartment,110 m²,2,2
+"Aatchane, El Metn
+                    , Mount Lebanon","$240,000",Apartment,110 m²,2,2
+"Aatchane, El Metn
+                    , Mount Lebanon","$165,000",Apartment,110 m²,2,2
+"Dik El Mehdi, El Metn
+                    , Mount Lebanon","$350,000",Apartment,235 m²,3,4
+"Dik El Mehdi, El Metn
+                    , Mount Lebanon","$284,000",Apartment,156 m²,3,4
+"Aatchane, El Metn
+                    , Mount Lebanon","$250,000",Apartment,140 m²,3,3
+"Bsalim, El Metn
+                    , Mount Lebanon","$300,000",Apartment,180 m²,3,4
+"Hazmieh, Baabda
+                    , Mount Lebanon","$285,000",Apartment,180 m²,3,3
+"Batroun, Batroun
+                    , North","$250,000",Apartment,110 m²,2,2
+"Bsalim, El Metn
+                    , Mount Lebanon","$180,000",Apartment,105 m²,2,2
+"Elissar, El Metn
+                    , Mount Lebanon","$250,000",Apartment,175 m²,3,3
+"Ain El Rihani, Kesrouane
+                    , Mount Lebanon","$129,000",Apartment,140 m²,3,2
+"Zouk Mikael, Kesrouane
+                    , Mount Lebanon","$127,000",Apartment,190 m²,3,3
+"Zouk Mikael, Kesrouane
+                    , Mount Lebanon","$66,000",Apartment,90 m²,2,1
+"Jbeil, Jbeil
+                    , Mount Lebanon","$250,000",Apartment,180 m²,3,4
+"Mechmech, Jbeil
+                    , Mount Lebanon","$50,000",Land,849 m²,N/A,N/A
+"Mechmech, Jbeil
+                    , Mount Lebanon","$98,000",Land,394 m²,N/A,N/A
+"Hboub, Jbeil
+                    , Mount Lebanon","$450,000",Apartment,400 m²,4,5
+"Hboub, Jbeil
+                    , Mount Lebanon","$275,000",Apartment,275 m²,3,4
+"Hboub, Jbeil
+                    , Mount Lebanon","$320,000",Apartment,275 m²,3,4
+"Mansourieh, El Metn
+                    , Mount Lebanon","$245,000",Apartment,280 m²,3,4
+"Hadath, Baabda
+                    , Mount Lebanon","$250,000",Apartment,160 m²,3,2
+"Kaslik, Kesrouane
+                    , Mount Lebanon","$170,000",Apartment,160 m²,3,3
+"Hazmieh, Baabda
+                    , Mount Lebanon","$385,000",Apartment,200 m²,3,4
+"Batroun, Batroun
+                    , North","$300,000",House/Villa,120 m²,3,N/A
+"Majdel Tarchich, El Metn
+                    , Mount Lebanon","$325,000",Land,567 m²,N/A,N/A
+"Majdel Tarchich, El Metn
+                    , Mount Lebanon","$165,000",Land,264 m²,N/A,N/A
+"Majdel Tarchich, El Metn
+                    , Mount Lebanon","$160,000",Land,203 m²,N/A,N/A
+"Hadath, Baabda
+                    , Mount Lebanon","$115,000",Apartment,120 m²,3,3
+"Mansourieh, El Metn
+                    , Mount Lebanon","$145,000",Apartment,165 m²,3,3
+"Bchelli, Jbeil
+                    , Mount Lebanon","$145,000",Apartment,170 m²,3,3
+"Paris 4ème, Paris 4ème
+                    , France","€649,000",Apartment,54 m²,2,1
+"Bsalim, El Metn
+                    , Mount Lebanon","$260,000",Apartment,150 m²,3,3
+"Fidar, Jbeil
+                    , Mount Lebanon","$200,000",Chalet,100 m²,2,2
+"Down Town, Beirut
+                    , Beirut","$3,785,000",Apartment,445 m²,3,3
+"Down Town, Beirut
+                    , Beirut","$1,835,000",Apartment,251 m²,2,2
+"Down Town, Beirut
+                    , Beirut","$2,250,000",Apartment,300 m²,2,3
+"Down Town, Beirut
+                    , Beirut","$1,885,000",Apartment,251 m²,2,2
+"Klayaat, Kesrouane
+                    , Mount Lebanon","$185,000",Land,190 m²,3,3
+"Zalka, El Metn
+                    , Mount Lebanon","$350,000",Apartment,220 m²,3,4
+"Mansourieh, El Metn
+                    , Mount Lebanon","$158,000",Apartment,220 m²,3,3
+"Paris 16ème, Paris 16ème
+                    , France","€895,000",Apartment,74 m²,2,1
+"Kaslik, Kesrouane
+                    , Mount Lebanon","$270,000",Chalet,60 m²,1,1
+"Paris 16ème, Paris 16ème
+                    , France","€450,000",Apartment,43 m²,1,1
+"Ajaltoun, Kesrouane
+                    , Mount Lebanon","$275,000",Apartment,225 m²,3,4
+"Achrafieh, Beirut
+                    , Beirut","$350,000",Apartment,200 m²,3,3
+"Madfoun, Batroun
+                    , North","$353,000",Land,765 m²,N/A,N/A
+"Blat, Jbeil
+                    , Mount Lebanon","$125,000",Land,595 m²,N/A,N/A
+"Shayle, Kesrouane
+                    , Mount Lebanon","$480,000",Apartment,390 m²,8,N/A
+"Paris 16ème, Paris 16ème
+                    , France","€475,000",Apartment,29 m²,1,1
+"Mansourieh, El Metn
+                    , Mount Lebanon","$185,000",Apartment,175 m²,3,3
+"Ghedras, Kesrouane
+                    , Mount Lebanon","$875,000",Residential Building,200 m²,N/A,N/A
+"Bikfaya, El Metn
+                    , Mount Lebanon","$600,000",Apartment,455 m²,3,3
+"Halat, Jbeil
+                    , Mount Lebanon","$205,000",Apartment,170 m²,3,4
+"Achrafieh, Beirut
+                    , Beirut","$880,000",Apartment,235 m²,3,3
+"Rawda, El Metn
+                    , Mount Lebanon","$225,000",Warehouse,350 m²,1,N/A
+"Dbayeh, El Metn
+                    , Mount Lebanon","$285,000",Office,84 m²,1,N/A
+"Dbayeh, El Metn
+                    , Mount Lebanon","$290,000",Office,86 m²,1,N/A
+"Betchay, Baabda
+                    , Mount Lebanon","$170,000",Apartment,160 m²,3,3
+"kfarhbeib, Kesrouane
+                    , Mount Lebanon","$300,000",Apartment,220 m²,3,4
+"Hadath, Baabda
+                    , Mount Lebanon","$210,000",Apartment,212 m²,3,3
+"Hadath, Baabda
+                    , Mount Lebanon","$130,000",Apartment,155 m²,3,2
+"Ballouneh, Kesrouane
+                    , Mount Lebanon","$105,000",Apartment,100 m²,2,3
+"Zahle, Zahle
+                    , Bekaa","$800,000",Apartment,79 m²,1,1
+"Achkout, Kesrouane
+                    , Mount Lebanon","$450,000",Land,800 m²,N/A,N/A
+"Down Town, Beirut
+                    , Beirut","$1,100,000",Apartment,270 m²,3,4
+"Mayrouba, Kesrouane
+                    , Mount Lebanon","$140,000",Apartment,160 m²,3,3
+"Qannabet Broumana, El Metn
+                    , Mount Lebanon","$130,000",Apartment,135 m²,2,2
+"Sahel Alma, Kesrouane
+                    , Mount Lebanon","$450,000",Apartment,250 m²,4,4
+"Fanar, El Metn
+                    , Mount Lebanon","$325,000",Apartment,195 m²,3,3
+"Batroun, Batroun
+                    , North","$90,000",Chalet,70 m²,1,N/A
+"Batroun, Batroun
+                    , North","$150,000",Chalet,115 m²,2,2
+"Batroun, Batroun
+                    , North","$110,000",Chalet,85 m²,1,1
+"Batroun, Batroun
+                    , North","$98,000",Chalet,75 m²,1,1
+"Rabieh, El Metn
+                    , Mount Lebanon","$4,200,000",Residential Building,170 m²,N/A,N/A
+"Ras Beirut, Beirut
+                    , Beirut","$400,000",Apartment,230 m²,3,2
+"Mazraat Yachouh, El Metn
+                    , Mount Lebanon","$140,000",Apartment,115 m²,2,2
+"Sahel Alma, Kesrouane
+                    , Mount Lebanon","$462,000",Apartment,250 m²,3,3
+"Sahel Alma, Kesrouane
+                    , Mount Lebanon","$545,000",Apartment,440 m²,4,6
+"Aamchit, Jbeil
+                    , Mount Lebanon","$165,000",Apartment,128 m²,2,2
+"Aamchit, Jbeil
+                    , Mount Lebanon","$1,200,000",House/Villa,200 m²,7,8
+"Dekweneh, El Metn
+                    , Mount Lebanon","$300,000",Apartment,270 m²,3,4
+"Beit Meri, El Metn
+                    , Mount Lebanon","$300,000",Apartment,215 m²,3,4
+"Mar Mikhael, Beirut
+                    , Beirut","$250,000",Apartment,120 m²,2,2
+"Paris 5ème, Paris 5ème
+                    , France","€790,000",Apartment,62 m²,2,1
+"Dekweneh, El Metn
+                    , Mount Lebanon","$2,200,000",Land,730 m²,N/A,N/A
+"Batroun, Batroun
+                    , North","$165,000",Apartment,113 m²,1,2
+"Bentaael, Jbeil
+                    , Mount Lebanon","$330,000",House/Villa,200 m²,2,2
+"Jdeideh, El Metn
+                    , Mount Lebanon","$346,000",Office,314 m²,1,N/A
+"Jdeideh, El Metn
+                    , Mount Lebanon","$310,000",Shop,49 m²,1,N/A
+"Adma, Kesrouane
+                    , Mount Lebanon","$3,350,000",Land,465 m²,N/A,N/A
+"Jdeideh, El Metn
+                    , Mount Lebanon","$175,000",Apartment,76 m²,1,1
+"Jdeideh, El Metn
+                    , Mount Lebanon","$190,000",Apartment,118 m²,2,2
+"Jdeideh, El Metn
+                    , Mount Lebanon","$210,000",Apartment,118 m²,2,2
+"Batroun, Batroun
+                    , North","$1,600,000",Land,000 m²,N/A,N/A
+"Ghadir, Kesrouane
+                    , Mount Lebanon","$200,000",Shop,66 m²,1,N/A
+"Achrafieh, Beirut
+                    , Beirut","$825,000",Apartment,250 m²,3,4
+"Bikfaya, El Metn
+                    , Mount Lebanon","$750,000",House/Villa,500 m²,N/A,N/A
+"Achrafieh, Beirut
+                    , Beirut","$650,000",Shop,190 m²,1,N/A
+"kfarhbeib, Kesrouane
+                    , Mount Lebanon","$800,000",Land,220 m²,N/A,N/A
+"Paris 16ème, Paris 16ème
+                    , France","€750,000",Apartment,66 m²,2,1
+"Paris 16ème, Paris 16ème
+                    , France","€655,000",Apartment,47 m²,1,1
+"Bsalim, El Metn
+                    , Mount Lebanon","$250,000",Apartment,200 m²,3,3
+"Aabrine, Batroun
+                    , North","$140,000",Land,550 m²,N/A,N/A
+"kfarhbeib, Kesrouane
+                    , Mount Lebanon","$400,000",Apartment,200 m²,3,4
+"Down Town, Beirut
+                    , Beirut","$2,500,000",Apartment,375 m²,3,4
+"Mar Mikhael, Beirut
+                    , Beirut","$1,300,000",Land,456 m²,N/A,N/A
+"Bsalim, El Metn
+                    , Mount Lebanon","$265,000",Apartment,130 m²,2,2
+"Achrafieh, Beirut
+                    , Beirut","$1,300,000",Apartment,330 m²,3,4
+"Mansourieh, El Metn
+                    , Mount Lebanon","$570,000",Apartment,416 m²,4,5
+"Zaarour, El Metn
+                    , Mount Lebanon","$210,000",Land,600 m²,N/A,N/A
+"Ghalboun, Jbeil
+                    , Mount Lebanon","$600,000",Land,000 m²,N/A,N/A
+"Dekweneh, El Metn
+                    , Mount Lebanon","$150,000",Apartment,120 m²,2,2
+"Paris 16ème, Paris 16ème
+                    , France","€1,450,000",Apartment,112 m²,2,2
+"Paris 17ème, Paris 17ème
+                    , France","€515,000",Apartment,43 m²,1,1
+"Zouk Mosbeh, Kesrouane
+                    , Mount Lebanon","$75,000",Apartment,80 m²,2,N/A
+"Qornet El Hamra, El Metn
+                    , Mount Lebanon","$237,000",Apartment,154 m²,3,3
+"Adonis, Kesrouane
+                    , Mount Lebanon","$160,000",Apartment,170 m²,3,4
+"Achrafieh, Beirut
+                    , Beirut","$2,000,000",Office,550 m²,4,N/A
+"Dubai, JVC
+                    , UAE","$410,000",Apartment,100 m²,2,3
+"Dubai, JVC
+                    , UAE","$270,000",Apartment,60 m²,1,2
+"Dubai, Dubai Islands
+                    , UAE","$745,000",Apartment,115 m²,2,3
+"Dubai, Dubai Islands
+                    , UAE","$450,000",Apartment,70 m²,1,2
+"Yarzeh, Baabda
+                    , Mount Lebanon","$620,000",Apartment,255 m²,3,5
+"Down Town, Beirut
+                    , Beirut","$1,500,000",Apartment,231 m²,3,3
+"Broumana, El Metn
+                    , Mount Lebanon","$850,000",Apartment,575 m²,4,6
+"Baabda, Baabda
+                    , Mount Lebanon","$850,000",Apartment,320 m²,3,5
+"Mar Takla, Baabda
+                    , Mount Lebanon","$585,000",Apartment,320 m²,4,5
+"Ain Al Remmane, Baabda
+                    , Mount Lebanon","$100,000",Apartment,107 m²,2,2
+"Jounieh, Kesrouane
+                    , Mount Lebanon","$90,000",Chalet,60 m²,1,1
+"Paris 15ème, Paris 15ème
+                    , France","€299,000",Apartment,33 m²,1,1
+"Paris 16ème, Paris 16ème
+                    , France","€672,000",Apartment,67 m²,2,1
+"Laqlouq, Jbeil
+                    , Mount Lebanon","$265,000",Chalet,180 m²,3,3
+"Laqlouq, Jbeil
+                    , Mount Lebanon","$143,000",Chalet,113 m²,2,2
+"Achrafieh, Beirut
+                    , Beirut","$850,000",Apartment,250 m²,3,5
+"Ras Beirut, Beirut
+                    , Beirut","$690,000",Apartment,275 m²,3,4
+"Mar Moussa, El Metn
+                    , Mount Lebanon","$2,300,000",House/Villa,340 m²,6,9
+"Achrafieh, Beirut
+                    , Beirut","$190,000",Apartment,110 m²,2,1
+"Paris 8ème, Paris 8ème
+                    , France","€988,000",Apartment,58 m²,1,1
+"Faytroun, Kesrouane
+                    , Mount Lebanon","$1,100,000",Land,195 m²,N/A,N/A
+"Jbeil, Jbeil
+                    , Mount Lebanon","$180,000",Apartment,170 m²,3,3
+"Shayle, Kesrouane
+                    , Mount Lebanon","$235,000",Apartment,168 m²,3,3
+"Hsoun, Jbeil
+                    , Mount Lebanon","$1,000,000",Commercial Building,125 m²,3,N/A
+"Haret Sakher, Kesrouane
+                    , Mount Lebanon","$350,000",Chalet,95 m²,3,2
+"Paris 8ème, Paris 8ème
+                    , France","€1,055,000",Apartment,74 m²,2,1
+"Mayrouba, Kesrouane
+                    , Mount Lebanon","$155,000",Land,365 m²,N/A,N/A
+"Baabdat, El Metn
+                    , Mount Lebanon","$2,000,000",Land,417 m²,N/A,N/A
+"Paris 15ème, Paris 15ème
+                    , France","€340,000",Apartment,30 m²,1,N/A
+"Paris 15ème, Paris 15ème
+                    , France","€259,500",Apartment,25 m²,1,N/A
+"Hsoun, Jbeil
+                    , Mount Lebanon","$372,000",Warehouse,345 m²,3,N/A
+"Berbara, Batroun
+                    , North","$470,000",Land,850 m²,N/A,N/A
+"Fakra, Kesrouane
+                    , Mount Lebanon","$310,000",Chalet,200 m²,3,3
+"Achrafieh, Beirut
+                    , Beirut","$360,000",Apartment,220 m²,3,2
+"Mazraat Yachouh, El Metn
+                    , Mount Lebanon","$125,000",Apartment,135 m²,2,2
+"Gemayzeh, Beirut
+                    , Beirut","$280,000",Apartment,160 m²,2,2
+"Zaarour, El Metn
+                    , Mount Lebanon","$365,000",Chalet,110 m²,3,2
+"Hboub, Jbeil
+                    , Mount Lebanon","$155,000",Apartment,160 m²,3,3
+"Paris 4ème, Paris 4ème
+                    , France","€730,000",Apartment,42 m²,1,1
+"Paris 1er, Paris 1er
+                    , France","€720,000",Apartment,42 m²,1,1
+"Dekweneh, El Metn
+                    , Mount Lebanon","$325,000",Apartment,300 m²,3,3
+"Gherfine, Jbeil
+                    , Mount Lebanon","$645,000",Land,432 m²,N/A,N/A
+"Fakra, Kesrouane
+                    , Mount Lebanon","$880,000",Chalet,190 m²,3,3
+"Baabdat, El Metn
+                    , Mount Lebanon","$235,000",Land,300 m²,N/A,N/A
+"Baabdat, El Metn
+                    , Mount Lebanon","$340,000",Land,900 m²,N/A,N/A
+"Gemayzeh, Beirut
+                    , Beirut","$1,100,000",Apartment,310 m²,4,5
+"Paris 16ème, Paris 16ème
+                    , France","€1,300,000",Apartment,117 m²,3,1
+"Rawche, Beirut
+                    , Beirut","$3,500,000",Apartment,535 m²,4,5
+"Laqlouq, Jbeil
+                    , Mount Lebanon","$165,000",Land,005 m²,N/A,N/A
+"Adma, Kesrouane
+                    , Mount Lebanon","$310,000",Apartment,200 m²,2,3
+"Aamchit, Jbeil
+                    , Mount Lebanon","$110,000",Apartment,150 m²,3,2
+"Blat, Jbeil
+                    , Mount Lebanon","$160,000",Apartment,248 m²,3,4
+"Blat, Jbeil
+                    , Mount Lebanon","$175,000",Apartment,248 m²,3,4
+"Achkout, Kesrouane
+                    , Mount Lebanon","$150,000",Apartment,170 m²,2,1
+"Ghadir, Kesrouane
+                    , Mount Lebanon","$185,000",Apartment,170 m²,3,3
+"Baabda, Baabda
+                    , Mount Lebanon","$360,000",Apartment,180 m²,3,4
+"Baabda, Baabda
+                    , Mount Lebanon","$450,000",Apartment,225 m²,3,4
+"Sahel Alma, Kesrouane
+                    , Mount Lebanon","$420,000",Apartment,262 m²,3,3
+"Mansourieh, El Metn
+                    , Mount Lebanon","$79,000",Apartment,80 m²,2,2
+"Mar Mikhael, Beirut
+                    , Beirut","$210,000",Apartment,140 m²,2,1
+"Achrafieh, Beirut
+                    , Beirut","$2,000,000",Office,550 m²,4,N/A
+"Shayle, Kesrouane
+                    , Mount Lebanon","$266,000",Apartment,200 m²,3,4
+"Shayle, Kesrouane
+                    , Mount Lebanon","$359,000",Apartment,200 m²,3,3
+"Achrafieh, Beirut
+                    , Beirut","$505,000",Apartment,230 m²,3,3
+"Jdeideh, El Metn
+                    , Mount Lebanon","$650,000",Warehouse,000 m²,1,N/A
 "Paris 17ème, Paris 17ème
                     , France","€1,995,000",Apartment,126 m²,4,3
 "Faraya, Kesrouane
@@ -9,8 +707,6 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$195,000",Shop,55 m²,1,N/A
 "Qannabet Broumana, El Metn
                     , Mount Lebanon","$235,000",Apartment,150 m²,3,3
-"Jal el Dib, El Metn
-                    , Mount Lebanon","$185,000",Apartment,150 m²,3,2
 "Bsalim, El Metn
                     , Mount Lebanon","$230,000",Apartment,145 m²,3,3
 "Jbeil, Jbeil
@@ -20,17 +716,11 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Dahr El Sawan, El Metn
                     , Mount Lebanon","$250,000",Apartment,160 m²,3,3
 "Achrafieh, Beirut
-                    , Beirut","$235,000",Apartment,125 m²,2,2
-"Fanar, El Metn
-                    , Mount Lebanon","$150,000",Apartment,140 m²,3,3
-"Jbeil, Jbeil
-                    , Mount Lebanon","$75,000",Apartment,110 m²,2,2
+                    , Beirut","$245,000",Apartment,125 m²,2,2
 "Gherfine, Jbeil
                     , Mount Lebanon","$120,000",Apartment,110 m²,2,2
 "Achrafieh, Beirut
-                    , Beirut","$350,000",Apartment,270 m²,3,3
-"Achrafieh, Beirut
-                    , Beirut","$320,000",Apartment,175 m²,3,2
+                    , Beirut","$310,000",Apartment,175 m²,3,2
 "Sahel Alma, Kesrouane
                     , Mount Lebanon","$415,000",Apartment,259 m²,3,3
 "Sahel Alma, Kesrouane
@@ -41,8 +731,6 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$400,000",Apartment,253 m²,3,3
 "Sahel Alma, Kesrouane
                     , Mount Lebanon","$565,000",Apartment,396 m²,4,4
-"Hboub, Jbeil
-                    , Mount Lebanon","$220,000",Apartment,205 m²,3,4
 "Ouyoun Al Simen, Kesrouane
                     , Mount Lebanon","$300,000",Chalet,100 m²,2,1
 "chnaniir, Kesrouane
@@ -54,19 +742,17 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Sioufi, Beirut
                     , Beirut","$360,000",Apartment,140 m²,2,2
 "Sioufi, Beirut
-                    , Beirut","$430,000",Apartment,300 m²,2,2
+                    , Beirut","$415,000",Apartment,300 m²,2,2
 "Ras Beirut, Beirut
-                    , Beirut","$225,000",Apartment,110 m²,2,3
+                    , Beirut","$190,000",Apartment,110 m²,2,3
 "Bsalim, El Metn
                     , Mount Lebanon","$285,000",Apartment,165 m²,3,3
 "Adma, Kesrouane
                     , Mount Lebanon","$195,000",Apartment,150 m²,2,3
-"Ras Beirut, Beirut
-                    , Beirut","$800,000",Apartment,350 m²,4,2
 "Kfar Aaqab, El Metn
                     , Mount Lebanon","$925,000",Land,156 m²,N/A,N/A
 "Achrafieh, Beirut
-                    , Beirut","$320,000",Apartment,106 m²,2,2
+                    , Beirut","$310,000",Apartment,106 m²,2,2
 "Paris 16ème, Paris 16ème
                     , France","€950,000",Apartment,84 m²,1,1
 "Blat, Jbeil
@@ -77,22 +763,14 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$240,000",Apartment,180 m²,3,4
 "Mansourieh, El Metn
                     , Mount Lebanon","$390,000",Apartment,220 m²,3,4
-"Achrafieh, Beirut
-                    , Beirut","$225,000",Apartment,150 m²,2,2
-"Jdeideh, El Metn
-                    , Mount Lebanon","$110,000",Apartment,155 m²,3,2
 "Adma, Kesrouane
                     , Mount Lebanon","$1,200,000",Apartment,580 m²,4,7
-"Jbeil, Jbeil
-                    , Mount Lebanon","$185,000",Apartment,160 m²,3,3
 "Fidar, Jbeil
                     , Mount Lebanon","$250,000",Land,200 m²,N/A,N/A
 "Aintoura, El Metn
                     , Mount Lebanon","$319,000",Land,306 m²,N/A,N/A
 "Fidar, Jbeil
-                    , Mount Lebanon","$1,200,000",Commercial Building,000 m²,N/A,N/A
-"Baabda, Baabda
-                    , Mount Lebanon","$465,000",Apartment,195 m²,3,4
+                    , Mount Lebanon","$12,000,000",Commercial Building,000 m²,N/A,N/A
 "Jbeil, Jbeil
                     , Mount Lebanon","$150,000",Apartment,106 m²,2,2
 "Achkout, Kesrouane
@@ -110,19 +788,17 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Mechmech, Jbeil
                     , Mount Lebanon","$250,000",House/Villa,300 m²,4,3
 "Klayaat, Kesrouane
-                    , Mount Lebanon","$230,000",Land,908 m²,N/A,N/A
-"Klayaat, Kesrouane
                     , Mount Lebanon","$320,000",Land,420 m²,N/A,N/A
 "Badaro, Beirut
                     , Beirut","$1,000,000",Apartment,400 m²,3,4
 "Achrafieh, Beirut
                     , Beirut","$275,000",Apartment,130 m²,2,2
 "Badaro, Beirut
-                    , Beirut","$450,000",Office,200 m²,4,N/A
+                    , Beirut","$650,000",Office,200 m²,4,N/A
 "New Mar Takla, Baabda
                     , Mount Lebanon","$495,000",Apartment,265 m²,3,4
 "Mansourieh, El Metn
-                    , Mount Lebanon","$240,000",Apartment,200 m²,3,5
+                    , Mount Lebanon","$225,000",Apartment,200 m²,3,5
 "Achrafieh, Beirut
                     , Beirut","$900,000",Office,300 m²,4,N/A
 "Dekweneh, El Metn
@@ -136,17 +812,13 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Broumana, El Metn
                     , Mount Lebanon","$850,000",Land,850 m²,N/A,N/A
 "Mansourieh, El Metn
-                    , Mount Lebanon","$243,000",Apartment,170 m²,3,4
+                    , Mount Lebanon","$235,000",Apartment,170 m²,3,4
 "New Rawda, El Metn
                     , Mount Lebanon","$96,000",Apartment,100 m²,2,2
 "Paris 15ème, Paris 15ème
                     , France","€665,000",Apartment,60 m²,2,1
 "Jbeil, Jbeil
                     , Mount Lebanon","$450,000",Land,600 m²,N/A,N/A
-"Batroun, Batroun
-                    , North","$250,000",Apartment,110 m²,2,2
-"Hazmieh, Baabda
-                    , Mount Lebanon","$520,000",Apartment,280 m²,3,5
 "Jbeil, Jbeil
                     , Mount Lebanon","$495,000",Apartment,310 m²,4,5
 "Zaarour, El Metn
@@ -159,8 +831,6 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Beirut","$700,000",Apartment,200 m²,3,3
 "Mar Mikhael, Beirut
                     , Beirut","$375,000",Apartment,135 m²,3,2
-"Jbeil, Jbeil
-                    , Mount Lebanon","$130,000",Apartment,110 m²,2,2
 "Paris 16ème, Paris 16ème
                     , France","€1,890,000",Apartment,130 m²,3,2
 "Paris 17ème, Paris 17ème
@@ -192,7 +862,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Badaro, Beirut
                     , Beirut","$850,000",Apartment,235 m²,3,3
 "Adma, Kesrouane
-                    , Mount Lebanon","$241,000",Apartment,160 m²,3,3
+                    , Mount Lebanon","$220,000",Apartment,160 m²,3,3
 "Ain El Rihani, Kesrouane
                     , Mount Lebanon","$600,000",Land,008 m²,N/A,N/A
 "Ouyoun Al Simen, Kesrouane
@@ -228,7 +898,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Baabda, Baabda
                     , Mount Lebanon","$425,000",Apartment,350 m²,3,4
 "Achrafieh, Beirut
-                    , Beirut","$1,000,000",Apartment,250 m²,3,3
+                    , Beirut","$650,000",Apartment,250 m²,3,3
 "Daroun Harissa, Kesrouane
                     , Mount Lebanon","$840,000",Land,200 m²,N/A,N/A
 "Paris 16ème, Paris 16ème
@@ -262,7 +932,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Achrafieh, Beirut
                     , Beirut","$2,520,000",Land,336 m²,N/A,N/A
 "Achrafieh, Beirut
-                    , Beirut","$1,000,000",Apartment,350 m²,4,3
+                    , Beirut","$900,000",Apartment,350 m²,4,3
 "Bouchrieh, El Metn
                     , Mount Lebanon","$155,000",Apartment,160 m²,3,1
 "Mansourieh, El Metn
@@ -290,7 +960,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Achrafieh, Beirut
                     , Beirut","$2,600,000",Apartment,500 m²,4,5
 "Achrafieh, Beirut
-                    , Beirut","$465,000",Apartment,300 m²,3,3
+                    , Beirut","$450,000",Apartment,300 m²,3,3
 "Qornet El Hamra, El Metn
                     , Mount Lebanon","$3,000,000",House/Villa,200 m²,6,8
 "Kfarzebian, Kesrouane
@@ -303,24 +973,18 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$75,000",Apartment,110 m²,2,2
 "Faytroun, Kesrouane
                     , Mount Lebanon","$110,000",Chalet,75 m²,2,2
-"Blat, Jbeil
-                    , Mount Lebanon","$90,000",Apartment,110 m²,2,2
 "Achrafieh, Beirut
-                    , Beirut","$265,000",Apartment,200 m²,3,3
+                    , Beirut","$250,000",Apartment,200 m²,3,3
 "Beit el Chaar, El Metn
                     , Mount Lebanon","$115,000",Apartment,125 m²,2,2
-"Beit el Chaar, El Metn
-                    , Mount Lebanon","$140,000",Apartment,150 m²,3,3
 "Paris 17ème, Paris 17ème
                     , France","€715,000",Apartment,85 m²,2,1
 "Paris 17ème, Paris 17ème
                     , France","€916,000",Apartment,82 m²,2,1
-"Achrafieh, Beirut
-                    , Beirut","$530,000",Apartment,147 m²,1,2
 "Horsh Tabet, El Metn
                     , Mount Lebanon","$260,000",Shop,99 m²,1,N/A
 "Jbeil, Jbeil
-                    , Mount Lebanon","$900,000",Apartment,110 m²,1,2
+                    , Mount Lebanon","$900,000",Apartment,125 m²,1,2
 "Fatqa, Kesrouane
                     , Mount Lebanon","$175,000",Apartment,150 m²,2,2
 "Laqlouq, Jbeil
@@ -357,20 +1021,16 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$190,000",Apartment,186 m²,3,3
 "Aamchit, Jbeil
                     , Mount Lebanon","$275,000",Apartment,250 m²,3,3
-"Jdeideh, El Metn
-                    , Mount Lebanon","$160,000",Office,120 m²,2,N/A
 "Fidar, Jbeil
                     , Mount Lebanon","$430,000",Apartment,300 m²,3,5
 "Laqlouq, Jbeil
                     , Mount Lebanon","$80,000",Land,090 m²,N/A,N/A
 "Ain Najem, El Metn
-                    , Mount Lebanon","$275,000",Apartment,200 m²,3,4
+                    , Mount Lebanon","$260,000",Apartment,200 m²,3,4
 "Khenchara, El Metn
                     , Mount Lebanon","$1,000,000",House/Villa,000 m²,3,5
 "Fanar, El Metn
-                    , Mount Lebanon","$250,000",Apartment,175 m²,3,3
-"Haret Sakher, Kesrouane
-                    , Mount Lebanon","$90,000",Apartment,160 m²,3,2
+                    , Mount Lebanon","$260,000",Apartment,175 m²,3,3
 "Haret Sakher, Kesrouane
                     , Mount Lebanon","$245,000",Apartment,145 m²,3,3
 "Haret Sakher, Kesrouane
@@ -381,32 +1041,26 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$650,000",House/Villa,400 m²,5,4
 "Mar Chaaya, El Metn
                     , Mount Lebanon","$460,000",Apartment,250 m²,3,3
-"Klayaat, Kesrouane
-                    , Mount Lebanon","$250,000",Land,900 m²,N/A,N/A
 "Kfarzebian, Kesrouane
                     , Mount Lebanon","$600,000",Land,716 m²,N/A,N/A
-"Ehmej, Jbeil
-                    , Mount Lebanon","$158,000",Land,885 m²,N/A,N/A
 "Zalka, El Metn
                     , Mount Lebanon","$220,000",Apartment,120 m²,2,2
 "Blat, Jbeil
                     , Mount Lebanon","$515,000",Land,720 m²,N/A,N/A
 "Paris 16ème, Paris 16ème
                     , France","€400,000",Apartment,31 m²,1,1
-"Mansourieh, El Metn
-                    , Mount Lebanon","$200,000",Apartment,175 m²,3,4
 "Achrafieh, Beirut
-                    , Beirut","$595,000",Apartment,80 m²,1,2
+                    , Beirut","$595,000",Apartment,95 m²,1,2
 "Kaslik, Kesrouane
                     , Mount Lebanon","$235,000",Chalet,63 m²,2,2
 "Gherfine, Jbeil
-                    , Mount Lebanon","$620,000",Land,546 m²,N/A,N/A
+                    , Mount Lebanon","$775,000",Land,546 m²,N/A,N/A
 "Jbeil, Jbeil
                     , Mount Lebanon","$360,000",Apartment,185 m²,3,3
 "Wata El Joz, Kesrouane
                     , Mount Lebanon","$335,000",Land,596 m²,N/A,N/A
 "Barbara, Jbeil
-                    , Mount Lebanon","$90,000",Apartment,100 m²,2,2
+                    , Mount Lebanon","$105,000",Apartment,100 m²,2,2
 "Jal el Dib, El Metn
                     , Mount Lebanon","$1,738,000",Land,790 m²,N/A,N/A
 "Jdeideh, El Metn
@@ -438,11 +1092,9 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Kfour, Kesrouane
                     , Mount Lebanon","$455,000",Apartment,350 m²,3,3
 "Achrafieh, Beirut
-                    , Beirut","$200,000",Apartment,135 m²,2,2
+                    , Beirut","$185,000",Apartment,135 m²,2,2
 "Mansourieh, El Metn
                     , Mount Lebanon","$245,000",Apartment,160 m²,3,4
-"Zalka, El Metn
-                    , Mount Lebanon","$300,000",Office,65 m²,1,N/A
 "Broumana, El Metn
                     , Mount Lebanon","$175,000",Apartment,110 m²,1,1
 "Broumana, El Metn
@@ -451,14 +1103,10 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$200,000",Apartment,120 m²,2,2
 "Yarzeh, Baabda
                     , Mount Lebanon","$2,750,000",Land,296 m²,N/A,N/A
-"Horsh Tabet, El Metn
-                    , Mount Lebanon","$335,000",Apartment,180 m²,3,3
 "Jounieh, Kesrouane
-                    , Mount Lebanon","$92,000",Apartment,125 m²,3,2
+                    , Mount Lebanon","$85,000",Apartment,125 m²,3,2
 "Aamchit, Jbeil
                     , Mount Lebanon","$85,000",Office,60 m²,1,N/A
-"Kfour, Kesrouane
-                    , Mount Lebanon","$105,000",Land,630 m²,N/A,N/A
 "Paris 16ème, Paris 16ème
                     , France","€640,000",Apartment,54 m²,2,1
 "Paris 16ème, Paris 16ème
@@ -466,7 +1114,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Klayaat, Kesrouane
                     , Mount Lebanon","$425,000",Apartment,360 m²,4,4
 "Mtayleb, El Metn
-                    , Mount Lebanon","$290,000",Apartment,215 m²,3,2
+                    , Mount Lebanon","$255,000",Apartment,215 m²,3,2
 "Zouk Mikael, Kesrouane
                     , Mount Lebanon","$500,000",Apartment,360 m²,3,3
 "Badaro, Beirut
@@ -474,13 +1122,9 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Achrafieh, Beirut
                     , Beirut","$850,000",Apartment,330 m²,3,4
 "Sioufi, Beirut
-                    , Beirut","$360,000",Apartment,221 m²,3,3
-"Bikfaya, El Metn
-                    , Mount Lebanon","$95,000",Apartment,75 m²,1,2
+                    , Beirut","$350,000",Apartment,221 m²,3,3
 "Achrafieh, Beirut
                     , Beirut","$850,000",Apartment,330 m²,3,4
-"Fanar, El Metn
-                    , Mount Lebanon","$350,000",Apartment,210 m²,3,3
 "Mar Mikhael, Beirut
                     , Beirut","$315,000",Apartment,116 m²,2,2
 "Batroun, Batroun
@@ -494,15 +1138,11 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Batroun, Batroun
                     , North","$180,000",House/Villa,140 m²,2,3
 "Achrafieh, Beirut
-                    , Beirut","$450,000",Apartment,80 m²,1,2
-"Achrafieh, Beirut
                     , Beirut","$750,000",Apartment,100 m²,1,2
 "Aamchit, Jbeil
                     , Mount Lebanon","$800,000",Land,985 m²,N/A,N/A
 "Ghosta, Kesrouane
                     , Mount Lebanon","$220,000",Apartment,180 m²,3,3
-"Sarba, Kesrouane
-                    , Mount Lebanon","$70,000",Apartment,100 m²,2,1
 "Bouar, Kesrouane
                     , Mount Lebanon","$2,000,000",Land,000 m²,N/A,N/A
 "Louaize, Baabda
@@ -517,8 +1157,6 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Beirut","$500,000",Apartment,250 m²,4,3
 "Ras Beirut, Beirut
                     , Beirut","$1,050,000",Apartment,363 m²,4,4
-"Achrafieh, Beirut
-                    , Beirut","$350,000",Apartment,250 m²,4,3
 "Kfour, Kesrouane
                     , Mount Lebanon","$330,000",Land,825 m²,N/A,N/A
 "Achrafieh, Beirut
@@ -535,8 +1173,6 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Beirut","$400,000",Apartment,120 m²,3,2
 "Mar Mikhael, Beirut
                     , Beirut","$600,000",Apartment,280 m²,2,3
-"Hazmieh, Baabda
-                    , Mount Lebanon","$250,000",Apartment,200 m²,3,4
 "Beit Chabeb, El Metn
                     , Mount Lebanon","$235,000",Apartment,230 m²,3,3
 "Ajaltoun, Kesrouane
@@ -551,14 +1187,12 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Beirut","$1,050,000",Apartment,325 m²,3,3
 "Achrafieh, Beirut
                     , Beirut","$1,100,000",Apartment,312 m²,3,4
-"Shayle, Kesrouane
-                    , Mount Lebanon","$1,500,000",Land,000 m²,N/A,N/A
 "Tabarja, Kesrouane
                     , Mount Lebanon","$5,500,000",Land,643 m²,N/A,N/A
 "Baabdat, El Metn
-                    , Mount Lebanon","$200,000",Shop,140 m²,3,3
+                    , Mount Lebanon","$200,000",Apartment,140 m²,3,3
 "Tabarja, Kesrouane
-                    , Mount Lebanon","$13,000,000",Land,385 m²,N/A,N/A
+                    , Mount Lebanon","$9,500,000",Land,385 m²,N/A,N/A
 "Zikrit, El Metn
                     , Mount Lebanon","$117,000",Apartment,100 m²,2,2
 "Zikrit, El Metn
@@ -608,21 +1242,19 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Jal el Dib, El Metn
                     , Mount Lebanon","$650,000",Apartment,350 m²,5,5
 "Adma, Kesrouane
-                    , Mount Lebanon","$510,000",Apartment,260 m²,3,3
+                    , Mount Lebanon","$580,000",Apartment,260 m²,3,3
 "Adma, Kesrouane
-                    , Mount Lebanon","$615,000",Apartment,325 m²,3,3
+                    , Mount Lebanon","$600,000",Apartment,325 m²,3,3
 "Ras Beirut, Beirut
-                    , Beirut","$1,550,000",Apartment,420 m²,3,4
+                    , Beirut","$1,700,000",Apartment,420 m²,3,4
 "Sioufi, Beirut
-                    , Beirut","$935,000",Apartment,300 m²,3,4
+                    , Beirut","$935,000",Apartment,240 m²,3,4
 "Zouk Mikael, Kesrouane
                     , Mount Lebanon","$210,000",Apartment,155 m²,3,3
 "Ras Beirut, Beirut
                     , Beirut","$1,500,000",Apartment,400 m²,4,3
 "Beit Meri, El Metn
-                    , Mount Lebanon","$250,000",Apartment,130 m²,2,4
-"Mazraat Yachouh, El Metn
-                    , Mount Lebanon","$450,000",Shop,151 m²,1,N/A
+                    , Mount Lebanon","$215,000",Apartment,130 m²,2,4
 "Ain El Rihani, Kesrouane
                     , Mount Lebanon","$270,000",Land,077 m²,N/A,N/A
 "Ain El Rihani, Kesrouane
@@ -646,7 +1278,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Jbeil, Jbeil
                     , Mount Lebanon","$850,000",House/Villa,750 m²,4,6
 "Sioufi, Beirut
-                    , Beirut","$900,000",Apartment,270 m²,3,4
+                    , Beirut","$800,000",Apartment,300 m²,3,4
 "Chabtine, Batroun
                     , North","$220,000",Land,200 m²,N/A,N/A
 "Beit Chabeb, El Metn
@@ -673,12 +1305,8 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$185,000",Apartment,190 m²,3,3
 "Aamchit, Jbeil
                     , Mount Lebanon","$160,000",Apartment,171 m²,3,3
-"Mechmech, Jbeil
-                    , Mount Lebanon","$40,000",Land,650 m²,N/A,N/A
 "Faraya, Kesrouane
                     , Mount Lebanon","$85,000",Chalet,90 m²,2,1
-"Ras Beirut, Beirut
-                    , Beirut","$320,000",Apartment,125 m²,2,2
 "Achrafieh, Beirut
                     , Beirut","$1,700,000",Land,304 m²,N/A,N/A
 "Adonis, Kesrouane
@@ -695,8 +1323,6 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$360,000",Apartment,230 m²,3,4
 "Kornet Chehwan, El Metn
                     , Mount Lebanon","$480,000",Apartment,330 m²,4,4
-"Rabieh, El Metn
-                    , Mount Lebanon","$780,000",Land,016 m²,N/A,N/A
 "Nabey, El Metn
                     , Mount Lebanon","$155,000",Apartment,120 m²,2,2
 "Mechmech, Jbeil
@@ -713,8 +1339,6 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$2,190,000",Land,457 m²,N/A,N/A
 "Roumie, El Metn
                     , Mount Lebanon","$320,000",Apartment,170 m²,2,3
-"Ras Beirut, Beirut
-                    , Beirut","$1,550,000",Shop,250 m²,1,N/A
 "Beit Meri, El Metn
                     , Mount Lebanon","$265,000",Apartment,225 m²,3,4
 "Aamchit, Jbeil
@@ -724,9 +1348,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Mansourieh, El Metn
                     , Mount Lebanon","$350,000",Apartment,350 m²,4,6
 "Aannaya, Jbeil
-                    , Mount Lebanon","$82,000",Chalet,95 m²,2,2
-"Jounieh, Kesrouane
-                    , Mount Lebanon","$35,000",Chalet,13 m²,1,N/A
+                    , Mount Lebanon","$85,000",Chalet,95 m²,2,2
 "Safra, Kesrouane
                     , Mount Lebanon","$465,000",Land,340 m²,N/A,N/A
 "Bhamdoun, Aley
@@ -762,11 +1384,11 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Achkout, Kesrouane
                     , Mount Lebanon","$250,000",Apartment,316 m²,3,4
 "Bouchrieh, El Metn
-                    , Mount Lebanon","$100,000",Apartment,80 m²,2,2
+                    , Mount Lebanon","$120,000",Apartment,80 m²,2,2
 "Bouchrieh, El Metn
-                    , Mount Lebanon","$110,000",Apartment,90 m²,2,2
+                    , Mount Lebanon","$130,000",Apartment,90 m²,2,2
 "Bouchrieh, El Metn
-                    , Mount Lebanon","$120,000",Apartment,100 m²,2,2
+                    , Mount Lebanon","$140,000",Apartment,100 m²,2,2
 "Dlebta, Kesrouane
                     , Mount Lebanon","$1,000,000",Land,000 m²,N/A,N/A
 "Naccache, El Metn
@@ -820,9 +1442,9 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Chikhane, Jbeil
                     , Mount Lebanon","$170,000",Land,900 m²,N/A,N/A
 "Nahr Ibrahim, Jbeil
-                    , Mount Lebanon","$280,000",Apartment,221 m²,3,4
+                    , Mount Lebanon","$300,000",Apartment,231 m²,3,4
 "Nahr Ibrahim, Jbeil
-                    , Mount Lebanon","$550,000",Apartment,410 m²,5,4
+                    , Mount Lebanon","$500,000",Apartment,410 m²,5,4
 "Sarba, Kesrouane
                     , Mount Lebanon","$140,000",Apartment,135 m²,2,2
 "Sarba, Kesrouane
@@ -861,8 +1483,6 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$252,000",Apartment,140 m²,3,3
 "Naccache, El Metn
                     , Mount Lebanon","$250,000",Apartment,200 m²,3,3
-"Saifi Village, Beirut
-                    , Beirut","$800,000",Apartment,186 m²,1,2
 "Jbeil, Jbeil
                     , Mount Lebanon","$170,000",Apartment,170 m²,2,2
 "Adma, Kesrouane
@@ -879,8 +1499,6 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$850,000",Land,369 m²,N/A,N/A
 "Mechmech, Jbeil
                     , Mount Lebanon","$80,000",Land,848 m²,N/A,N/A
-"Achrafieh, Beirut
-                    , Beirut","$340,000",Apartment,270 m²,3,3
 "Achrafieh, Beirut
                     , Beirut","$1,650,000",Apartment,350 m²,4,4
 "Ajaltoun, Kesrouane
@@ -912,7 +1530,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Aatchane, El Metn
                     , Mount Lebanon","$95,000",Apartment,155 m²,3,2
 "Bikfaya, El Metn
-                    , Mount Lebanon","$370,000",Land,376 m²,N/A,N/A
+                    , Mount Lebanon","$210,000",Land,376 m²,N/A,N/A
 "Bikfaya, El Metn
                     , Mount Lebanon","$270,000",Land,330 m²,N/A,N/A
 "Hadath, Baabda
@@ -982,11 +1600,9 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Batroun, Batroun
                     , North","$150,000",Land,800 m²,N/A,N/A
 "Qortada, El Metn
-                    , Mount Lebanon","$115,000",Land,140 m²,N/A,N/A
+                    , Mount Lebanon","$145,000",Land,140 m²,N/A,N/A
 "Adma, Kesrouane
                     , Mount Lebanon","$190,000",Apartment,165 m²,3,4
-"Sioufi, Beirut
-                    , Beirut","$315,000",Apartment,130 m²,3,2
 "Ghadir, Kesrouane
                     , Mount Lebanon","$350,000",Apartment,220 m²,3,4
 "Edde, Jbeil
@@ -1006,19 +1622,15 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Baabdat, El Metn
                     , Mount Lebanon","$250,000",Land,915 m²,N/A,N/A
 "Achrafieh, Beirut
-                    , Beirut","$430,000",Apartment,225 m²,3,2
+                    , Beirut","$450,000",Apartment,250 m²,3,2
 "Zouk Mosbeh, Kesrouane
                     , Mount Lebanon","$350,000",Shop,140 m²,2,N/A
-"Sioufi, Beirut
-                    , Beirut","$260,000",Apartment,91 m²,2,2
 "Safra, Kesrouane
                     , Mount Lebanon","$73,000",Apartment,140 m²,2,2
 "Fakra, Kesrouane
                     , Mount Lebanon","$190,000",Chalet,110 m²,2,2
 "Achrafieh, Beirut
                     , Beirut","$480,000",Apartment,200 m²,2,2
-"Louaize, Baabda
-                    , Mount Lebanon","$470,000",Apartment,220 m²,3,4
 "Jbeil, Jbeil
                     , Mount Lebanon","$125,000",Apartment,158 m²,3,2
 "Achrafieh, Beirut
@@ -1037,8 +1649,6 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$650,000",Land,612 m²,N/A,N/A
 "Broumana, El Metn
                     , Mount Lebanon","$650,000",Land,536 m²,N/A,N/A
-"Tabarja, Kesrouane
-                    , Mount Lebanon","$40,000",Chalet,4 m²,N/A,N/A
 "Lehfed, Jbeil
                     , Mount Lebanon","$110,000",Land,200 m²,N/A,N/A
 "Sarba, Kesrouane
@@ -1070,13 +1680,13 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Sin El Fil, El Metn
                     , Mount Lebanon","$450,000",Office,127 m²,3,N/A
 "Sioufi, Beirut
-                    , Beirut","$300,000",Apartment,200 m²,3,2
+                    , Beirut","$245,000",Apartment,200 m²,3,2
 "Jbeil, Jbeil
                     , Mount Lebanon","$175,000",Apartment,176 m²,3,3
 "Jbeil, Jbeil
                     , Mount Lebanon","$270,000",Apartment,200 m²,3,2
 "Furn El Chebbak, Baabda
-                    , Mount Lebanon","$260,000",Apartment,184 m²,3,3
+                    , Mount Lebanon","$300,000",Apartment,184 m²,3,3
 "Paris 16ème, Paris 16ème
                     , France","€499,000",Apartment,38 m²,1,N/A
 "Paris 16ème, Paris 16ème
@@ -1110,7 +1720,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Braij, Jbeil
                     , Mount Lebanon","$900,000",Land,300 m²,N/A,N/A
 "Furn El Chebbak, Baabda
-                    , Mount Lebanon","$200,000",Warehouse,200 m²,2,N/A
+                    , Mount Lebanon","$140,000",Warehouse,200 m²,2,N/A
 "Dbayeh, El Metn
                     , Mount Lebanon","$187,000",Apartment,140 m²,2,2
 "Ehmej, Jbeil
@@ -1140,7 +1750,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Adonis, Kesrouane
                     , Mount Lebanon","$170,000",Apartment,200 m²,3,2
 "Bsalim, El Metn
-                    , Mount Lebanon","$160,000",Apartment,115 m²,2,2
+                    , Mount Lebanon","$154,000",Apartment,115 m²,2,2
 "Paris 16ème, Paris 16ème
                     , France","€390,000",Apartment,39 m²,1,N/A
 "Fidar, Jbeil
@@ -1181,12 +1791,8 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$150,000",Apartment,130 m²,2,2
 "VANVES France, VANVES-France
                     , France","€423,000",Apartment,70 m²,2,1
-"Edde, Jbeil
-                    , Mount Lebanon","$125,000",Apartment,125 m²,2,2
 "Monteverde, El Metn
                     , Mount Lebanon","$350,000",Apartment,200 m²,3,3
-"Sahel Alma, Kesrouane
-                    , Mount Lebanon","$425,000",Apartment,250 m²,4,3
 "Haret Sakher, Kesrouane
                     , Mount Lebanon","$300,000",House/Villa,200 m²,3,3
 "Rabweh, El Metn
@@ -1207,13 +1813,11 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Beirut","$1,250,000",Apartment,400 m²,3,3
 "Baabda, Baabda
                     , Mount Lebanon","$295,000",Apartment,255 m²,3,4
-"Ras Beirut, Beirut
-                    , Beirut","$240,000",Apartment,165 m²,3,3
 "Bsalim, El Metn
                     , Mount Lebanon","$500,000",Apartment,400 m²,4,4
 "Adma, Kesrouane
                     , Mount Lebanon","$1,100,000",Land,445 m²,N/A,N/A
-"Majdel Tarchich, El Metn
+"Tarchich, Baabda
                     , Mount Lebanon","$45,000",Land,800 m²,N/A,N/A
 "Salima, Baabda
                     , Mount Lebanon","$320,000",Land,950 m²,N/A,N/A
@@ -1244,13 +1848,13 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Adma, Kesrouane
                     , Mount Lebanon","$700,000",Shop,400 m²,2,N/A
 "Ras Beirut, Beirut
-                    , Beirut","$900,000",Office,200 m²,2,N/A
+                    , Beirut","$625,000",Office,200 m²,2,N/A
 "Blat, Jbeil
                     , Mount Lebanon","$185,000",Land,970 m²,N/A,N/A
 "Blat, Jbeil
                     , Mount Lebanon","$195,000",Land,055 m²,N/A,N/A
-"Hazmieh, Baabda
-                    , Mount Lebanon","$135,000",Office,100 m²,1,N/A
+"Hadath, Baabda
+                    , Mount Lebanon","$255,000",Apartment,200 m²,3,3
 "Klayaat, Kesrouane
                     , Mount Lebanon","$350,000",Land,128 m²,N/A,N/A
 "Paris 13ème, Paris 13ème
@@ -1272,7 +1876,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Ain Saadeh, El Metn
                     , Mount Lebanon","$280,000",Apartment,161 m²,3,3
 "Kaslik, Kesrouane
-                    , Mount Lebanon","$470,000",Chalet,100 m²,2,1
+                    , Mount Lebanon","$477,000",Chalet,100 m²,2,1
 "Rabweh, El Metn
                     , Mount Lebanon","$1,000,000",Apartment,525 m²,4,5
 "Aatchane, El Metn
@@ -1286,7 +1890,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Paris 16ème, Paris 16ème
                     , France","€435,000",Apartment,34 m²,1,1
 "Halat, Jbeil
-                    , Mount Lebanon","$115,000",Apartment,120 m²,2,2
+                    , Mount Lebanon","$138,000",Apartment,120 m²,2,2
 "Mar Takla, Baabda
                     , Mount Lebanon","$525,000",Shop,80 m²,2,N/A
 "Mar Takla, Baabda
@@ -1313,8 +1917,6 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , France","€790,000",Apartment,63 m²,2,1
 "Paris 16ème, Paris 16ème
                     , France","€1,400,000",Apartment,78 m²,2,1
-"Jbeil, Jbeil
-                    , Mount Lebanon","$300,000",Shop,110 m²,1,N/A
 "Hazmieh, Baabda
                     , Mount Lebanon","$400,000",Apartment,240 m²,3,4
 "Paris 17ème, Paris 17ème
@@ -1365,16 +1967,12 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$1,250,000",Apartment,470 m²,3,5
 "Douar, El Metn
                     , Mount Lebanon","$125,000",Apartment,125 m²,2,2
-"Achrafieh, Beirut
-                    , Beirut","$550,000",Residential Building,126 m²,N/A,N/A
 "Antelias, El Metn
                     , Mount Lebanon","$240,000",Apartment,155 m²,3,3
 "Antelias, El Metn
                     , Mount Lebanon","$200,000",Apartment,135 m²,2,2
 "Paris 16ème, Paris 16ème
                     , France","€1,800,000",Apartment,147 m²,3,2
-"Bsalim, El Metn
-                    , Mount Lebanon","$325,000",Land,380 m²,N/A,N/A
 "Wata El Joz, Kesrouane
                     , Mount Lebanon","$250,000",Land,861 m²,N/A,N/A
 "Faraya, Kesrouane
@@ -1386,7 +1984,7 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
 "Adma, Kesrouane
                     , Mount Lebanon","$800,000",Land,220 m²,N/A,N/A
 "Furn El Chebbak, Baabda
-                    , Mount Lebanon","$245,000",Apartment,135 m²,2,2
+                    , Mount Lebanon","$160,000",Apartment,135 m²,2,2
 "chnaniir, Kesrouane
                     , Mount Lebanon","$4,000,000",Apartment,100 m²,4,6
 "Paris 16ème, Paris 16ème
@@ -1401,601 +1999,3 @@ Address,Price,Type,Size,Bedrooms,Bathrooms
                     , Mount Lebanon","$290,000",Apartment,220 m²,3,4
 "Bhorsaf, El Metn
                     , Mount Lebanon","$310,000",Apartment,200 m²,3,4
-"Achkout, Kesrouane
-                    , Mount Lebanon","$460,000",Apartment,440 m²,5,7
-"Antelias, El Metn
-                    , Mount Lebanon","$250,000",Apartment,235 m²,3,3
-"Jbeil, Jbeil
-                    , Mount Lebanon","$107,000",Apartment,137 m²,2,2
-"Jbeil, Jbeil
-                    , Mount Lebanon","$115,000",Apartment,100 m²,2,2
-"Qornet El Hamra, El Metn
-                    , Mount Lebanon","$425,000",Apartment,252 m²,3,4
-"Sahel Alma, Kesrouane
-                    , Mount Lebanon","$2,000,000",Land,500 m²,N/A,N/A
-"Adma, Kesrouane
-                    , Mount Lebanon","$250,000",Apartment,150 m²,2,3
-"Bouchrieh, El Metn
-                    , Mount Lebanon","$65,000",Shop,62 m²,2,N/A
-"Halat, Jbeil
-                    , Mount Lebanon","$850,000",Land,500 m²,N/A,N/A
-"Kfarzebian, Kesrouane
-                    , Mount Lebanon","$165,000",Chalet,100 m²,2,1
-"Ras Beirut, Beirut
-                    , Beirut","$160,000",Shop,90 m²,1,N/A
-"Paris 16ème, Paris 16ème
-                    , France","$1,795,000",Apartment,122 m²,3,2
-"Adma, Kesrouane
-                    , Mount Lebanon","$315,000",Apartment,170 m²,3,4
-"Jdeideh, El Metn
-                    , Mount Lebanon","$210,000",Apartment,155 m²,3,2
-"Shayle, Kesrouane
-                    , Mount Lebanon","$225,000",Apartment,150 m²,3,3
-"Shayle, Kesrouane
-                    , Mount Lebanon","$185,000",Warehouse,400 m²,N/A,N/A
-"Roumie, El Metn
-                    , Mount Lebanon","$1,240,000",Land,380 m²,N/A,N/A
-"Sahel Alma, Kesrouane
-                    , Mount Lebanon","$130,000",Apartment,170 m²,2,2
-"Naccache, El Metn
-                    , Mount Lebanon","$1,000,000",House/Villa,500 m²,4,5
-"Achrafieh, Beirut
-                    , Beirut","$730,000",Apartment,210 m²,3,3
-"Yarzeh, Baabda
-                    , Mount Lebanon","$820,000",Apartment,380 m²,3,4
-"Achrafieh, Beirut
-                    , Beirut","$510,000",Apartment,170 m²,3,3
-"Mazraat Yachouh, El Metn
-                    , Mount Lebanon","$130,000",Apartment,120 m²,2,2
-"Bsalim, El Metn
-                    , Mount Lebanon","$170,000",Apartment,170 m²,3,3
-"Bsalim, El Metn
-                    , Mount Lebanon","$170,000",Apartment,170 m²,3,3
-"Nabey, El Metn
-                    , Mount Lebanon","$210,000",Apartment,160 m²,3,3
-"Nabey, El Metn
-                    , Mount Lebanon","$220,000",Apartment,165 m²,3,3
-"Nabey, El Metn
-                    , Mount Lebanon","$210,000",Apartment,160 m²,3,3
-"Nabey, El Metn
-                    , Mount Lebanon","$325,000",Apartment,320 m²,4,5
-"Hazmieh, Baabda
-                    , Mount Lebanon","$1,050,000",Land,360 m²,N/A,N/A
-"Dbayeh, El Metn
-                    , Mount Lebanon","$350,000",Apartment,230 m²,3,3
-"Dbayeh, El Metn
-                    , Mount Lebanon","$500,000",Warehouse,617 m²,1,N/A
-"Jbeil, Jbeil
-                    , Mount Lebanon","$850,000",Land,600 m²,N/A,N/A
-"Kornet Chehwan, El Metn
-                    , Mount Lebanon","$350,000",Apartment,220 m²,4,4
-"Kornet Chehwan, El Metn
-                    , Mount Lebanon","$350,000",Apartment,220 m²,4,4
-"Kornet Chehwan, El Metn
-                    , Mount Lebanon","$300,000",Apartment,200 m²,3,4
-"Yarzeh, Baabda
-                    , Mount Lebanon","$1,150,000",Apartment,400 m²,4,5
-"Rueil-Malmaison, Rueil-Malmaison
-                    , France","€635,000",Apartment,93 m²,3,1
-"Ballouneh, Kesrouane
-                    , Mount Lebanon","$235,000",Apartment,160 m²,3,3
-"Ballouneh, Kesrouane
-                    , Mount Lebanon","$190,000",Apartment,145 m²,3,3
-"Ballouneh, Kesrouane
-                    , Mount Lebanon","$295,000",Apartment,145 m²,3,3
-"Ballouneh, Kesrouane
-                    , Mount Lebanon","$190,000",Apartment,145 m²,3,3
-"Rueil-Malmaison, Rueil-Malmaison
-                    , France","€142,000",Apartment,20 m²,1,N/A
-"Jbeil, Jbeil
-                    , Mount Lebanon","$135,000",Apartment,120 m²,2,2
-"Qannabet Broumana, El Metn
-                    , Mount Lebanon","$280,000",Apartment,220 m²,4,3
-"kfarhbeib, Kesrouane
-                    , Mount Lebanon","$650,000",Apartment,300 m²,3,5
-"Fatqa, Kesrouane
-                    , Mount Lebanon","$325,000",Apartment,275 m²,2,3
-"Ain El Rihani, Kesrouane
-                    , Mount Lebanon","$500,000",Land,308 m²,N/A,N/A
-"Dbayeh, El Metn
-                    , Mount Lebanon","$9,000,000",Commercial Building,200 m²,6,N/A
-"Ghazir, Kesrouane
-                    , Mount Lebanon","$2,900,000",House/Villa,000 m²,6,9
-"Jounieh, Kesrouane
-                    , Mount Lebanon","$165,000",Chalet,75 m²,2,2
-"Ain Saadeh, El Metn
-                    , Mount Lebanon","$350,000",Apartment,250 m²,4,4
-"Ballouneh, Kesrouane
-                    , Mount Lebanon","$150,000",Shop,86 m²,1,N/A
-"Kornet Chehwan, El Metn
-                    , Mount Lebanon","$390,000",Apartment,220 m²,3,3
-"Achrafieh, Beirut
-                    , Beirut","$251,000",Apartment,75 m²,1,1
-"Aabrine, Batroun
-                    , North","$80,000",Land,816 m²,N/A,N/A
-"Achrafieh, Beirut
-                    , Beirut","$300,000",Apartment,55 m²,1,2
-"Bsalim, El Metn
-                    , Mount Lebanon","$350,000",Apartment,250 m²,4,4
-"Rueil-Malmaison, Rueil-Malmaison
-                    , France","€299,000",Apartment,44 m²,1,1
-"Rueil-Malmaison, Rueil-Malmaison
-                    , France","€249,000",Apartment,32 m²,1,1
-"Plateau, Rueil-Malmaison
-                    , France","€299,000",Apartment,53 m²,1,2
-"Jdeideh, El Metn
-                    , Mount Lebanon","$315,000",Apartment,220 m²,3,3
-"Bsalim, El Metn
-                    , Mount Lebanon","$200,000",Apartment,180 m²,3,3
-"Bsalim, El Metn
-                    , Mount Lebanon","$240,000",Apartment,165 m²,3,4
-"PUTEAUX, PUTEAUX
-                    , France","€289,500",Apartment,39 m²,1,1
-"Rueil-Malmaison, Rueil-Malmaison
-                    , France","€269,000",Apartment,54 m²,1,2
-"Maaysra, Kesrouane
-                    , Mount Lebanon","$149,000",Apartment,165 m²,3,4
-"Maaysra, Kesrouane
-                    , Mount Lebanon","$158,000",Apartment,165 m²,3,4
-"Maaysra, Kesrouane
-                    , Mount Lebanon","$166,000",Apartment,165 m²,3,4
-"Beit el Chaar, El Metn
-                    , Mount Lebanon","$550,000",Apartment,210 m²,3,4
-"Beit el Chaar, El Metn
-                    , Mount Lebanon","$325,000",Apartment,200 m²,3,4
-"Beit el Chaar, El Metn
-                    , Mount Lebanon","$300,000",Apartment,200 m²,3,4
-"Kfar Aabida, Batroun
-                    , North","$480,000",Apartment,320 m²,2,3
-"Jal el Dib, El Metn
-                    , Mount Lebanon","$200,000",Apartment,170 m²,2,2
-"Biyada, El Metn
-                    , Mount Lebanon","$800,000",Apartment,400 m²,3,3
-"Kornet Chehwan, El Metn
-                    , Mount Lebanon","$550,000",Apartment,360 m²,3,4
-"Sioufi, Beirut
-                    , Beirut","$490,000",Apartment,220 m²,3,3
-"Bouchrieh, El Metn
-                    , Mount Lebanon","$900,000",Shop,650 m²,3,N/A
-"Bouchrieh, El Metn
-                    , Mount Lebanon","$135,000",Apartment,125 m²,3,2
-"Bouchrieh, El Metn
-                    , Mount Lebanon","$125,000",Apartment,110 m²,2,2
-"Qannabet Broumana, El Metn
-                    , Mount Lebanon","$420,000",Land,500 m²,N/A,N/A
-"Mar Chaaya, El Metn
-                    , Mount Lebanon","$550,000",Land,867 m²,N/A,N/A
-"Zouk Mikael, Kesrouane
-                    , Mount Lebanon","$800,000",Warehouse,430 m²,1,N/A
-"Achrafieh, Beirut
-                    , Beirut","$320,000",Apartment,102 m²,2,2
-"Achrafieh, Beirut
-                    , Beirut","$325,000",Apartment,105 m²,2,2
-"Zouk Mosbeh, Kesrouane
-                    , Mount Lebanon","$200,000",Shop,100 m²,1,N/A
-"Baabdat, El Metn
-                    , Mount Lebanon","$565,000",Residential Building,865 m²,3,3
-"Zouk Mosbeh, Kesrouane
-                    , Mount Lebanon","$120,000",Apartment,180 m²,3,2
-"kfarhbeib, Kesrouane
-                    , Mount Lebanon","$900,000",Land,281 m²,N/A,N/A
-"Mar Mikhael, Beirut
-                    , Beirut","$1,400,000",Office,525 m²,N/A,N/A
-"Sarba, Kesrouane
-                    , Mount Lebanon","$400,000",Apartment,370 m²,3,3
-"Ghadir, Kesrouane
-                    , Mount Lebanon","$200,000",Apartment,230 m²,4,4
-"Edde, Jbeil
-                    , Mount Lebanon","$129,000",Apartment,140 m²,3,2
-"Biyada, El Metn
-                    , Mount Lebanon","$1,100,000",Land,131 m²,N/A,N/A
-"Batroun, Batroun
-                    , North","$135,000",Apartment,90 m²,2,2
-"Ain Alak, El Metn
-                    , Mount Lebanon","$1,200,000",Land,640 m²,N/A,N/A
-"kfarhbeib, Kesrouane
-                    , Mount Lebanon","$300,000",Apartment,171 m²,3,3
-"kfarhbeib, Kesrouane
-                    , Mount Lebanon","$300,000",Apartment,180 m²,3,3
-"Adma, Kesrouane
-                    , Mount Lebanon","$3,800,000",Residential Building,100 m²,N/A,N/A
-"Laqlouq, Jbeil
-                    , Mount Lebanon","$700,000",Land,000 m²,N/A,N/A
-"Jbeil, Jbeil
-                    , Mount Lebanon","$750,000",Factory,500 m²,2,N/A
-"Jbeil, Jbeil
-                    , Mount Lebanon","$1,000,000",Residential Building,200 m²,N/A,N/A
-"Bsalim, El Metn
-                    , Mount Lebanon","$1,729,000",Land,470 m²,N/A,N/A
-"Elissar, El Metn
-                    , Mount Lebanon","$3,000,000",Shop,440 m²,N/A,N/A
-"Baabda, Baabda
-                    , Mount Lebanon","$780,000",Apartment,350 m²,3,5
-"Blat, Jbeil
-                    , Mount Lebanon","$950,000",Land,500 m²,N/A,N/A
-"Baabda, Baabda
-                    , Mount Lebanon","$2,100,000",Land,416 m²,N/A,N/A
-"Ghadir, Kesrouane
-                    , Mount Lebanon","$300,000",Apartment,360 m²,4,4
-"Bsalim, El Metn
-                    , Mount Lebanon","$475,000",Apartment,550 m²,4,6
-"Baabdat, El Metn
-                    , Mount Lebanon","$325,000",Apartment,176 m²,3,3
-"Mar Mikhael, Beirut
-                    , Beirut","$550,000",Apartment,123 m²,2,2
-"Adonis, Kesrouane
-                    , Mount Lebanon","$160,000",Shop,90 m²,1,N/A
-"Nahr Ibrahim, Jbeil
-                    , Mount Lebanon","$400,000",Shop,500 m²,1,N/A
-"Ghazir, Kesrouane
-                    , Mount Lebanon","$350,000",Land,628 m²,N/A,N/A
-"Jal el Dib, El Metn
-                    , Mount Lebanon","$140,000",Apartment,115 m²,2,2
-"kfarhbeib, Kesrouane
-                    , Mount Lebanon","$400,000",Apartment,200 m²,3,3
-"Achrafieh, Beirut
-                    , Beirut","$555,000",Apartment,180 m²,3,3
-"Batroun, Batroun
-                    , North","$510,000",Land,900 m²,N/A,N/A
-"Dbayeh, El Metn
-                    , Mount Lebanon","$714,000",Land,020 m²,N/A,N/A
-"Chikhane, Jbeil
-                    , Mount Lebanon","$300,000",Land,236 m²,N/A,N/A
-"Tilal Ain Saade, El Metn
-                    , Mount Lebanon","$410,000",Apartment,420 m²,5,5
-"Achrafieh, Beirut
-                    , Beirut","$320,000",Apartment,190 m²,3,3
-"Fakra, Kesrouane
-                    , Mount Lebanon","$450,000",Land,583 m²,N/A,N/A
-"Ouyoun Al Simen, Kesrouane
-                    , Mount Lebanon","$300,000",Chalet,100 m²,3,2
-"Ouyoun Al Simen, Kesrouane
-                    , Mount Lebanon","$450,000",Chalet,150 m²,2,2
-"Adma, Kesrouane
-                    , Mount Lebanon","$245,000",Apartment,187 m²,3,4
-"Zouk Mikael, Kesrouane
-                    , Mount Lebanon","$400,000",Shop,300 m²,1,N/A
-"Lehfed, Jbeil
-                    , Mount Lebanon","$135,000",Land,770 m²,N/A,N/A
-"kfarhbeib, Kesrouane
-                    , Mount Lebanon","$425,000",Apartment,300 m²,3,4
-"Jbeil, Jbeil
-                    , Mount Lebanon","$130,000",Apartment,100 m²,2,2
-"Paris 17ème, Paris
-                    , France","€142,000",Apartment,11 m²,1,1
-"Adma, Kesrouane
-                    , Mount Lebanon","$370,000",Apartment,220 m²,3,4
-"Adma, Kesrouane
-                    , Mount Lebanon","$390,000",Apartment,211 m²,3,4
-"Adma, Kesrouane
-                    , Mount Lebanon","$390,000",Apartment,205 m²,3,4
-"Adma, Kesrouane
-                    , Mount Lebanon","$375,000",Apartment,208 m²,3,4
-"Jounieh, Kesrouane
-                    , Mount Lebanon","$3,500,000",Commercial Building,000 m²,N/A,N/A
-"Chikhane, Jbeil
-                    , Mount Lebanon","$560,000",Land,600 m²,N/A,N/A
-"Laqlouq, Jbeil
-                    , Mount Lebanon","$405,000",Land,756 m²,N/A,N/A
-"Batroun, Batroun
-                    , North","$330,000",Land,746 m²,N/A,N/A
-"Nahr El Mot, El Metn
-                    , Mount Lebanon","$420,000",Warehouse,327 m²,N/A,N/A
-"Achrafieh, Beirut
-                    , Beirut","$350,000",Apartment,100 m²,2,3
-"Batroun, Batroun
-                    , North","$168,000",Apartment,140 m²,3,3
-"Batroun, Batroun
-                    , North","$130,000",Apartment,109 m²,2,2
-"Ras Beirut, Beirut
-                    , Beirut","$5,000,000",Land,840 m²,N/A,N/A
-"Halat, Jbeil
-                    , Mount Lebanon","$280,000",Land,944 m²,N/A,N/A
-"Mechmech, Jbeil
-                    , Mount Lebanon","$260,000",House/Villa,267 m²,3,4
-"Ghedras, Kesrouane
-                    , Mount Lebanon","$170,000",Land,550 m²,N/A,N/A
-"Dik El Mehdi, El Metn
-                    , Mount Lebanon","$300,000",Apartment,330 m²,5,6
-"Ain Saadeh, El Metn
-                    , Mount Lebanon","$415,000",Apartment,230 m²,3,5
-"Achrafieh, Beirut
-                    , Beirut","$1,200,000",Apartment,300 m²,3,4
-"Zaarour, El Metn
-                    , Mount Lebanon","$180,000",Chalet,120 m²,3,2
-"Jdayel, Jbeil
-                    , Mount Lebanon","$155,000",Apartment,165 m²,3,3
-"Ghazir, Kesrouane
-                    , Mount Lebanon","$250,000",Office,140 m²,3,N/A
-"Dbayeh, El Metn
-                    , Mount Lebanon","$350,000",Land,495 m²,N/A,N/A
-"Achrafieh, Beirut
-                    , Beirut","$450,000",Shop,100 m²,1,N/A
-"Adma, Kesrouane
-                    , Mount Lebanon","$400,000",Land,156 m²,N/A,N/A
-"Tilal Ain Saade, El Metn
-                    , Mount Lebanon","$162,000",Apartment,170 m²,3,3
-"Edde, Jbeil
-                    , Mount Lebanon","$600,000",Land,080 m²,N/A,N/A
-"Azra, Kesrouane
-                    , Mount Lebanon","$250,000",Commercial Building,200 m²,N/A,N/A
-"Achrafieh, Beirut
-                    , Beirut","$1,025,000",Apartment,320 m²,4,3
-"Achrafieh, Beirut
-                    , Beirut","$690,000",Apartment,230 m²,3,3
-"Jbeil, Jbeil
-                    , Mount Lebanon","$300,000",Land,620 m²,N/A,N/A
-"Mansourieh, El Metn
-                    , Mount Lebanon","$155,000",Apartment,155 m²,3,3
-"Chikhane, Jbeil
-                    , Mount Lebanon","$150,000",Land,995 m²,N/A,N/A
-"Qannabet Broumana, El Metn
-                    , Mount Lebanon","$675,000",Apartment,300 m²,3,5
-"Badaro, Beirut
-                    , Beirut","$400,000",Apartment,211 m²,3,2
-"Ajaltoun, Kesrouane
-                    , Mount Lebanon","$3,500,000",House/Villa,220 m²,3,3
-"Laqlouq, Jbeil
-                    , Mount Lebanon","$280,000",Land,800 m²,N/A,N/A
-"Shayle, Kesrouane
-                    , Mount Lebanon","$340,000",Land,851 m²,N/A,N/A
-"Down Town, Beirut
-                    , Beirut","$975,000",Apartment,195 m²,2,4
-"Ghazir, Kesrouane
-                    , Mount Lebanon","$450,000",House/Villa,410 m²,4,3
-"Hboub, Jbeil
-                    , Mount Lebanon","$350,000",Shop,730 m²,1,N/A
-"Mechmech, Jbeil
-                    , Mount Lebanon","$75,000",Land,034 m²,N/A,N/A
-"Achrafieh, Beirut
-                    , Beirut","$450,000",Apartment,240 m²,3,3
-"Jbeil, Jbeil
-                    , Mount Lebanon","$220,000",Shop,105 m²,1,N/A
-"Zikrit, El Metn
-                    , Mount Lebanon","$150,000",Apartment,180 m²,2,3
-"Aabeidat, Jbeil
-                    , Mount Lebanon","$250,000",Land,735 m²,N/A,N/A
-"Jbeil, Jbeil
-                    , Mount Lebanon","$850,000",Land,853 m²,N/A,N/A
-"Kfaryassine, Kesrouane
-                    , Mount Lebanon","$360,000",Apartment,200 m²,3,3
-"Mar Takla, Baabda
-                    , Mount Lebanon","$725,000",Apartment,320 m²,3,4
-"Azra, Kesrouane
-                    , Mount Lebanon","$500,000",Commercial Building,500 m²,N/A,N/A
-"Laqlouq, Jbeil
-                    , Mount Lebanon","$142,000",Chalet,71 m²,1,1
-"Laqlouq, Jbeil
-                    , Mount Lebanon","$135,000",Chalet,68 m²,1,1
-"Laqlouq, Jbeil
-                    , Mount Lebanon","$115,000",Chalet,67 m²,1,1
-"Laqlouq, Jbeil
-                    , Mount Lebanon","$135,000",Chalet,68 m²,1,1
-"Blat, Jbeil
-                    , Mount Lebanon","$90,000",Apartment,160 m²,3,2
-"Bnichaai, Zgharta
-                    , North","$850,000",House/Villa,445 m²,5,6
-"Yarzeh, Baabda
-                    , Mount Lebanon","$990,000",Apartment,295 m²,3,5
-"Yarzeh, Baabda
-                    , Mount Lebanon","$835,000",Apartment,255 m²,3,5
-"Yarzeh, Baabda
-                    , Mount Lebanon","$700,000",Apartment,255 m²,3,5
-"Biyada, El Metn
-                    , Mount Lebanon","$640,000",Apartment,300 m²,3,4
-"Broumana, El Metn
-                    , Mount Lebanon","$500,000",Apartment,180 m²,1,2
-"Dahr El Sawan, El Metn
-                    , Mount Lebanon","$230,000",Apartment,240 m²,3,4
-"Mar Chaaya, El Metn
-                    , Mount Lebanon","$780,000",Land,650 m²,N/A,N/A
-"Ghbale, Kesrouane
-                    , Mount Lebanon","$100,000",Land,500 m²,N/A,N/A
-"Qartaba, Jbeil
-                    , Mount Lebanon","$600,000",Land,550 m²,N/A,N/A
-"Dbayeh, El Metn
-                    , Mount Lebanon","$800,000",Apartment,300 m²,3,4
-"Baabdat, El Metn
-                    , Mount Lebanon","$850,000",House/Villa,050 m²,N/A,N/A
-"Zaarour, El Metn
-                    , Mount Lebanon","$220,000",Land,980 m²,N/A,N/A
-"Zouk Mikael, Kesrouane
-                    , Mount Lebanon","$250,000",Warehouse,500 m²,2,N/A
-"Fakra, Kesrouane
-                    , Mount Lebanon","$600,000",Chalet,200 m²,3,3
-"Ehmej, Jbeil
-                    , Mount Lebanon","$280,000",Land,400 m²,N/A,N/A
-"Baabda, Baabda
-                    , Mount Lebanon","$650,000",Apartment,270 m²,3,5
-"Zouk Mosbeh, Kesrouane
-                    , Mount Lebanon","$135,000",Apartment,105 m²,2,2
-"Halat, Jbeil
-                    , Mount Lebanon","$175,000",Apartment,240 m²,3,3
-"Jeita, Kesrouane
-                    , Mount Lebanon","$310,000",Apartment,165 m²,3,3
-"Badaro, Beirut
-                    , Beirut","$500,000",Apartment,185 m²,3,3
-"Al Jamhour, Baabda
-                    , Mount Lebanon","$535,000",Apartment,320 m²,3,3
-"Mansourieh, El Metn
-                    , Mount Lebanon","$70,000",Office,65 m²,1,N/A
-"Mansourieh, El Metn
-                    , Mount Lebanon","$1,100,000",House/Villa,000 m²,5,7
-"Achrafieh, Beirut
-                    , Beirut","$1,500,000",Apartment,379 m²,4,6
-"Kfar Kida, Jbeil
-                    , Mount Lebanon","$450,000",House/Villa,500 m²,2,4
-"Anfe, Koura
-                    , North","$600,000",Commercial Building,600 m²,2,N/A
-"Broumana, El Metn
-                    , Mount Lebanon","$400,000",Land,100 m²,N/A,N/A
-"Mazraat Yachouh, El Metn
-                    , Mount Lebanon","$420,000",Apartment,265 m²,4,4
-"Bteghrine, El Metn
-                    , Mount Lebanon","$300,000",Land,700 m²,N/A,N/A
-"Jouret Al Ballout, El Metn
-                    , Mount Lebanon","$500,000",Land,000 m²,N/A,N/A
-"Antelias, El Metn
-                    , Mount Lebanon","$250,000",Apartment,155 m²,3,2
-"Batroun, Batroun
-                    , North","$850,000",House/Villa,000 m²,4,4
-"Hboub, Jbeil
-                    , Mount Lebanon","$275,000",Apartment,300 m²,3,3
-"Rabieh, El Metn
-                    , Mount Lebanon","$1,400,000",Land,940 m²,N/A,N/A
-"Naccache, El Metn
-                    , Mount Lebanon","$250,000",Apartment,240 m²,3,3
-"Jdeideh, El Metn
-                    , Mount Lebanon","$320,000",Office,135 m²,1,N/A
-"Achrafieh, Beirut
-                    , Beirut","$1,300,000",Office,400 m²,N/A,N/A
-"Naccache, El Metn
-                    , Mount Lebanon","$2,500,000",Land,932 m²,N/A,N/A
-"Beit Chabeb, El Metn
-                    , Mount Lebanon","$2,200,000",Apartment,000 m²,6,4
-"Halat, Jbeil
-                    , Mount Lebanon","$378,000",Land,260 m²,N/A,N/A
-"Achrafieh, Beirut
-                    , Beirut","$340,000",Apartment,150 m²,3,3
-"Achrafieh, Beirut
-                    , Beirut","$700,000",Apartment,350 m²,4,4
-"Edde, Jbeil
-                    , Mount Lebanon","$160,000",Apartment,151 m²,3,3
-"Safra, Kesrouane
-                    , Mount Lebanon","$140,000",Apartment,165 m²,3,3
-"Klayaat, Kesrouane
-                    , Mount Lebanon","$150,000",Land,590 m²,N/A,N/A
-"Halat, Jbeil
-                    , Mount Lebanon","$320,000",Land,063 m²,N/A,N/A
-"Bikfaya, El Metn
-                    , Mount Lebanon","$1,800,000",House/Villa,250 m²,2,3
-"Hazmieh, Baabda
-                    , Mount Lebanon","$250,000",Apartment,150 m²,3,2
-"Adonis, Kesrouane
-                    , Mount Lebanon","$140,000",Apartment,200 m²,3,3
-"Aamchit, Jbeil
-                    , Mount Lebanon","$193,000",Land,962 m²,N/A,N/A
-"Zouk Mosbeh, Kesrouane
-                    , Mount Lebanon","$130,000",Apartment,177 m²,3,3
-"Dbayeh, El Metn
-                    , Mount Lebanon","$430,000",Apartment,210 m²,3,5
-"Mansourieh, El Metn
-                    , Mount Lebanon","$300,000",Land,300 m²,N/A,N/A
-"Deir Al Qamar, Chouf
-                    , Mount Lebanon","$350,000",Land,500 m²,N/A,N/A
-"Qortada, El Metn
-                    , Mount Lebanon","$260,000",House/Villa,100 m²,2,2
-"Baabda, Baabda
-                    , Mount Lebanon","$299,000",Apartment,200 m²,3,4
-"Baabdat, El Metn
-                    , Mount Lebanon","$250,000",Apartment,120 m²,2,2
-"Monteverde, El Metn
-                    , Mount Lebanon","$500,000",Apartment,240 m²,4,4
-"Zandouqa, El Metn
-                    , Mount Lebanon","$265,000",Land,649 m²,N/A,N/A
-"Broumana, El Metn
-                    , Mount Lebanon","$270,000",Apartment,125 m²,2,4
-"Sin El Fil, El Metn
-                    , Mount Lebanon","$4,500,000",Gas Station,050 m²,N/A,N/A
-"Chekka, Batroun
-                    , North","$1,300,000",Commercial Building,200 m²,N/A,N/A
-"chnaniir, Kesrouane
-                    , Mount Lebanon","$4,000,000",House/Villa,500 m²,7,N/A
-"Edde, Jbeil
-                    , Mount Lebanon","$272,000",Apartment,274 m²,4,5
-"Antelias, El Metn
-                    , Mount Lebanon","$250,000",Shop,100 m²,1,N/A
-"Biyada, El Metn
-                    , Mount Lebanon","$800,000",Land,000 m²,N/A,N/A
-"Beit Chabeb, El Metn
-                    , Mount Lebanon","$150,000",Apartment,230 m²,3,2
-"Faraya, Kesrouane
-                    , Mount Lebanon","$130,000",Land,900 m²,N/A,N/A
-"Anfe, Koura
-                    , North","$125,000",Apartment,163 m²,3,2
-"Jbeil, Jbeil
-                    , Mount Lebanon","$145,000",Apartment,150 m²,3,2
-"Sioufi, Beirut
-                    , Beirut","$1,200,000",Apartment,230 m²,2,3
-"Mansourieh, El Metn
-                    , Mount Lebanon","$229,000",Apartment,200 m²,3,3
-"Broumana, El Metn
-                    , Mount Lebanon","$230,000",Apartment,140 m²,3,3
-"Faraya, Kesrouane
-                    , Mount Lebanon","$300,000",Chalet,132 m²,2,2
-"Achrafieh, Beirut
-                    , Beirut","$3,000,000",Apartment,560 m²,3,4
-"Halat, Jbeil
-                    , Mount Lebanon","$230,000",Apartment,300 m²,4,4
-"Batroun, Batroun
-                    , North","$400,000",House/Villa,130 m²,2,2
-"Jounieh, Kesrouane
-                    , Mount Lebanon","$275,000",Apartment,228 m²,3,2
-"Badaro, Beirut
-                    , Beirut","$450,000",Apartment,235 m²,3,3
-"Hosrayel, Jbeil
-                    , Mount Lebanon","$125,000",Apartment,125 m²,3,2
-"Hosrayel, Jbeil
-                    , Mount Lebanon","$115,000",Apartment,115 m²,2,2
-"Haret Sakher, Kesrouane
-                    , Mount Lebanon","$380,000",Shop,300 m²,2,N/A
-"Beit Meri, El Metn
-                    , Mount Lebanon","$950,000",Land,772 m²,N/A,N/A
-"Mazraat Yachouh, El Metn
-                    , Mount Lebanon","$250,000",Warehouse,400 m²,2,N/A
-"Nabey, El Metn
-                    , Mount Lebanon","$1,300,000",Land,802 m²,N/A,N/A
-"Hazmieh, Baabda
-                    , Mount Lebanon","$825,000",Apartment,325 m²,4,5
-"Hboub, Jbeil
-                    , Mount Lebanon","$155,000",Apartment,150 m²,3,3
-"Jbeil, Jbeil
-                    , Mount Lebanon","$120,000",Apartment,110 m²,2,2
-"Halat, Jbeil
-                    , Mount Lebanon","$720,000",Land,401 m²,N/A,N/A
-"Hboub, Jbeil
-                    , Mount Lebanon","$185,000",Apartment,155 m²,3,3
-"Jbeil, Jbeil
-                    , Mount Lebanon","$305,000",Land,025 m²,N/A,N/A
-"Rabweh, El Metn
-                    , Mount Lebanon","$1,035,000",Land,300 m²,N/A,N/A
-"Baabda, Baabda
-                    , Mount Lebanon","$500,000",Apartment,250 m²,2,3
-"Broumana, El Metn
-                    , Mount Lebanon","$170,000",Apartment,150 m²,3,2
-"Chikhane, Jbeil
-                    , Mount Lebanon","$220,000",Land,260 m²,N/A,N/A
-"Fidar, Jbeil
-                    , Mount Lebanon","$15,000,000",Land,185 m²,N/A,N/A
-"Achrafieh, Beirut
-                    , Beirut","$650,000",Apartment,220 m²,3,3
-"Jdayel, Jbeil
-                    , Mount Lebanon","$135,000",Apartment,125 m²,2,2
-"Jbeil, Jbeil
-                    , Mount Lebanon","$300,000",Land,100 m²,N/A,N/A
-"Antelias, El Metn
-                    , Mount Lebanon","$325,000",Warehouse,400 m²,1,N/A
-"Aamchit, Jbeil
-                    , Mount Lebanon","$1,500,000",Land,408 m²,N/A,N/A
-"Monteverde, El Metn
-                    , Mount Lebanon","$300,000",Apartment,180 m²,3,3
-"Hboub, Jbeil
-                    , Mount Lebanon","$120,000",Apartment,160 m²,3,3
-"Jbeil, Jbeil
-                    , Mount Lebanon","$240,000",Land,200 m²,N/A,N/A
-"Blat, Jbeil
-                    , Mount Lebanon","$155,000",Apartment,150 m²,3,3
-"Achrafieh, Beirut
-                    , Beirut","$1,450,000",Land,324 m²,N/A,N/A
-"Broumana, El Metn
-                    , Mount Lebanon","$500,000",Apartment,275 m²,3,4
-"Broumana, El Metn
-                    , Mount Lebanon","$900,000",Apartment,355 m²,3,4
-"Mar Takla, Baabda
-                    , Mount Lebanon","$280,000",Apartment,180 m²,3,3
-"Jbeil, Jbeil
-                    , Mount Lebanon","$87,000",Apartment,100 m²,2,2
-"Blat, Jbeil
-                    , Mount Lebanon","$135,000",Apartment,125 m²,2,2
-"Aabeidat, Jbeil
-                    , Mount Lebanon","$300,000",House/Villa,300 m²,3,3

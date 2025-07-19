@@ -42,41 +42,132 @@ async def insert_trans_from_csv():
         
     print("Data inserted successfully!")
 
+# async def insert_city_from_csv():
+#     data = None
+#     for i in range(len(df_city["City"])):
+#         object = { "city": df_city["City"][i],
+#                     "avg_price in $": int(df_city["Avg Price $"][i]),
+#                     "median_price in $": int(df_city["Median Price $"][i]),
+#                     "max_price in $": int(df_city["Max Price $"][i]),
+#                     "min_price in $": int(df_city["Min Price $"][i]),
+#                     "listings_count": int(df_city["Listings Count"][i]), }
+#         try:
+#             data = await supabase.from_("district_prices").upsert(object).execute()
+#             print(f"Inserted row {i}")
+#         except Exception as e:
+#             print(f"Error occured: {e}")
+#             return
+#     print("Inserted Data Successfully!")
+
 async def insert_city_from_csv():
-    data = None
     for i in range(len(df_city["City"])):
-        object = { "city": df_city["City"][i],
-                    "avg_price in $": int(df_city["Avg Price $"][i]),
-                    "median_price in $": int(df_city["Median Price $"][i]),
-                    "max_price in $": int(df_city["Max Price $"][i]),
-                    "min_price in $": int(df_city["Min Price $"][i]),
-                    "listings_count": int(df_city["Listings Count"][i]), }
+        city_name = df_city["City"][i]
+        new_count = int(df_city["Listings Count"][i])
+        
         try:
-            data = await supabase.from_("district_prices").upsert(object).execute()
-            print(f"Inserted row {i}")
+            # Step 1: Check if the city already exists
+            existing = await supabase.from_("district_prices").select("*").eq("district", city_name).single().execute()
+            
+            # If city exists, update it
+            if existing.data:
+                existing_data = existing.data
+                updated_count = existing_data["listings_count"] + new_count
+                
+                updated_obj = {
+                    "district": city_name,
+                    "avg_price_$": int(df_city["Avg Price $"][i]),
+                    "median_price_$": int(df_city["Median Price $"][i]),
+                    "max_price_$": int(df_city["Max Price $"][i]),
+                    "min_price_$": int(df_city["Min Price $"][i]),
+                    "listings_count": updated_count,
+                }
+
+                await supabase.from_("district_prices").update(updated_obj).eq("district", city_name).execute()
+            else:
+                # Insert if city does not exist
+                object = {
+                    "district": city_name,
+                    "avg_price_$": int(df_city["Avg Price $"][i]),
+                    "median_price_$": int(df_city["Median Price $"][i]),
+                    "max_price_$": int(df_city["Max Price $"][i]),
+                    "min_price_$": int(df_city["Min Price $"][i]),
+                    "listings_count": new_count,
+                }
+                await supabase.from_("district_prices").insert(object).execute()
+
+            print(f"Handled row {i} for city: {city_name}")
+        
         except Exception as e:
-            print(f"Error occured: {e}")
-            return
-    print("Inserted Data Successfully!")
+            print(f"Error on row {i} for city {city_name}: {e}")
+            continue
+
+    print("All data handled successfully!")
+
+# async def insert_district_from_csv():
+#     data = None
+#     for i in range(len(df_dist["District"])):
+#         object = { "city": df_dist["District"][i],
+#                     "avg_price_$": int(df_dist["Avg Price $"][i]),
+#                     "median_price_$": int(df_dist["Median Price $"][i]),
+#                     "max_price_$": int(df_dist["Max Price $"][i]),
+#                     "min_price_$": int(df_dist["Min Price $"][i]),
+#                     "listings_count": int(df_dist["Listings Count"][i]),
+#                     "latitude" : float(df_dist["Latitude"][i]),
+#                     "longitude": float(df_dist["Longitude"][i]) }
+#         try:
+#             data = await supabase.from_("city_prices").upsert(object).execute()
+#             print(f"Inserted row {i}")
+#         except Exception as e:
+#             print(f"Error occured: {e}")
+#             return
+#     print("Inserted Data Successfully!")
 
 async def insert_district_from_csv():
-    data = None
     for i in range(len(df_dist["District"])):
-        object = { "city": df_dist["District"][i],
+        district_name = df_dist["District"][i]
+        new_count = int(df_dist["Listings Count"][i])
+        
+        try:
+            # Step 1: Check if district exists
+            existing = await supabase.from_("city_prices").select("*").eq("city", district_name).single().execute()
+            
+            if existing.data:
+                existing_data = existing.data
+                updated_count = existing_data["listings_count"] + new_count
+
+                updated_obj = {
+                    "city": district_name,
                     "avg_price_$": int(df_dist["Avg Price $"][i]),
                     "median_price_$": int(df_dist["Median Price $"][i]),
                     "max_price_$": int(df_dist["Max Price $"][i]),
                     "min_price_$": int(df_dist["Min Price $"][i]),
-                    "listings_count": int(df_dist["Listings Count"][i]),
-                    "latitude" : float(df_dist["Latitude"][i]),
-                    "longitude": float(df_dist["Longitude"][i]) }
-        try:
-            data = await supabase.from_("city_prices").upsert(object).execute()
-            print(f"Inserted row {i}")
+                    "listings_count": updated_count,
+                    "latitude": float(df_dist["Latitude"][i]),
+                    "longitude": float(df_dist["Longitude"][i]),
+                }
+
+                await supabase.from_("city_prices").update(updated_obj).eq("city", district_name).execute()
+            else:
+                # Insert if district does not exist
+                object = {
+                    "city": district_name,
+                    "avg_price_$": int(df_dist["Avg Price $"][i]),
+                    "median_price_$": int(df_dist["Median Price $"][i]),
+                    "max_price_$": int(df_dist["Max Price $"][i]),
+                    "min_price_$": int(df_dist["Min Price $"][i]),
+                    "listings_count": new_count,
+                    "latitude": float(df_dist["Latitude"][i]),
+                    "longitude": float(df_dist["Longitude"][i]),
+                }
+                await supabase.from_("city_prices").insert(object).execute()
+
+            print(f"Handled row {i} for district: {district_name}")
+
         except Exception as e:
-            print(f"Error occured: {e}")
-            return
-    print("Inserted Data Successfully!")
+            print(f"Error on row {i} for district {district_name}: {e}")
+            continue
+
+    print("All district data handled successfully!")
 
 
 async def insert_properties_from_csv():
@@ -101,34 +192,57 @@ async def insert_properties_from_csv():
             return
     print("Inserted Data Successfully!")
 
-# async def insert_province_from_csv():
-#     data = None
-#     for i in range(len(df_prov["Province"])):
-#         object = { "province": df_prov["Province"][i],
-#                     "avg_price_$": int(df_prov["Avg Price $"][i]),
-#                     "median_price_$": int(df_prov["Median Price $"][i]),
-#                     "max_price_$": int(df_prov["Max Price $"][i]),
-#                     "min_price_$": int(df_prov["Min Price $"][i]),
-#                     "listings_count": int(df_prov["Listings Count"][i]),
-#                     "latitude": float(df_prov["Latitude"][i]),
-#                     "longitude": float(df_prov["Longitude"][i]), }
-#         try:
-#             data = await supabase.from_("provinces").upsert(object).execute()
-#             print(f"Inserted row {i}")
-#         except Exception as e:
-#             print(f"Error occured: {e}")
-#             return
-#     print("Inserted Data Successfully!")
+async def insert_province_from_csv():
+    for i in range(len(df_prov["Province"])):
+        province_name = df_prov["Province"][i]
+        new_count = int(df_prov["Listings Count"][i])
+
+        try:
+            existing_records = await supabase.from_("provinces").select("*").eq("province", province_name).single().execute()
+            lat = float(existing_records.data["latitude"])
+            longt = float(existing_records.data["longitude"])
+            
+            if existing_records.data:
+                updated_count = existing_records.data["listings_count"] + new_count
+
+                updated_object = { "province": province_name,
+                        "avg_price_$": int(df_prov["Avg Price $"][i]),
+                        "median_price_$": int(df_prov["Median Price $"][i]),
+                        "max_price_$": int(df_prov["Max Price $"][i]),
+                        "min_price_$": int(df_prov["Min Price $"][i]),
+                        "listings_count": updated_count,
+                        "latitude": lat,
+                        "longitude": longt,
+                    }
+                
+                await supabase.from_("provinces").update(updated_object).eq("province", province_name).execute()
+            
+            else:
+                object = { "province": df_prov["Province"][i],
+                            "avg_price_$": int(df_prov["Avg Price $"][i]),
+                            "median_price_$": int(df_prov["Median Price $"][i]),
+                            "max_price_$": int(df_prov["Max Price $"][i]),
+                            "min_price_$": int(df_prov["Min Price $"][i]),
+                            "listings_count": int(df_prov["Listings Count"][i]),
+                            "latitude": lat,
+                            "longitude": longt, }
+                
+                await supabase.from_("provinces").insert(object).execute()
+                print(f"Handled row {i} for province: {province_name}")
+        except Exception as e:
+            print(f"Error occured at row {i} for province {province_name}: {e}")
+            return
+    print("Inserted Data Successfully!")
 
 async def main():
     print("Main function is running")
 
     # Load the data into tables as needed
     results = await asyncio.gather(establish_connection(), 
-                                   insert_trans_from_csv(), 
                                    insert_properties_from_csv(), 
                                    insert_district_from_csv(),
-                                   insert_city_from_csv())
+                                   insert_city_from_csv(),
+                                   insert_province_from_csv())
 
     print("Main function is done")
     print(results)

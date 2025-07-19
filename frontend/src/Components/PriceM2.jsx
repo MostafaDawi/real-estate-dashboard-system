@@ -10,21 +10,31 @@ import {
   Tooltip,
 } from "recharts";
 
-const PriceM2 = ({ data }) => {
+const PriceM2 = ({ data, estate_specific_type = null }) => {
   const [chartData, setChartData] = useState([]);
-
+  console.log("estate type: ", estate_specific_type);
   useEffect(() => {
     if (data) {
       setChartData(
         data?.map((prop) => ({
           city: prop?.city,
           province: prop?.province,
-          price_in_m2: (prop?.price_$ / prop?.size_m2).toFixed(2),
+          price_in_m2: prop?.size_m2
+            ? parseFloat((prop?.price_$ / prop?.size_m2).toFixed(2))
+            : null,
           type: prop?.type,
         }))
       );
+      // setChartData(
+      //   properties_data?.filter(
+      //     (prop) =>
+      //       prop?.type?.toLowerCase().trim() ===
+      //       estate_specific_type?.toLowerCase().trim()
+      //   )
+      // );
     }
-  }, [data]);
+  }, [data, estate_specific_type]);
+  console.log("Estate type: ", chartData[0]?.type);
 
   // Calculate the max value of price_in_m2 dynamically
   const maxPriceInM2 = Math.max(
@@ -43,7 +53,10 @@ const PriceM2 = ({ data }) => {
           <YAxis domain={[0, maxPriceInM2]} />
           <XAxis dataKey="city" />
           <Tooltip />
-          <Bar dataKey="price_in_m2" fill="#df9902" />
+          <Bar
+            dataKey="price_in_m2"
+            fill={estate_specific_type ? estate_specific_type : "#df9902"}
+          />
           <Legend />
         </BarChart>
       </ResponsiveContainer>
